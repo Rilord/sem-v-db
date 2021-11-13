@@ -1,0 +1,3582 @@
+city,country,admin_name,capital,population,id
+Smithfield,United States,North Carolina,,32156.0,1840017795
+Wilson,United States,Pennsylvania,,7807.0,1840000984
+Half Moon Bay,United States,California,,23653.0,1840020303
+Mountain Home,United States,Idaho,,16945.0,1840020017
+Sakai,Japan,Ibaraki,,24035.0,1392827163
+Macau,Macau,,,568700.0,1446227359
+Nutley,United States,New Jersey,,28478.0,1840131593
+Weyburn,Canada,Saskatchewan,,10870.0,1124618383
+Lake Park,United States,Florida,,8556.0,1840017258
+Palembang,Indonesia,Sumatera Selatan,admin,1452456.0,1360902897
+Newton,United States,Massachusetts,,88414.0,1840000433
+Quincy,United States,Massachusetts,,94470.0,1840000461
+Culiacan,Mexico,Sinaloa,admin,785800.0,1484516810
+Baltimore,United States,Maryland,,2106068.0,1840001592
+Lynn Haven,United States,Florida,,20525.0,1840015922
+Ogaki,Japan,Gifu,,158386.0,1392727505
+Riyadh,Saudi Arabia,Ar Riyāḑ,primary,6881000.0,1682999334
+Laredo,United States,Texas,,262491.0,1840021002
+Arroyo Grande,United States,California,,54177.0,1840019125
+Roseland,United States,New Jersey,,5835.0,1840000998
+Biddeford,United States,Maine,,21504.0,1840000342
+Kirksville,United States,Missouri,,17602.0,1840008372
+St. Joseph,United States,Missouri,,79161.0,1840009549
+Santa Barbara,United States,California,,202401.0,1840021829
+Pampa,United States,Texas,,17230.0,1840022939
+Concord,United States,California,,652308.0,1840018905
+Boynton Beach,United States,Florida,,78679.0,1840014208
+Tours,France,Centre-Val de Loire,minor,135787.0,1250635972
+Batavia,United States,Illinois,,26420.0,1840007035
+Palma,Spain,Balearic Islands,admin,550000.0,1724728111
+Green Brook,United States,New Jersey,,7114.0,1840081702
+Byron Center,United States,Michigan,,7089.0,1840004306
+Brownwood,United States,Texas,,21729.0,1840019519
+Matsudo,Japan,Chiba,,492367.0,1392642525
+Nakhon Ratchasima,Thailand,Nakhon Ratchasima,admin,134440.0,1764752197
+Toyohashi,Japan,Aichi,,371507.0,1392482960
+Brisbane,Australia,Queensland,admin,2514184.0,1036192929
+Gangneung,"Korea, South",Gangwon,minor,215677.0,1410450550
+Horn Lake,United States,Mississippi,,27272.0,1840014643
+Northampton,United States,Pennsylvania,,39263.0,1840151117
+Gardendale,United States,Alabama,,14177.0,1840002820
+Burtonsville,United States,Maryland,,9823.0,1840005827
+Worthington,United States,Ohio,,14692.0,1840010522
+Mexico,Philippines,Pampanga,,154624.0,1608191667
+Moab,United States,Utah,,7278.0,1840020227
+Amsterdam,Netherlands,Noord-Holland,primary,862965.0,1528355309
+Prospect,United States,Connecticut,,9705.0,1840035549
+Corte Madera,United States,California,,9751.0,1840022519
+Uniondale,United States,New York,,32007.0,1840005279
+Waynesville,United States,North Carolina,,10141.0,1840016297
+Rohnert Park,United States,California,,43291.0,1840020243
+Goshen,United States,Indiana,,34217.0,1840013733
+Short Hills,United States,New Jersey,,13428.0,1840033408
+West Hollywood,United States,California,,36475.0,1840028098
+Spanish Fort,United States,Alabama,,9214.0,1840015879
+Bristol,United Kingdom,"Bristol, City of",,724000.0,1826921049
+Gwangju,"Korea, South",Gwangju,admin,1490092.0,1410000087
+Amadora,Portugal,Lisboa,minor,175136.0,1620896557
+Strathmore,Canada,Alberta,,13756.0,1124000881
+Los Altos,United States,California,,30089.0,1840020328
+Milwaukie,United States,Oregon,,20990.0,1840019952
+Smithers,Canada,British Columbia,,5351.0,1124191574
+San Marino,San Marino,San Marino Città,primary,4040.0,1674741947
+Apex,United States,North Carolina,,59300.0,1840015355
+Soquel,United States,California,,10883.0,1840018957
+Haywards Heath,United Kingdom,West Sussex,,22800.0,1826565038
+Tustin,United States,California,,79348.0,1840021967
+Cedar Falls,United States,Iowa,,40536.0,1840006946
+Hinsdale,United States,Illinois,,17637.0,1840011403
+Storrs,United States,Connecticut,,16352.0,1840003276
+Wellesley,United States,Massachusetts,,28747.0,1840053560
+Portland,United States,Oregon,,2074775.0,1840019941
+Copiague,United States,New York,,23561.0,1840005031
+Red Deer,Canada,Alberta,,100418.0,1124404130
+LaGrange,United States,Georgia,,35721.0,1840029147
+Burr Ridge,United States,Illinois,,10758.0,1840010168
+Lexington,United States,Kentucky,,323152.0,1840015211
+Pomona,United States,California,,151691.0,1840020507
+Mugla,Turkey,Muğla,admin,56619.0,1792992104
+Hermosillo,Mexico,Sonora,admin,812229.0,1484015319
+Sulzbach,Germany,Saarland,,16468.0,1276579983
+Hialeah,United States,Florida,,233339.0,1840015157
+Eureka,United States,California,,44236.0,1840009558
+Sevierville,United States,Tennessee,,25557.0,1840015359
+Thiais,France,Île-de-France,,29017.0,1250126108
+Bennington,United States,Vermont,,15097.0,1840070381
+Thompson,United States,New York,,14935.0,1840058541
+Grimsby,United Kingdom,North East Lincolnshire,,88243.0,1826700880
+Westwood,United States,Massachusetts,,16136.0,1840053561
+Ponce,Puerto Rico,Puerto Rico,,113401.0,1630023669
+Blairsville,United States,Pennsylvania,,6654.0,1840000990
+Beverly Hills,United States,California,,33792.0,1840019231
+Johor Bahru,Malaysia,Johor,admin,797882.0,1458747615
+Colby,United States,Kansas,,5445.0,1840001553
+Plymouth Meeting,United States,Pennsylvania,,6947.0,1840005459
+Hanford,United States,California,,94028.0,1840020382
+Slidell,United States,Louisiana,,93040.0,1840015911
+Keystone,United States,Florida,,25493.0,1840028914
+Clay,United States,New York,,59364.0,1840057989
+Kentwood,United States,Michigan,,51898.0,1840002930
+Kapaa,United States,Hawaii,,10580.0,1840029499
+Tekirdag,Turkey,Tekirdağ,admin,1029927.0,1792519395
+Littleton,United States,Colorado,,48065.0,1840020213
+Coacalco,Mexico,México,minor,278064.0,1484929782
+La Grange,United States,Illinois,,15322.0,1840011255
+Boulder,United States,Colorado,,124345.0,1840018774
+Narashino,Japan,Chiba,,174990.0,1392933042
+Mandaluyong City,Philippines,Mandaluyong,admin,386276.0,1608166320
+Beppu,Japan,Ōita,,115992.0,1392115605
+Pathum Thani,Thailand,Pathum Thani,admin,13987.0,1764434288
+Gifu,Japan,Gifu,admin,400118.0,1392097787
+Fort Madison,United States,Iowa,,10321.0,1840008321
+Pleasanton,United States,California,,81777.0,1840020298
+Richardson,United States,Texas,,121323.0,1840020710
+Valley Stream,United States,New York,,37431.0,1840005331
+Loganville,United States,Georgia,,12880.0,1840015656
+Weybridge,United Kingdom,Surrey,,15449.0,1826438211
+Darnestown,United States,Maryland,,6462.0,1840005833
+Warsaw,Poland,Mazowieckie,primary,1790658.0,1616024847
+Fairview,United States,New Jersey,,14189.0,1840003549
+Northborough,United States,Massachusetts,,15056.0,1840053597
+Ithaca,United States,New York,,55137.0,1840000442
+Kent,United States,Washington,,132319.0,1840018424
+Kerrville,United States,Texas,,30623.0,1840020908
+Dahlonega,United States,Georgia,,7294.0,1840014672
+Racine,United States,Wisconsin,,130142.0,1840002493
+Castro Valley,United States,California,,63013.0,1840017620
+Greenwich,United States,Connecticut,,62587.0,1840034747
+Toyama,Japan,Toyama,admin,413028.0,1392000560
+Coeur d'Alene,United States,Idaho,,116834.0,1840018402
+Lake Zurich,United States,Illinois,,19877.0,1840011160
+Anoka,United States,Minnesota,,17549.0,1840006717
+Antelope,United States,California,,48398.0,1840022490
+Schiller Park,United States,Illinois,,11403.0,1840011320
+Dearborn Heights,United States,Michigan,,55353.0,1840003970
+Reynoldsburg,United States,Ohio,,38327.0,1840009473
+Surin,Thailand,Surin,admin,39728.0,1764813179
+Oxon Hill,United States,Maryland,,18080.0,1840026688
+Ipoh,Malaysia,Perak,admin,866772.0,1458423505
+Joplin,United States,Missouri,,84048.0,1840008771
+Deming,United States,New Mexico,,13924.0,1840019458
+Marshalltown,United States,Iowa,,26666.0,1840008112
+Camarillo,United States,California,,76931.0,1840019201
+Pittsfield,United States,Massachusetts,,55697.0,1840003116
+Paisley,United Kingdom,Renfrewshire,,77310.0,1826549531
+Sugar Land,United States,Texas,,118488.0,1840022217
+Rockville,United States,Maryland,,68079.0,1840005849
+Plano,United States,Texas,,287677.0,1840020662
+Cave Creek,United States,Arizona,,5838.0,1840022915
+Brentwood,United States,New York,,63399.0,1840005021
+Somers,United States,New York,,21487.0,1840058503
+Benton,United States,Arkansas,,36820.0,1840013572
+Lufkin,United States,Texas,,44867.0,1840020840
+Haltom City,United States,Texas,,43874.0,1840020698
+Gas City,United States,Indiana,,5772.0,1840008338
+Villa Park,United States,Illinois,,21483.0,1840011412
+Corpus Christi,United States,Texas,,342464.0,1840019718
+Alicante,Spain,Valencia,minor,337482.0,1724923163
+Tupelo,United States,Mississippi,,45466.0,1840015561
+Bethel Park,United States,Pennsylvania,,32345.0,1840001206
+Kerman,Iran,Kermān,admin,573449.0,1364554896
+Phillipsburg,United States,New Jersey,,14212.0,1840000944
+Harmelen,Netherlands,Utrecht,,7884.0,1528649353
+Casper,United States,Wyoming,,67598.0,1840038324
+Fort Washington,United States,Maryland,,24237.0,1840005953
+Nanuet,United States,New York,,17517.0,1840004963
+Palmer,United States,Pennsylvania,,21345.0,1840149341
+Brea,United States,California,,43255.0,1840019323
+Bessemer,United States,Alabama,,26472.0,1840013732
+Buda,United States,Texas,,16906.0,1840019605
+Reynosa,Mexico,Tamaulipas,minor,725793.0,1484737671
+Fernie,Canada,British Columbia,,5249.0,1124927114
+Great Neck,United States,New York,,10209.0,1840005290
+Aachen,Germany,North Rhine-Westphalia,minor,247380.0,1276805572
+Mills River,United States,North Carolina,,7406.0,1840016370
+Fairfax,United States,Virginia,,24019.0,1840001650
+Absecon,United States,New Jersey,,8818.0,1840003797
+Chaguanas,Trinidad And Tobago,Chaguanas,admin,83489.0,1780795054
+Bemidji,United States,Minnesota,,16807.0,1840006600
+Fort Knox,United States,Kentucky,,8695.0,1840073833
+Christchurch,New Zealand,Canterbury,admin,377200.0,1554377228
+Sechelt,Canada,British Columbia,,10200.0,1124845591
+Wolverhampton,United Kingdom,Wolverhampton,,254406.0,1826636841
+Knoxville,United States,Tennessee,,586048.0,1840014486
+North Ogden,United States,Utah,,20582.0,1840020134
+Unionville,United States,North Carolina,,7195.0,1840016457
+Stony Brook,United States,New York,,12428.0,1840005104
+Gray,United States,Maine,,8117.0,1840052837
+Wenzhou,China,Zhejiang,,4310000.0,1156188829
+Wilmette,United States,Illinois,,27089.0,1840011316
+Wakayama,Japan,Wakayama,admin,353299.0,1392907296
+Menlo Park,United States,California,,34698.0,1840020305
+Mequon,United States,Wisconsin,,24382.0,1840037989
+Aliso Viejo,United States,California,,50887.0,1840019321
+Evergreen,United States,Colorado,,8885.0,1840017539
+Celebration,United States,Florida,,9923.0,1840014138
+Barre,United States,Vermont,,20421.0,1840002186
+Fort Bragg,United States,California,,10374.0,1840020189
+Cheshire,United States,Connecticut,,29147.0,1840044994
+McAllen,United States,Texas,,804114.0,1840021024
+Hauppauge,United States,New York,,20005.0,1840005077
+Oranjestad,Aruba,,primary,34980.0,1533513057
+Fort Saskatchewan,Canada,Alberta,,24149.0,1124769097
+Ensenada,Mexico,Baja California,minor,522768.0,1484714297
+Blackhawk,United States,California,,9604.0,1840028358
+West Covina,United States,California,,105101.0,1840021876
+New Providence,United States,New Jersey,,13595.0,1840001095
+Chiryu,Japan,Aichi,,71907.0,1392192403
+'s-Hertogenbosch,Netherlands,Noord-Brabant,admin,134520.0,1528012333
+Suwanee,United States,Georgia,,20907.0,1840015616
+Caguas,Puerto Rico,Puerto Rico,,73322.0,1630023540
+Olivette,United States,Missouri,,7822.0,1840009743
+Marikina City,Philippines,Marikina,admin,450741.0,1608000077
+Nipomo,United States,California,,17601.0,1840019122
+Galloway,United States,New Jersey,,36094.0,1840081583
+Apopka,United States,Florida,,53447.0,1840014093
+North Vancouver,Canada,British Columbia,,85935.0,1124000146
+Nashua,United States,New Hampshire,,233917.0,1840002984
+Port of Spain,Trinidad And Tobago,Port of Spain,primary,37074.0,1780670676
+Mount Kisco,United States,New York,,10795.0,1840004936
+Lake Delton,United States,Wisconsin,,5609.0,1840002718
+Jiaxing,China,Zhejiang,minor,4501657.0,1156491661
+Collingwood,Canada,Ontario,,21793.0,1124219884
+Horsham,United Kingdom,West Sussex,,50934.0,1826018789
+Spring Hill,United States,Florida,,111076.0,1840014105
+Cabanatuan City,Philippines,Nueva Ecija,,302231.0,1608247694
+Lindsay,United States,California,,16713.0,1840020367
+Midwest City,United States,Oklahoma,,57407.0,1840020425
+Lincoln City,United States,Oregon,,12172.0,1840019974
+New Fairfield,United States,Connecticut,,13955.0,1840035500
+Forestville,United States,Maryland,,12342.0,1840005942
+Missoula,United States,Montana,,92895.0,1840019840
+Ridgeland,United States,Mississippi,,24104.0,1840014873
+Oneonta,United States,New York,,17236.0,1840000405
+Gent,Belgium,Flanders,minor,262219.0,1056062897
+Rio de Janeiro,Brazil,Rio de Janeiro,admin,12272000.0,1076887657
+Sunrise,United States,Florida,,95166.0,1840016000
+Royal Oak,United States,Michigan,,59277.0,1840002430
+Derby,United Kingdom,Derby,,270500.0,1826333435
+Yorkshire,United States,Virginia,,9639.0,1840006107
+Waycross,United States,Georgia,,23671.0,1840015871
+Denpasar,Indonesia,Bali,admin,834881.0,1360848527
+Salinas,United States,California,,190972.0,1840021632
+Sejong,"Korea, South",Sejong,admin,,1410002592
+Essen,Germany,North Rhine-Westphalia,minor,583109.0,1276769247
+Coral Springs,United States,Florida,,133759.0,1840015134
+Beloit,United States,Wisconsin,,63762.0,1840002471
+Pinehurst,United States,North Carolina,,45935.0,1840017852
+Dorval,Canada,Quebec,,18980.0,1124933556
+San Bruno,United States,California,,42807.0,1840021549
+South Pasadena,United States,California,,25329.0,1840021871
+South Riding,United States,Virginia,,31515.0,1840024507
+Douglas,Isle Of Man,,primary,35854.0,1833688345
+Glenwood Springs,United States,Colorado,,11962.0,1840020184
+Hampshire,United States,Illinois,,6251.0,1840011343
+Buenos Aires,Argentina,"Buenos Aires, Ciudad Autónoma de",primary,16157000.0,1032717330
+Fridley,United States,Minnesota,,27826.0,1840007798
+Brookhaven,United States,New York,,483546.0,1840057464
+El Paso,United States,Texas,,843386.0,1840023252
+San Pablo,Philippines,Laguna,,266068.0,1608801564
+Fort Mitchell,United States,Kentucky,,8241.0,1840013170
+Shelbyville,United States,Kentucky,,24351.0,1840015205
+Rogers,United States,Arkansas,,68669.0,1840014444
+Jacksonville,United States,Florida,,1181496.0,1840015031
+Massapequa,United States,New York,,21784.0,1840005274
+Brick,United States,New Jersey,,75342.0,1840081606
+Keene,United States,New Hampshire,,22786.0,1840003050
+Balanga,Philippines,Bataan,admin,96061.0,1608467104
+Bekasi,Indonesia,Jawa Barat,,2381053.0,1360006015
+Gloucester,United States,New Jersey,,63705.0,1840081684
+Amarillo,United States,Texas,,205603.0,1840019156
+Whitefish,United States,Montana,,8295.0,1840021047
+Los Alamitos,United States,California,,11399.0,1840020579
+Michigan City,United States,Indiana,,65058.0,1840013869
+Glasgow,United Kingdom,Glasgow City,,985290.0,1826836462
+Asheville,United States,North Carolina,,312507.0,1840013411
+Crestwood,United States,Missouri,,11834.0,1840007442
+West Vancouver,Canada,British Columbia,,42473.0,1124001824
+Villeurbanne,France,Auvergne-Rhône-Alpes,,147712.0,1250002615
+Braintree,United Kingdom,Essex,,53477.0,1826745611
+Saida,Algeria,Saïda,admin,128413.0,1012285874
+Desert Hot Springs,United States,California,,43914.0,1840019306
+Stanton,United States,California,,38139.0,1840021966
+Bath,United Kingdom,Bath and North East Somerset,,88859.0,1826611282
+Chelan,United States,Washington,,6212.0,1840018369
+Sioux City,United States,Iowa,,106455.0,1840000447
+Sylvania,United States,Ohio,,19311.0,1840009255
+Regina,Canada,Saskatchewan,,215106.0,1124342541
+Ossining,United States,New York,,37642.0,1840004937
+Dresden,Germany,Saxony,admin,556549.0,1276561036
+Mazatlan,Mexico,Sinaloa,minor,502547.0,1484841466
+Yamaguchi,Japan,Yamaguchi,admin,,1392887215
+Elburn,United States,Illinois,,5997.0,1840011347
+Huntingdon,United Kingdom,Cambridgeshire,,23732.0,1826796900
+Benbrook,United States,Texas,,23502.0,1840019425
+East Northport,United States,New York,,20190.0,1840005039
+The Colony,United States,Texas,,44438.0,1840022005
+Chesterfield,United States,Missouri,,47538.0,1840007446
+Takaoka,Japan,Hokkaidō,,174806.0,1392760442
+Montreal,Canada,Quebec,,3519595.0,1124586170
+Palm Beach,United States,Florida,,8816.0,1840017267
+Scottsbluff,United States,Nebraska,,25114.0,1840009197
+River Ridge,United States,Louisiana,,13337.0,1840013995
+Bridgeport,United States,Connecticut,,924449.0,1840004836
+Dubuque,United States,Iowa,,68109.0,1840000438
+Soledad,Colombia,Atlántico,minor,698852.0,1170765625
+Kihei,United States,Hawaii,,22402.0,1840029507
+Leverkusen,Germany,North Rhine-Westphalia,minor,163838.0,1276002465
+Cos Cob,United States,Connecticut,,6990.0,1840026281
+Thousand Oaks,United States,California,,215029.0,1840021844
+Eagle Mountain,United States,Utah,,38391.0,1840018757
+Findlay,United States,Ohio,,48469.0,1840000886
+Fuquay-Varina,United States,North Carolina,,30324.0,1840016197
+Onalaska,United States,Wisconsin,,18943.0,1840002579
+Santo Andre,Brazil,São Paulo,,710210.0,1076625886
+North Hills,United States,New York,,5969.0,1840005314
+Londonderry,United States,New Hampshire,,25927.0,1840055138
+Walla Walla,United States,Washington,,57860.0,1840021174
+Palm Harbor,United States,Florida,,62310.0,1840014143
+Brooks,Canada,Alberta,,14451.0,1124093123
+Isla Vista,United States,California,,27707.0,1840017887
+Campbell River,Canada,British Columbia,,35138.0,1124851971
+Crestview,United States,Florida,,39072.0,1840015007
+Izumo,Japan,Shimane,,171995.0,1392299364
+Canakkale,Turkey,Çanakkale,admin,180823.0,1792403093
+Red Bluff,United States,California,,19039.0,1840020176
+Kuching,Malaysia,Sarawak,admin,325132.0,1458462262
+Frankfort,United States,Kentucky,admin,38852.0,1840013210
+Gulfport,United States,Mississippi,,220987.0,1840013947
+Spokane,United States,Washington,,412275.0,1840021093
+Fukui,Japan,Fukui,admin,260263.0,1392897510
+Bauru,Brazil,São Paulo,,366992.0,1076905338
+Thornhill,United Kingdom,Kirklees,,6875.0,1826942452
+Blacksburg,United States,Virginia,,91888.0,1840006446
+Montclair,United States,California,,40083.0,1840020408
+Warrington,United Kingdom,Warrington,,165456.0,1826261547
+Lakeport,United States,California,,17466.0,1840020220
+Fairlawn,United States,Ohio,,7514.0,1840008253
+Morris Plains,United States,New Jersey,,6255.0,1840003576
+Philadelphia,United States,Pennsylvania,,5649300.0,1840000673
+Sturgeon Bay,United States,Wisconsin,,8934.0,1840003935
+Niiza,Japan,Saitama,,164653.0,1392772700
+East Brunswick,United States,New Jersey,,47819.0,1840081693
+Seaside,United States,California,,116720.0,1840021634
+Greenfield,United States,California,,17646.0,1840020356
+Merida,Mexico,Yucatán,admin,892363.0,1484396779
+Nogales,Mexico,Veracruz,minor,21113.0,1484829832
+Amityville,United States,New York,,9399.0,1840005140
+Baldock,United Kingdom,Hertfordshire,,9900.0,1826427353
+Airdrie,Canada,Alberta,,61581.0,1124990202
+Lock Haven,United States,Pennsylvania,,16490.0,1840003450
+Rincon,United States,Georgia,,14201.0,1840018091
+Wilton,United States,Connecticut,,18463.0,1840045106
+Brooklyn,United States,New York,,2559903.0,1840034030
+West Caldwell,United States,New Jersey,,10858.0,1840131595
+Commerce City,United States,Colorado,,60336.0,1840018785
+Moose Jaw,Canada,Saskatchewan,,33890.0,1124806868
+Hopkinton,United States,Massachusetts,,17598.0,1840053637
+Fukushima,Japan,Fukushima,admin,284282.0,1392570027
+Flossmoor,United States,Illinois,,9155.0,1840011274
+Sao Bernardo do Campo,Brazil,São Paulo,,844483.0,1076793227
+La Puente,United States,California,,39614.0,1840020513
+Gulf Breeze,United States,Florida,,6900.0,1840013920
+Hilversum,Netherlands,Noord-Holland,minor,87817.0,1528160832
+Hales Corners,United States,Wisconsin,,7567.0,1840003040
+Newcastle,United Kingdom,Newcastle upon Tyne,,1650000.0,1826292220
+Lucas,United States,Texas,,8553.0,1840020656
+St. Louis Park,United States,Minnesota,,48662.0,1840008935
+Pasco,United States,Washington,,75432.0,1840019888
+Klamath Falls,United States,Oregon,,43246.0,1840020054
+Northridge,United States,Ohio,,7278.0,1840034124
+Aydin,Turkey,Aydın,admin,191037.0,1792696058
+Fairborn,United States,Ohio,,33876.0,1840008440
+Beachwood,United States,Ohio,,11590.0,1840003395
+Abington,United States,Pennsylvania,,55459.0,1840035369
+Mori,Japan,Shizuoka,,17333.0,1392757253
+Moncton,Canada,New Brunswick,,108620.0,1124521303
+Moron,Mongolia,Hövsgöl,admin,134530.0,1496482400
+Angono,Philippines,Rizal,,113283.0,1608373503
+Edwards,United States,Colorado,,9350.0,1840017535
+Toms River,United States,New Jersey,,92325.0,1840081605
+Jasper,United States,Indiana,,16477.0,1840008646
+Coronado,United States,California,,23731.0,1840019354
+Toluca,Mexico,México,admin,819561.0,1484124846
+Novi,United States,Michigan,,60896.0,1840002423
+Angeles City,Philippines,Angeles,admin,411634.0,1608036027
+Aurora,United States,Colorado,,379289.0,1840018794
+Los Angeles,United States,California,,12750807.0,1840020491
+Sachse,United States,Texas,,26046.0,1840020712
+Reading,United Kingdom,Reading,,337108.0,1826869043
+Briarcliff Manor,United States,New York,,8094.0,1840004948
+Ocean,United States,New Jersey,,26709.0,1840056382
+Lee's Summit,United States,Missouri,,99357.0,1840032155
+Bend,United States,Oregon,,109802.0,1840018618
+Bronxville,United States,New York,,6408.0,1840004949
+Hingham,United States,Massachusetts,,23652.0,1840053569
+Swampscott,United States,Massachusetts,,15002.0,1840053540
+Escalon,United States,California,,7601.0,1840020262
+Bloomsburg,United States,Pennsylvania,,49840.0,1840000811
+Medan,Indonesia,Sumatera Utara,admin,2210625.0,1360543171
+Richland,United States,Washington,,58225.0,1840019889
+Kumamoto,Japan,Kumamoto,admin,738567.0,1392106283
+Singapore,Singapore,Central Singapore,primary,5745000.0,1702341327
+La Verne,United States,California,,31974.0,1840020514
+Portsmouth,United Kingdom,Portsmouth,,855679.0,1826964096
+Arnhem,Netherlands,Gelderland,admin,148070.0,1528862562
+Wandsworth,United Kingdom,Wandsworth,,61594.0,1826844924
+Wheaton,United States,Maryland,,50229.0,1840031295
+Carrollton,United States,Texas,,139248.0,1840019436
+Crossville,United States,Tennessee,,17825.0,1840014489
+Chapel Hill,United States,North Carolina,,64051.0,1840016152
+Woodbury,United States,Minnesota,,72828.0,1840009998
+Jessup,United States,Maryland,,9509.0,1840005919
+Marina,United States,California,,22781.0,1840020357
+Burnsville,United States,Minnesota,,61339.0,1840006766
+Snoqualmie,United States,Washington,,26289.0,1840021119
+Pinellas Park,United States,Florida,,53637.0,1840015112
+Inazawa,Japan,Aichi,,134938.0,1392019493
+Canterbury,United Kingdom,Kent,,55240.0,1826094061
+Stillwater,United States,Oklahoma,,50299.0,1840021675
+Melville,United States,New York,,17716.0,1840005044
+Kakamigahara,Japan,Gifu,,143641.0,1392578597
+Pembroke,United Kingdom,Pembrokeshire,,7552.0,1826380894
+Woodmere,United States,New York,,17470.0,1840005284
+Guatemala City,Guatemala,Guatemala,primary,2450212.0,1320197916
+Slough,United Kingdom,Slough,,164455.0,1826807636
+Mayfield Heights,United States,Ohio,,18487.0,1840000613
+Clemmons,United States,North Carolina,,20867.0,1840017728
+Colton,United States,California,,54824.0,1840019120
+Los Gatos,United States,California,,30222.0,1840021575
+Laguna Niguel,United States,California,,66385.0,1840020589
+Morioka,Japan,Iwate,admin,290553.0,1392981957
+Kasugai,Japan,Aichi,,306449.0,1392431449
+Mougins,France,Provence-Alpes-Côte d’Azur,,19489.0,1250320161
+West Babylon,United States,New York,,42665.0,1840005109
+Rio Rancho,United States,New Mexico,,99178.0,1840020387
+Elko,United States,Nevada,,21179.0,1840020120
+Brawley,United States,California,,26309.0,1840019378
+Crete,United States,Illinois,,8023.0,1840011484
+Newnan,United States,Georgia,,41581.0,1840014833
+Seogwipo,"Korea, South",Jeju,,153861.0,1410542763
+Iksan,"Korea, South",Jeonbuk,,302310.0,1410134391
+South Lyon,United States,Michigan,,124694.0,1840002432
+Highland Park,United States,New Jersey,,13711.0,1840003636
+Nagaoka,Japan,Kyōto,,80423.0,1392219533
+San Sebastian,Puerto Rico,Puerto Rico,,8640.0,1630023635
+Groton,United States,Connecticut,,38825.0,1840004824
+Rhinebeck,United States,New York,,7772.0,1840004753
+Melaka,Malaysia,Melaka,admin,455300.0,1458467506
+Kokubunji,Japan,Tōkyō,,129619.0,1392193917
+King City,United States,California,,15887.0,1840020360
+Waterloo,United States,Iowa,,111631.0,1840000440
+La Plata,Argentina,Buenos Aires,admin,193144.0,1032403831
+Crowley,United States,Texas,,16460.0,1840019431
+Paphos,Cyprus,Páfos,admin,35961.0,1196607408
+Moses Lake,United States,Washington,,39002.0,1840019817
+Draper,United States,Utah,,48587.0,1840018747
+East Kilbride,United Kingdom,South Lanarkshire,,75390.0,1826488452
+Harker Heights,United States,Texas,,32421.0,1840020851
+Whitchurch,United Kingdom,Shropshire,,9781.0,1826717880
+Humble,United States,Texas,,15824.0,1840020926
+Gillette,United States,Wyoming,,36032.0,1840019978
+Brigham City,United States,Utah,,19601.0,1840018702
+Dale City,United States,Virginia,,72627.0,1840006094
+Middlesbrough,United Kingdom,Redcar and Cleveland,,174700.0,1826407067
+Wallingford,United Kingdom,Oxfordshire,,11600.0,1826443803
+Drogheda,Ireland,Louth,,40956.0,1372750233
+Trowbridge,United Kingdom,Wiltshire,,33108.0,1826965204
+Alpine,United States,California,,14878.0,1840018014
+Greece,United States,New York,,95988.0,1840058136
+Fredericton,Canada,New Brunswick,,58220.0,1124061289
+Clarion,United States,Pennsylvania,,10138.0,1840000739
+Wylie,United States,Texas,,53067.0,1840022018
+Trinidad,Bolivia,El Beni,admin,101454.0,1068929509
+Guadalupe,Mexico,Nuevo León,minor,691931.0,1484002410
+Pittsford,United States,New York,,29410.0,1840004283
+Jensen Beach,United States,Florida,,13479.0,1840014190
+Sano,Japan,Tochigi,,114842.0,1392791927
+Kuantan,Malaysia,Pahang,admin,607778.0,1458763489
+Surakarta,Indonesia,Jawa Tengah,,552118.0,1360853933
+Branson,United States,Missouri,,25033.0,1840007659
+Seattle,United States,Washington,,3789215.0,1840021117
+Enumclaw,United States,Washington,,12190.0,1840019825
+Kyle,United States,Texas,,48393.0,1840020907
+Hemel Hempstead,United Kingdom,Hertfordshire,,97500.0,1826374836
+La Mesa,United States,California,,59249.0,1840020625
+Moosic,United States,Pennsylvania,,5832.0,1840003385
+Andover,United Kingdom,Hampshire,,38290.0,1826277987
+Oita,Japan,Ōita,admin,477186.0,1392081193
+Canmore,Canada,Alberta,,13992.0,1124688642
+Lakewood,United States,Colorado,,157935.0,1840020198
+Woodridge,United States,Illinois,,33432.0,1840011411
+North Miami,United States,Florida,,62822.0,1840015154
+Staunton,United States,Virginia,,59433.0,1840001670
+Covina,United States,California,,47450.0,1840019241
+Virginia Beach,United States,Virginia,,1478868.0,1840003871
+Texarkana,United States,Texas,,77964.0,1840021987
+Greensboro,United States,North Carolina,,343090.0,1840013356
+Flushing,United States,Michigan,,7880.0,1840002950
+Buena Park,United States,California,,81788.0,1840019324
+Baxter,United States,Minnesota,,8364.0,1840006643
+Marysville,United States,Washington,,170009.0,1840019789
+Kapolei,United States,Hawaii,,21674.0,1840025211
+Elkhart,United States,Indiana,,147567.0,1840008187
+Orange Park,United States,Florida,,8824.0,1840017206
+Meriden,United States,Connecticut,,59395.0,1840004848
+Boerne,United States,Texas,,18232.0,1840019623
+Harrison,United States,New Jersey,,20061.0,1840003598
+Bradford,United Kingdom,Bradford,,67.0,1826687116
+Emsworth,United Kingdom,Hampshire,,9492.0,1826718241
+Stanley,Falkland Islands (Islas Malvinas),,primary,2213.0,1238780509
+Lombard,United States,Illinois,,44303.0,1840011402
+Winter Park,United States,Florida,,30825.0,1840015966
+Highland Heights,United States,Ohio,,8373.0,1840000605
+Riverbank,United States,California,,24881.0,1840020286
+Balagtas,Philippines,Bulacan,,73929.0,1608000709
+Gonzales,United States,Louisiana,,10957.0,1840013965
+Westland,United States,Michigan,,81511.0,1840001847
+Feltham,United Kingdom,Hounslow,,63368.0,1826165560
+Whistler,Canada,British Columbia,,11854.0,1124001562
+Streamwood,United States,Illinois,,39228.0,1840011328
+Warminster,United Kingdom,Wiltshire,,17490.0,1826602244
+Zwolle,Netherlands,Overijssel,admin,111805.0,1528690076
+Murray,United States,Utah,,48917.0,1840020159
+Chessy,France,Île-de-France,,5969.0,1250777882
+Fernley,United States,Nevada,,21476.0,1840020214
+Wigan,United Kingdom,Wigan,,103608.0,1826902223
+Eastvale,United States,California,,64157.0,1840028421
+Wildomar,United States,California,,37229.0,1840022902
+Cody,United States,Wyoming,,9788.0,1840018595
+Ubon Ratchathani,Thailand,Ubon Ratchathani,admin,79023.0,1764611048
+Depok,Indonesia,Jawa Barat,,1631951.0,1360962899
+Oxnard,United States,California,,387647.0,1840020474
+Long Beach,United States,California,,462628.0,1840020490
+Stuttgart,Germany,Baden-Württemberg,admin,634830.0,1276171358
+Chehalis,United States,Washington,,7654.0,1840018472
+San Jacinto,United States,California,,49215.0,1840021936
+Big Flats,United States,New York,,7641.0,1840057237
+Sherwood,United States,Arkansas,,31436.0,1840015511
+Ecatepec,Mexico,México,minor,1656107.0,1484003694
+Midland Park,United States,New Jersey,,7216.0,1840000905
+Phnom Penh,Cambodia,Phnom Penh,primary,2129371.0,1116260534
+Lake St. Louis,United States,Missouri,,16864.0,1840008572
+Suwon,"Korea, South",Gyeonggi,admin,1234300.0,1410679777
+Orinda,United States,California,,19926.0,1840020280
+Peoria,United States,Illinois,,256286.0,1840009373
+Denville,United States,New Jersey,,16606.0,1840081734
+Pinecrest,United States,Florida,,19155.0,1840018336
+Bilecik,Turkey,Bilecik,admin,81723.0,1792408667
+Granite Bay,United States,California,,23183.0,1840017559
+Ilford,United Kingdom,Redbridge,,168168.0,1826381000
+Dubai,United Arab Emirates,Dubayy,admin,2502715.0,1784736618
+Somersworth,United States,New Hampshire,,11968.0,1840002810
+Penfield,United States,New York,,37252.0,1840058391
+Huntington Park,United States,California,,57509.0,1840019235
+Haarlem,Netherlands,Noord-Holland,admin,159134.0,1528822178
+Szczecin,Poland,Zachodniopomorskie,admin,403833.0,1616256546
+Western Springs,United States,Illinois,,13359.0,1840011333
+Taylorsville,United States,Utah,,59805.0,1840021387
+Obu,Japan,Aichi,,92562.0,1392870664
+Streator,United States,Illinois,,17021.0,1840009271
+Baker City,United States,Oregon,,9809.0,1840018587
+Idaho Falls,United States,Idaho,,100442.0,1840018644
+Moorestown,United States,New Jersey,,20449.0,1840081626
+New Hyde Park,United States,New York,,9807.0,1840005313
+Rocky River,United States,Ohio,,19986.0,1840003410
+Aspen,United States,Colorado,,8569.0,1840018813
+Waipahu,United States,Hawaii,,39469.0,1840023258
+Grafton,Australia,New South Wales,,19078.0,1036615468
+Falmouth,United Kingdom,Cornwall,,21797.0,1826117124
+Iwata,Japan,Shizuoka,,165688.0,1392088261
+Denver,United States,Colorado,admin,2876625.0,1840018789
+Maple Ridge,Canada,British Columbia,,82256.0,1124001699
+Fletcher,United States,North Carolina,,8369.0,1840016371
+College Station,United States,Texas,,215243.0,1840019570
+South Ogden,United States,Utah,,17199.0,1840021342
+Medfield,United States,Massachusetts,,12841.0,1840053552
+Bury,United Kingdom,Bury,,78723.0,1826242195
+East Peoria,United States,Illinois,,22546.0,1840008327
+Kyoto,Japan,Kyōto,admin,1805000.0,1392622735
+York,United States,Pennsylvania,,233184.0,1840001472
+Hyattsville,United States,Maryland,,18230.0,1840005975
+Menifee,United States,California,,94756.0,1840022903
+Yucaipa,United States,California,,53921.0,1840021732
+Hinton,Canada,Alberta,,9882.0,1124131074
+Binghamton,United States,New York,,148145.0,1840000460
+Bothell,United States,Washington,,47415.0,1840018419
+Albuquerque,United States,New Mexico,,761195.0,1840019176
+Auburn,United States,Alabama,,92777.0,1840013810
+Sebring,United States,Florida,,62250.0,1840015986
+Bedminster,United States,New Jersey,,8045.0,1840081706
+Port Charlotte,United States,Florida,,62327.0,1840014200
+Ridgewood,United States,New Jersey,,25056.0,1840000899
+Kobe,Japan,Hyōgo,admin,1513193.0,1392978082
+Seymour,United States,Indiana,,23598.0,1840009708
+Daytona Beach,United States,Florida,,69186.0,1840015068
+Caba,Philippines,La Union,,22039.0,1608755935
+Greenbelt,United States,Maryland,,23224.0,1840005974
+Hurst,United States,Texas,,38655.0,1840019427
+Santos,Brazil,São Paulo,,433966.0,1076033299
+Brookings,United States,South Dakota,,24887.0,1840002506
+Iwaki,Japan,Fukushima,,336111.0,1392158088
+Riverhead,United States,New York,,33549.0,1840058445
+Shawnee,United States,Kansas,,65807.0,1840001641
+Coral Gables,United States,Florida,,49700.0,1840015147
+Stockton,United States,California,,397264.0,1840021517
+Wheat Ridge,United States,Colorado,,31324.0,1840021431
+Sumner,United States,Washington,,10427.0,1840021128
+Fort Walton Beach,United States,Florida,,22521.0,1840013923
+Warrensburg,United States,Missouri,,22410.0,1840010721
+Poughkeepsie,United States,New York,,394760.0,1840000500
+Kawasaki,Japan,Fukuoka,,15134.0,1392730705
+Pooler,United States,Georgia,,25694.0,1840014914
+Collinsville,United States,Illinois,,24395.0,1840007423
+Llandudno,United Kingdom,Conwy,,20701.0,1826130998
+Palm Coast,United States,Florida,,417007.0,1840015064
+Flint,United States,Michigan,,332190.0,1840002949
+Lausanne,Switzerland,Vaud,admin,138905.0,1756055099
+Federal Way,United States,Washington,,96289.0,1840019826
+South Jordan,United States,Utah,,76598.0,1840021385
+Hollywood,United States,Florida,,154817.0,1840015144
+Conway,United States,Arkansas,,74951.0,1840014598
+Seville,United States,Ohio,,7812.0,1840011714
+Emeryville,United States,California,,12086.0,1840020291
+Monticello,United States,Minnesota,,27665.0,1840007795
+Quesnel,Canada,British Columbia,,9879.0,1124028015
+Riverton,United States,Utah,,44440.0,1840020157
+Kanuma,Japan,Tochigi,,94591.0,1392653831
+Almada,Portugal,Setúbal,minor,174030.0,1620388276
+Grenoble,France,Auvergne-Rhône-Alpes,minor,687985.0,1250071647
+Marrakech,Morocco,Marrakech-Safi,admin,928850.0,1504172585
+Sedalia,United States,Missouri,,26473.0,1840009724
+Pittsburgh,United States,Pennsylvania,,1703266.0,1840001254
+Tewkesbury,United Kingdom,Gloucestershire,,19778.0,1826890799
+Logan,United States,Utah,,101616.0,1840020108
+Frostburg,United States,Maryland,,8505.0,1840005622
+Janesville,United States,Wisconsin,,70755.0,1840002467
+Okazaki,Japan,Aichi,,385376.0,1392862345
+El Segundo,United States,California,,16610.0,1840020481
+Crown Point,United States,Indiana,,30488.0,1840007091
+Chelsea,United States,Massachusetts,,39690.0,1840000456
+Mexico City,Mexico,Ciudad de México,primary,20996000.0,1484247881
+Clarksville,United States,Tennessee,,188746.0,1840014421
+Westford,United States,Massachusetts,,24342.0,1840053493
+Hungerford,United Kingdom,West Berkshire,,5767.0,1826664814
+Iloilo,Philippines,Iloilo,admin,447992.0,1608875987
+Ellensburg,United States,Washington,,24377.0,1840019841
+Seoul,"Korea, South",Seoul,primary,21794000.0,1410836482
+Vernon,Canada,British Columbia,,44600.0,1124553338
+Pagosa Springs,United States,Colorado,,5927.0,1840022565
+Kaohsiung,Taiwan,Kaohsiung,admin,2773533.0,1158331334
+Saginaw,United States,Michigan,,117958.0,1840002813
+Castle Rock,United States,Colorado,,68484.0,1840022455
+Ankara,Turkey,Ankara,primary,5503985.0,1792572891
+Tlalnepantla,Mexico,México,minor,750224.0,1484861603
+Omaha,United States,Nebraska,,847819.0,1840009315
+Kingsburg,United States,California,,12108.0,1840020325
+Bolu,Turkey,Bolu,admin,205525.0,1792807068
+Kaneohe,United States,Hawaii,,33841.0,1840029498
+Machesney Park,United States,Illinois,,22677.0,1840011123
+Bay Shore,United States,New York,,29799.0,1840005017
+Avondale,United States,Arizona,,227289.0,1840019310
+Gallatin,United States,Tennessee,,42918.0,1840013295
+Southgate,United Kingdom,Enfield,,14454.0,1826679961
+Lapeer,United States,Michigan,,12959.0,1840002896
+Sorocaba,Brazil,São Paulo,,644919.0,1076758708
+Wisbech,United Kingdom,Cambridgeshire,,33933.0,1826161684
+Antioch,United States,California,,302419.0,1840018903
+Prescott,United States,Arizona,,44299.0,1840020436
+Dublin,Ireland,Dublin,primary,1173179.0,1372595407
+Kingsville,United States,Texas,,25315.0,1840021013
+Maidstone,United Kingdom,Kent,,113137.0,1826000009
+Fort Lewis,United States,Washington,,13054.0,1840073933
+Hadley,United States,Massachusetts,,5319.0,1840053460
+Brampton,Canada,Ontario,,593638.0,1124625989
+Parma,Italy,Emilia-Romagna,minor,195687.0,1380655938
+Salt Lake City,United States,Utah,admin,1098526.0,1840021383
+Purcellville,United States,Virginia,,15742.0,1840005875
+Sao Jose do Rio Preto,Brazil,São Paulo,,442548.0,1076760827
+McKinleyville,United States,California,,17208.0,1840017485
+Willis,United States,Texas,,7028.0,1840022175
+Easton,United States,Pennsylvania,,27189.0,1840000970
+Longmeadow,United States,Massachusetts,,15791.0,1840053448
+Ashwaubenon,United States,Wisconsin,,17161.0,1840002342
+Ashburn,United States,Virginia,,49848.0,1840024495
+Ichinomiya,Japan,Aichi,,378681.0,1392379530
+Hammond,United States,Indiana,,75522.0,1840007092
+Port Moody,Canada,British Columbia,,33551.0,1124252668
+Gateshead,United Kingdom,Gateshead,,120046.0,1826635849
+Merignac,France,Nouvelle-Aquitaine,,70105.0,1250010536
+Eau Claire,United States,Wisconsin,,107404.0,1840002296
+Ottawa,Canada,Ontario,,989567.0,1124399363
+Destin,United States,Florida,,14247.0,1840015008
+Alajuela,Costa Rica,Alajuela,admin,42975.0,1188394508
+Oshawa,Canada,Ontario,,166000.0,1124541904
+Harwich,United Kingdom,Essex,,17684.0,1826285169
+Pineville,United States,Louisiana,,14122.0,1840014963
+Harrow,United Kingdom,Harrow,,149246.0,1826648099
+Longmont,United States,Colorado,,102474.0,1840020178
+Coos Bay,United States,Oregon,,32159.0,1840018653
+Chiang Mai,Thailand,Chiang Mai,admin,132634.0,1764662886
+Glen Burnie,United States,Maryland,,69872.0,1840005917
+Nyack,United States,New York,,7156.0,1840004981
+Brecksville,United States,Ohio,,13604.0,1840000590
+Hallandale Beach,United States,Florida,,39847.0,1840014237
+Pinner,United Kingdom,Harrow,,31130.0,1826466478
+Payson,United States,Utah,,20303.0,1840020172
+Simi Valley,United States,California,,126589.0,1840021843
+Whitestown,United States,New York,,18243.0,1840088046
+Ontario,United States,California,,185010.0,1840020410
+Miyazaki,Japan,Miyazaki,admin,397476.0,1392216224
+Edina,United States,Minnesota,,52857.0,1840007822
+Vernon Hills,United States,Illinois,,26521.0,1840011181
+Alabaster,United States,Alabama,,33487.0,1840013756
+Bohemia,United States,New York,,9262.0,1840005020
+Ojai,United States,California,,7470.0,1840020473
+Dartmouth,United States,Massachusetts,,34204.0,1840070232
+Yangsan,"Korea, South",Gyeongnam,minor,297532.0,1410795549
+Cedarburg,United States,Wisconsin,,11603.0,1840002825
+Constanta,Romania,Constanţa,admin,283872.0,1642851858
+Corvallis,United States,Oregon,,67467.0,1840018611
+Collierville,United States,Tennessee,,51040.0,1840016403
+Williams,United States,Pennsylvania,,6073.0,1840148473
+Euless,United States,Texas,,57197.0,1840020693
+Gulf Shores,United States,Alabama,,12757.0,1840013886
+Grand Prairie,United States,Texas,,194543.0,1840020709
+Oyama,Japan,Shizuoka,,18181.0,1392334632
+Jakarta,Indonesia,Jakarta,primary,34540000.0,1360771077
+Stamford,United States,Connecticut,,129638.0,1840004841
+West Chester,United States,Pennsylvania,,20029.0,1840001436
+Camas,Spain,Andalusia,,27560.0,1724068126
+Ypsilanti,United States,Michigan,,20171.0,1840000459
+Merrimack,United States,New Hampshire,,25987.0,1840080351
+Sugar Hill,United States,Georgia,,24617.0,1840015615
+Florissant,United States,Missouri,,50952.0,1840008586
+Mankato,United States,Minnesota,,62889.0,1840008975
+Surabaya,Indonesia,Jawa Timur,admin,4975000.0,1360484663
+Monclova,Mexico,Coahuila de Zaragoza,minor,231107.0,1484281759
+De Pere,United States,Wisconsin,,24970.0,1840002348
+Fallbrook,United States,California,,31701.0,1840018019
+West Jordan,United States,Utah,,116480.0,1840021388
+Grafenwohr,Germany,Bavaria,,6363.0,1276973860
+Carol Stream,United States,Illinois,,39203.0,1840010169
+Mason City,United States,Iowa,,26931.0,1840000380
+Sunnyside,United States,Washington,,18352.0,1840021150
+Hasbrouck Heights,United States,New Jersey,,11992.0,1840003558
+Bandung,Indonesia,Jawa Barat,admin,2394873.0,1360313023
+Darlington,United Kingdom,Darlington,,105564.0,1826453946
+Timisoara,Romania,Timiş,admin,319279.0,1642603121
+Saitama,Japan,Saitama,admin,1320571.0,1392017719
+Huancayo,Peru,Junín,admin,378203.0,1604249985
+Spencer,United States,Massachusetts,,11928.0,1840053607
+Virginia,United States,Minnesota,,12381.0,1840009954
+Gettysburg,United States,Pennsylvania,,7724.0,1840000683
+Newport,United Kingdom,Newport,,128060.0,1826018889
+El Monte,United States,California,,115487.0,1840020480
+Erfurt,Germany,Thuringia,admin,203254.0,1276924655
+Valdosta,United States,Georgia,,79820.0,1840015894
+Kingman,United States,Arizona,,46524.0,1840021043
+Morganville,United States,New Jersey,,5088.0,1840005442
+Niagara Falls,Canada,Ontario,,308596.0,1124704011
+Sagamihara,Japan,Kanagawa,,722973.0,1392967248
+Orting,United States,Washington,,8610.0,1840019858
+Tamworth,Australia,New South Wales,,42872.0,1036233388
+Salisbury,United States,Maryland,,106447.0,1840006219
+Van Buren,United States,Arkansas,,23683.0,1840015397
+Sunset Hills,United States,Missouri,,8447.0,1840009742
+Round Lake Beach,United States,Illinois,,279381.0,1840011171
+Jupiter,United States,Florida,,65791.0,1840017255
+Altamonte Springs,United States,Florida,,44143.0,1840014072
+Franklin,United States,Tennessee,,83097.0,1840013380
+Bukit Mertajam,Malaysia,Pulau Pinang,,210000.0,1458619046
+Jonesborough,United States,Tennessee,,5611.0,1840016092
+Doylestown,United States,Pennsylvania,,17431.0,1840001320
+Battle Creek,United States,Michigan,,76514.0,1840003176
+Coon Rapids,United States,Minnesota,,62998.0,1840006714
+Chula Vista,United States,California,,274492.0,1840019350
+Tulare,United States,California,,65496.0,1840021638
+Liverpool,United Kingdom,Liverpool,,864122.0,1826558678
+St. Clairsville,United States,Ohio,,5141.0,1840009468
+Versailles,France,Île-de-France,minor,85862.0,1250143827
+Spring,United States,Texas,,60976.0,1840019615
+Bexleyheath,United Kingdom,Bexley,,31929.0,1826858601
+Pharr,United States,Texas,,79112.0,1840021030
+Orlando,United States,Florida,,1822394.0,1840015099
+Revere,United States,Massachusetts,,53073.0,1840000457
+Mill Creek,United States,Washington,,20897.0,1840019790
+Jeffersonville,United States,Indiana,,48126.0,1840008642
+Balikpapan,Indonesia,Kalimantan Timur,,598043.0,1360500922
+Kalispell,United States,Montana,,39182.0,1840018350
+South Amboy,United States,New Jersey,,9176.0,1840001333
+Shibuya,Japan,Tōkyō,,102056.0,1392000470
+Morgan Hill,United States,California,,45952.0,1840020331
+Toride,Japan,Ibaraki,,103908.0,1392922950
+Kuwana,Japan,Mie,,138798.0,1392018722
+Marco Island,United States,Florida,,17947.0,1840036141
+Lemoore,United States,California,,26725.0,1840020383
+Chevy Chase,United States,Maryland,,9622.0,1840031323
+Weatherford,United States,Texas,,46268.0,1840022041
+Palo Alto,Mexico,Aguascalientes,minor,5399.0,1484615349
+North Myrtle Beach,United States,South Carolina,,16819.0,1840014718
+Chattanooga,United States,Tennessee,,415501.0,1840014569
+Utrecht,Netherlands,Utrecht,admin,640000.0,1528871692
+Lakeville,United States,Minnesota,,67317.0,1840007859
+Monroeville,United States,Pennsylvania,,27380.0,1840003631
+Westlake Village,United States,California,,8217.0,1840037458
+Devon,Canada,Alberta,,6578.0,1124268366
+Burbank,United States,California,,102511.0,1840019233
+Zurich,Switzerland,Zürich,admin,434008.0,1756539143
+Atwater,United States,California,,29559.0,1840018934
+Suzuka,Japan,Mie,,195250.0,1392913924
+Richfield,United States,Minnesota,,36354.0,1840008930
+Klang,Malaysia,Selangor,,878000.0,1458509635
+Fort Dodge,United States,Iowa,,23888.0,1840000439
+St. Petersburg,United States,Florida,,265351.0,1840015977
+Elgin,United States,Illinois,,110849.0,1840008134
+Fort Worth,United States,Texas,,909585.0,1840020696
+Delavan,United States,Wisconsin,,11871.0,1840002483
+Lakeland,United States,Florida,,302284.0,1840015108
+Akishima,Japan,Tōkyō,,112110.0,1392041019
+Flowood,United States,Mississippi,,9380.0,1840013824
+Margate,United States,Florida,,58796.0,1840015999
+Zhoushan,China,Zhejiang,minor,1121261.0,1156200283
+Craiova,Romania,Dolj,admin,269506.0,1642859458
+Antiguo Cuscatlan,El Salvador,La Libertad,,33698.0,1222807849
+Wauwatosa,United States,Wisconsin,,48118.0,1840003033
+Lima,Peru,Lima,primary,9848000.0,1604728603
+Mebane,United States,North Carolina,,16262.0,1840015328
+Ise,Japan,Mie,,122432.0,1392000398
+Middlewich,United Kingdom,Cheshire East,,13595.0,1826609580
+Mashpee,United States,Massachusetts,,14148.0,1840053502
+Port Townsend,United States,Washington,,9831.0,1840019797
+Price,United States,Utah,,13564.0,1840020201
+New Paltz,United States,New York,,14162.0,1840004731
+Park Ridge,United States,Illinois,,36950.0,1840009183
+Hillsborough,United States,New Jersey,,39542.0,1840081699
+Lawndale,United States,California,,32389.0,1840020517
+Lake Bluff,United States,Illinois,,5562.0,1840011158
+Fountain,United States,Colorado,,30735.0,1840020236
+Bainbridge Island,United States,Washington,,25298.0,1840018409
+McHenry,United States,Illinois,,27061.0,1840008085
+Hattiesburg,United States,Mississippi,,80138.0,1840013878
+Corona,United States,California,,169868.0,1840019305
+Mount Prospect,United States,Illinois,,53719.0,1840011300
+Sheridan,United States,Wyoming,,19320.0,1840021243
+New Milford,United States,New Jersey,,16429.0,1840000908
+Halifax,Canada,Nova Scotia,,403131.0,1124130981
+Eindhoven,Netherlands,Noord-Brabant,minor,398053.0,1528636212
+Grayslake,United States,Illinois,,20725.0,1840011150
+Fredonia,Colombia,Antioquia,minor,20997.0,1170731658
+Fort Meade,United States,Maryland,,10873.0,1840073581
+Paramus,United States,New Jersey,,26264.0,1840000916
+Deal,United Kingdom,Kent,,30085.0,1826000065
+Centerville,United States,Ohio,,23703.0,1840007308
+Blaine,United States,Minnesota,,65607.0,1840006719
+Ardmore,United States,Pennsylvania,,12808.0,1840005455
+A Coruna,Spain,Galicia,minor,370610.0,1724417375
+North Huntingdon,United States,Pennsylvania,,30430.0,1840144809
+Warrenton,United States,Virginia,,10027.0,1840006058
+El Dorado Hills,United States,California,,46593.0,1840017565
+Wroclaw,Poland,Dolnośląskie,admin,638586.0,1616108520
+Bell,United States,California,,35521.0,1840019228
+Colorado Springs,United States,Colorado,,642413.0,1840018825
+Yukon,United States,Oklahoma,,28084.0,1840021740
+Delano,United States,California,,54917.0,1840019151
+Makati City,Philippines,Makati,admin,582602.0,1608725647
+Post Falls,United States,Idaho,,36250.0,1840019811
+Mersin,Turkey,Mersin,admin,1814468.0,1792520282
+Forest Hills,United States,Michigan,,27830.0,1840004304
+Chorley,United Kingdom,Lancashire,,34667.0,1826477913
+Roanoke Rapids,United States,North Carolina,,22225.0,1840014437
+Washougal,United States,Washington,,16107.0,1840021190
+Fair Oaks,United States,Virginia,,33481.0,1840024568
+Surfside,United States,Florida,,5651.0,1840017278
+Centennial,United States,Colorado,,110937.0,1840018792
+Romeoville,United States,Illinois,,39746.0,1840011489
+General Santos,Philippines,General Santos,admin,594446.0,1608171585
+Valparaiso,Chile,Valparaíso,admin,296655.0,1152337970
+Tucker,United States,Georgia,,36395.0,1840013701
+Palatine,United States,Illinois,,67482.0,1840011311
+Glen Cove,United States,New York,,27166.0,1840000987
+Madison,United States,Wisconsin,admin,447245.0,1840002915
+Hua Hin,Thailand,Prachuap Khiri Khan,minor,59369.0,1764352388
+Uijeongbu,"Korea, South",Gyeonggi,,421579.0,1410888678
+Tangerang,Indonesia,Jawa Barat,,2237006.0,1360002844
+Cleckheaton,United Kingdom,Kirklees,,16622.0,1826679048
+Kilkenny,Ireland,Kilkenny,admin,22179.0,1372926521
+Goodyear,United States,Arizona,,86840.0,1840020564
+Potomac,United States,Maryland,,45940.0,1840005837
+Wausau,United States,Wisconsin,,73593.0,1840002163
+Knightdale,United States,North Carolina,,17843.0,1840016194
+Willowbrook,United States,California,,22811.0,1840019220
+Pleasant Prairie,United States,Wisconsin,,21034.0,1840003163
+Sibu,Malaysia,Sarawak,,247995.0,1458970454
+Oak Grove,United States,Oregon,,17872.0,1840018568
+Newport News,United States,Virginia,,179225.0,1840003862
+Prestwick,United Kingdom,South Ayrshire,,14750.0,1826710421
+Soltau,Germany,Lower Saxony,,21317.0,1276678434
+Annaka,Japan,Gunma,,54602.0,1392614505
+Harahan,United States,Louisiana,,9250.0,1840013997
+Tyumen,Russia,Tyumenskaya Oblast’,admin,744554.0,1643040435
+Yreka,United States,California,,7518.0,1840021320
+Somerville,United States,Massachusetts,,81360.0,1840003123
+Weslaco,United States,Texas,,41629.0,1840022258
+Mission Viejo,United States,California,,590249.0,1840020580
+Westminster,United States,Colorado,,113166.0,1840021423
+Iselin,United States,New Jersey,,18175.0,1840005418
+Manises,Spain,Valencia,,31240.0,1724921476
+Bonita Springs,United States,Florida,,421291.0,1840014227
+Okotoks,Canada,Alberta,,28881.0,1124521470
+Trinity,United States,Florida,,11493.0,1840029012
+Melrose,United States,Massachusetts,,28016.0,1840000432
+Laramie,United States,Wyoming,,33929.0,1840020096
+East Grand Rapids,United States,Michigan,,11956.0,1840002927
+Elizabeth,United States,New Jersey,,129216.0,1840003613
+Lake Elsinore,United States,California,,69283.0,1840020560
+Seminole,United States,Florida,,18838.0,1840015978
+Elizabethtown,United States,Kentucky,,78002.0,1840013218
+Davidson,United States,North Carolina,,13054.0,1840016353
+Wake Forest,United States,North Carolina,,45629.0,1840016199
+Hoboken,United States,New Jersey,,52677.0,1840003599
+Algonquin,United States,Illinois,,30897.0,1840010110
+Orange Beach,United States,Alabama,,6235.0,1840014980
+Noblesville,United States,Indiana,,64668.0,1840013891
+Crystal,United States,Minnesota,,22899.0,1840006745
+Fajardo,Puerto Rico,Puerto Rico,,24950.0,1630035668
+New Britain,United States,Connecticut,,72495.0,1840004774
+Allen Park,United States,Michigan,,26940.0,1840003967
+Ramsey,United States,Minnesota,,27721.0,1840008904
+Mantua,United States,New Jersey,,14941.0,1840081677
+Markham,Canada,Ontario,,328966.0,1124272698
+Aiken,United States,South Carolina,,30869.0,1840013722
+Santa Cruz,Bolivia,Santa Cruz,admin,3151676.0,1068129363
+Colima,Mexico,Colima,admin,137383.0,1484585697
+Kasama,Zambia,Northern,admin,200000.0,1894305215
+Titusville,United States,Florida,,57891.0,1840015962
+Round Rock,United States,Texas,,133372.0,1840020879
+Dallas,United States,Texas,,5743938.0,1840019440
+Green,United States,Ohio,,25752.0,1840008254
+Annandale,United States,Virginia,,43295.0,1840006011
+Martinsburg,United States,West Virginia,,17454.0,1840005742
+Yeosu,"Korea, South",Jeonnam,minor,341994.0,1410002025
+Beaconsfield,Canada,Quebec,,19115.0,1124755118
+Hino,Japan,Tōkyō,,190598.0,1392686410
+Crescent City,United States,California,,16849.0,1840018707
+Malang,Indonesia,Jawa Timur,,780000.0,1360141408
+Songkhla,Thailand,Songkhla,admin,63834.0,1764543650
+Torreon,Mexico,Coahuila de Zaragoza,minor,679288.0,1484215762
+Tulsa,United States,Oklahoma,,671033.0,1840021672
+Cambridge,Canada,Ontario,,129920.0,1124113576
+Vicente Lopez,Argentina,Buenos Aires,,22419.0,1032549688
+Everett,United States,Washington,,111475.0,1840019785
+Athens,Greece,Attikí,primary,664046.0,1300715560
+Whitefish Bay,United States,Wisconsin,,13783.0,1840003036
+Dickinson,United States,North Dakota,,23133.0,1840000192
+Dixon,United States,California,,20803.0,1840018859
+O'Fallon,United States,Missouri,,88673.0,1840008571
+South Boston,United States,Virginia,,7740.0,1840037461
+Altrincham,United Kingdom,Trafford,,52419.0,1826280426
+Esslingen,Germany,Baden-Württemberg,minor,93542.0,1276510955
+Livermore,United States,California,,90923.0,1840020294
+Jamestown,"Saint Helena, Ascension, And Tristan Da Cunha",Saint Helena,primary,714.0,1654761576
+Rosemead,United States,California,,54058.0,1840020495
+Santa Monica,United States,California,,90401.0,1840021866
+Thetford,United Kingdom,Norfolk,,24340.0,1826591780
+Wilkes-Barre,United States,Pennsylvania,,40766.0,1840000777
+Prince George,Canada,British Columbia,,74003.0,1124733292
+New Orleans,United States,Louisiana,,1020886.0,1840001839
+Berwyn,United States,Illinois,,54391.0,1840007027
+San Lorenzo,Paraguay,Central,,258919.0,1600667303
+Manzanillo,Mexico,Colima,minor,184541.0,1484223913
+Walpole,United States,Massachusetts,,25129.0,1840053559
+Volo,United States,Illinois,,5813.0,1840011182
+Monona,United States,Wisconsin,,8175.0,1840002920
+Cameron Park,United States,Texas,,6241.0,1840037105
+Miami Springs,United States,Florida,,13917.0,1840015152
+Tepic,Mexico,Nayarit,admin,332863.0,1484433877
+Eden Prairie,United States,Minnesota,,64893.0,1840007821
+Boca Raton,United States,Florida,,99805.0,1840014207
+Peachtree City,United States,Georgia,,36223.0,1840014822
+Alor Setar,Malaysia,Kedah,admin,217000.0,1458273978
+Tomisato,Japan,Chiba,,49470.0,1392179230
+St. Cloud,United States,Minnesota,,115028.0,1840008881
+Medina,Saudi Arabia,Al Madīnah al Munawwarah,admin,1180770.0,1682345785
+Braunschweig,Germany,Lower Saxony,minor,248292.0,1276941443
+Key Biscayne,United States,Florida,,12846.0,1840018333
+Owasso,United States,Oklahoma,,36957.0,1840020385
+Delhi,India,Delhi,admin,29617000.0,1356872604
+Abbotsford,Canada,British Columbia,,141397.0,1124808029
+Clovis,United States,California,,114584.0,1840018944
+Claremont,United States,California,,36266.0,1840019216
+Begles,France,Nouvelle-Aquitaine,,28601.0,1250300357
+Woolwich,United Kingdom,Greenwich,,84959.0,1826479020
+Solihull,United Kingdom,Solihull,,123187.0,1826720500
+Burlington,Canada,Ontario,,183314.0,1124955083
+Cranford,United States,New Jersey,,24014.0,1840081744
+Cornelius,United States,Oregon,,12822.0,1840018557
+Queretaro,Mexico,Querétaro,admin,804663.0,1484604775
+San Antonio,United States,Texas,,2049293.0,1840022220
+Gilroy,United States,California,,118993.0,1840020327
+Burleson,United States,Texas,,48225.0,1840019467
+Rocky Mount,United States,North Carolina,,64018.0,1840014490
+Topsham,United States,Maine,,8810.0,1840053028
+Laval,Canada,Quebec,,422993.0,1124922301
+Willows,United States,California,,7234.0,1840021438
+Quezon,Philippines,Bukidnon,,104116.0,1608600962
+Amelia,Italy,Umbria,,11828.0,1380920464
+Brierley Hill,United Kingdom,Dudley,,13935.0,1826736582
+Parkland,United States,Washington,,37303.0,1840018453
+Aarau,Switzerland,Aargau,admin,21268.0,1756722157
+Las Cruces,United States,New Mexico,,136254.0,1840020683
+Valenciennes,France,Hauts-de-France,minor,43336.0,1250025032
+Tagaytay,Philippines,Cavite,,71181.0,1608593949
+Hillside,United States,New Jersey,,21928.0,1840081741
+Penticton,Canada,British Columbia,,33761.0,1124613898
+Chalandri,Greece,Attikí,minor,74192.0,1300443208
+Fontana,United States,California,,214547.0,1840020402
+Chaska,United States,Minnesota,,26989.0,1840006760
+Jericho,United States,New York,,13889.0,1840005268
+Bay City,United States,Michigan,,66107.0,1840002583
+Oregon,United States,Ohio,,20055.0,1840000570
+Moorpark,United States,California,,36375.0,1840020472
+University Park,United States,Florida,,26620.0,1840029013
+Cathedral City,United States,California,,55007.0,1840019293
+Ginowan,Japan,Okinawa,,99256.0,1392613742
+Alamo,Mexico,Veracruz,minor,25159.0,1484161565
+Castlegar,Canada,British Columbia,,8039.0,1124379972
+Winnetka,United States,Illinois,,12316.0,1840011317
+Brookfield,United States,Illinois,,18310.0,1840010142
+Vantaa,Finland,Uusimaa,minor,214605.0,1246957545
+Auckland,New Zealand,Auckland,admin,1470100.0,1554435911
+Somers Point,United States,New Jersey,,10174.0,1840001537
+Williamston,United States,Michigan,,6498.0,1840000420
+Lapu-Lapu City,Philippines,Lapu-Lapu,admin,408112.0,1608430676
+Walker,United States,Michigan,,24869.0,1840002925
+Leander,United States,Texas,,62608.0,1840020877
+Citrus Heights,United States,California,,87796.0,1840018845
+Morristown,United States,New Jersey,,19261.0,1840003577
+Blue Springs,United States,Missouri,,55829.0,1840007396
+Buellton,United States,California,,5102.0,1840019186
+Carbondale,United States,Illinois,,65671.0,1840007560
+Maebashi,Japan,Gunma,admin,331576.0,1392333295
+Valencia,Venezuela,Carabobo,admin,1484430.0,1862309871
+Peabody,United States,Massachusetts,,53070.0,1840000414
+Lambertville,United States,Michigan,,9524.0,1840006576
+Ocala,United States,Florida,,169383.0,1840015067
+Jackson,United States,Mississippi,admin,325350.0,1840014895
+Garden City,United States,Kansas,,29659.0,1840001669
+Cleveland,United States,Ohio,,1710093.0,1840000596
+Snohomish,United States,Washington,,10154.0,1840021078
+Great Falls,United States,Montana,,65131.0,1840019839
+Sochi,Russia,Krasnodarskiy Kray,,411524.0,1643009782
+Tsu,Japan,Mie,admin,273267.0,1392082102
+Gaylord,United States,Michigan,,8388.0,1840002148
+Liege,Belgium,Wallonia,minor,197885.0,1056513284
+Fallon,United States,Nevada,,16313.0,1840020191
+Ribeirao Preto,Brazil,São Paulo,,666323.0,1076524478
+Brooklyn Center,United States,Minnesota,,30690.0,1840004022
+Cornwall,Canada,Ontario,,46589.0,1124938303
+Torrington,United States,Connecticut,,40003.0,1840004770
+Vail,United States,Arizona,,12982.0,1840019487
+Fishers,United States,Indiana,,95310.0,1840010496
+Uppsala,Sweden,Uppsala,admin,165456.0,1752953686
+Taytay,Philippines,Rizal,,319104.0,1608530771
+Scappoose,United States,Oregon,,7564.0,1840021186
+New Westminster,Canada,British Columbia,,70996.0,1124196524
+Florida City,United States,Florida,,11771.0,1840014250
+Oak Creek,United States,Wisconsin,,36325.0,1840003047
+Welwyn Garden City,United Kingdom,Hertfordshire,,46619.0,1826345498
+Marquette,United States,Michigan,,26491.0,1840003923
+Dieppe,Canada,New Brunswick,,107068.0,1124195431
+Bethesda,United States,Maryland,,63195.0,1840005826
+Kayseri,Turkey,Kayseri,admin,1389680.0,1792945815
+Exmouth,United Kingdom,Devon,,34432.0,1826008044
+Farragut,United States,Tennessee,,23778.0,1840016171
+Shoreline,United States,Washington,,57027.0,1840021118
+Sakata,Japan,Yamagata,,99235.0,1392418961
+Ridgecrest,United States,California,,32684.0,1840020417
+Hashima,Japan,Gifu,,66312.0,1392769362
+Piracicaba,Brazil,São Paulo,,342209.0,1076166252
+Fullerton,United States,California,,138632.0,1840020576
+Sanford,United States,Florida,,61448.0,1840015958
+Ruidoso,United States,New Mexico,,9442.0,1840022873
+Bideford,United Kingdom,Devon,,17107.0,1826207226
+Basel,Switzerland,Basel-Stadt,admin,177595.0,1756731313
+Burke,United States,Virginia,,42806.0,1840006014
+Layton,United States,Utah,,78014.0,1840020145
+Nara,Japan,Nara,admin,352377.0,1392520831
+Avellaneda,Argentina,Buenos Aires,minor,24313.0,1032478683
+Chilliwack,Canada,British Columbia,,83788.0,1124531262
+Kalamazoo,United States,Michigan,,215193.0,1840003185
+Norco,United States,California,,26604.0,1840020554
+Ocean City,United States,New Jersey,,10971.0,1840001598
+Pullman,United States,Washington,,34506.0,1840019864
+Ciudad del Carmen,Mexico,Campeche,minor,169466.0,1484192447
+Nicholasville,United States,Kentucky,,30912.0,1840014330
+Oshkosh,United States,Wisconsin,,75536.0,1840002246
+Kendall,United States,Florida,,75312.0,1840014244
+Soka,Japan,Saitama,,251390.0,1392354483
+South Lebanon,United States,Pennsylvania,,9878.0,1840149649
+Kamloops,Canada,British Columbia,,100046.0,1124735582
+Republic,United States,Missouri,,16938.0,1840009906
+Suisun City,United States,California,,29663.0,1840028115
+White Plains,United States,New York,,58109.0,1840003477
+Limerick,Ireland,Limerick,admin,58319.0,1372126011
+Rolla,United States,Missouri,,21059.0,1840009849
+Sendai,Japan,Miyagi,admin,1058070.0,1392457903
+Folkestone,United Kingdom,Kent,,46698.0,1826257230
+Calhoun,United States,Georgia,,34754.0,1840013596
+Glenview,United States,Illinois,,47308.0,1840011280
+Montpellier,France,Occitanie,minor,607896.0,1250819356
+Oakland,United States,California,,433031.0,1840020296
+Salina,United States,Kansas,,46550.0,1840001647
+Oregon City,United States,Oregon,,37339.0,1840019954
+Rock Springs,United States,Wyoming,,25913.0,1840020101
+Millville,United States,New Jersey,,27391.0,1840001550
+Longwood,United States,Florida,,15561.0,1840015957
+Levis,Canada,Quebec,,143414.0,1124958950
+Killeen,United States,Texas,,258009.0,1840020854
+Bethel,United States,Connecticut,,19663.0,1840034129
+Iruma,Japan,Saitama,,145778.0,1392661533
+Fulshear,United States,Texas,,13914.0,1840020946
+Evanston,United States,Illinois,,73473.0,1840008129
+Kirkwood,United States,Missouri,,27807.0,1840008598
+Topeka,United States,Kansas,admin,147458.0,1840001621
+Barnet,United Kingdom,Barnet,,47359.0,1826246190
+Forney,United States,Texas,,50251.0,1840020734
+Hereford,United Kingdom,Herefordshire,,55955.0,1826996583
+Lady Lake,United States,Florida,,16020.0,1840017229
+Dalton,United States,Georgia,,86628.0,1840014651
+Broadview Heights,United States,Ohio,,19102.0,1840000591
+La Quinta,United States,California,,41748.0,1840020559
+Cotati,United States,California,,7410.0,1840018840
+Gridley,United States,California,,9237.0,1840020181
+Salmon Arm,Canada,British Columbia,,17706.0,1124478865
+West Bend,United States,Wisconsin,,69504.0,1840002829
+Waynesboro,United States,Pennsylvania,,26694.0,1840001415
+Ewa Beach,United States,Hawaii,,14479.0,1840029470
+Jefferson,United States,New Jersey,,21035.0,1840081740
+Merrick,United States,New York,,20130.0,1840005238
+Ronkonkoma,United States,New York,,18309.0,1840005071
+Broken Arrow,United States,Oklahoma,,110198.0,1840019059
+Samsun,Turkey,Samsun,admin,1335716.0,1792169057
+Muncie,United States,Indiana,,87879.0,1840008365
+Big Rapids,United States,Michigan,,13921.0,1840002678
+Loughton,United Kingdom,Essex,,31106.0,1826436728
+Larchmont,United States,New York,,6087.0,1840004934
+Sevilla,Spain,Andalusia,admin,1107000.0,1724991838
+Sulphur,United States,Louisiana,,20065.0,1840015927
+Overland Park,United States,Kansas,,195494.0,1840003834
+Buckeye,United States,Arizona,,79620.0,1840021939
+Dunfermline,United Kingdom,Fife,,54050.0,1826424354
+Sakarya,Turkey,Sakarya,admin,260109.0,1792191587
+Bensenville,United States,Illinois,,18044.0,1840011398
+Hopewell,United States,Virginia,,22529.0,1840003859
+Arlington Heights,United States,Illinois,,74760.0,1840011243
+Itasca,United States,Illinois,,9805.0,1840011400
+Sapporo,Japan,Hokkaidō,admin,1961690.0,1392000195
+Margate City,United States,New Jersey,,5865.0,1840003793
+Clute,United States,Texas,,11690.0,1840019669
+Bordentown,United States,New Jersey,,11967.0,1840001476
+Cainta,Philippines,Rizal,,322128.0,1608314665
+Orange City,United States,Florida,,12335.0,1840015075
+Woods Cross,United States,Utah,,11431.0,1840021355
+Kirkland,United States,Washington,,93010.0,1840019836
+Worcester,United States,Massachusetts,,498328.0,1840000434
+Yogyakarta,Indonesia,Yogyakarta,admin,422732.0,1360384833
+Las Vegas,United States,Nevada,,2104198.0,1840020364
+Nakhon Pathom,Thailand,Nakhon Pathom,admin,78780.0,1764251992
+Uxbridge,United Kingdom,Hillingdon,,70560.0,1826505308
+Evans,United States,Georgia,,37114.0,1840013095
+Beltsville,United States,Maryland,,17812.0,1840005945
+Simsbury,United States,Connecticut,,24799.0,1840045081
+Warr Acres,United States,Oklahoma,,10118.0,1840021743
+Vallejo,United States,California,,173256.0,1840021499
+Murrells Inlet,United States,South Carolina,,9137.0,1840013742
+Colleyville,United States,Texas,,27091.0,1840019430
+Central Islip,United States,New York,,31205.0,1840005028
+Batangas,Philippines,Batangas,admin,329874.0,1608417616
+Sharjah,United Arab Emirates,Ash Shāriqah,admin,1400000.0,1784152993
+Council Bluffs,United States,Iowa,,62166.0,1840007117
+Xalapa,Mexico,Veracruz,admin,525147.0,1484334948
+Liphook,United Kingdom,Hampshire,,8491.0,1826850012
+Apache Junction,United States,Arizona,,42571.0,1840019365
+Prattville,United States,Alabama,,35957.0,1840004086
+Austin,United States,Texas,admin,1687311.0,1840019590
+Lanham,United States,Maryland,,11120.0,1840026687
+Surprise,United States,Arizona,,141664.0,1840021941
+Fairview Heights,United States,Illinois,,16303.0,1840008630
+Belvidere,United States,Illinois,,25143.0,1840006971
+Haverhill,United Kingdom,Suffolk,,27041.0,1826015750
+Fenton,United Kingdom,Stoke-on-Trent,,12070.0,1826789719
+Molalla,United States,Oregon,,10001.0,1840019953
+Pontianak,Indonesia,Kalimantan Barat,admin,618388.0,1360992394
+Massillon,United States,Ohio,,32584.0,1840000965
+Bountiful,United States,Utah,,43981.0,1840018737
+Trujillo,Peru,La Libertad,admin,919899.0,1604613706
+Carlisle,United Kingdom,Cumbria,,75306.0,1826843688
+San Justo,Argentina,Buenos Aires,minor,136604.0,1032899295
+Union,United States,New Jersey,,58297.0,1840056367
+Powell,United States,Ohio,,13375.0,1840009430
+Gaithersburg,United States,Maryland,,67985.0,1840005848
+Westchester,United States,Florida,,29778.0,1840014241
+Morton,United States,Illinois,,16277.0,1840011991
+Rhyl,United Kingdom,Denbighshire,,25149.0,1826387077
+Chantilly,United States,Virginia,,24368.0,1840006016
+Bursa,Turkey,Bursa,admin,2901396.0,1792903330
+Tlaquepaque,Mexico,Jalisco,minor,575942.0,1484087945
+Paramount,United States,California,,53955.0,1840020504
+Cedar Park,United States,Texas,,79462.0,1840019572
+Roslyn Heights,United States,New York,,6553.0,1840005254
+Muskegon,United States,Michigan,,153565.0,1840002870
+Hudsonville,United States,Michigan,,7348.0,1840002997
+Bourne,United Kingdom,Lincolnshire,,13961.0,1826267550
+Sutton,United Kingdom,Sutton,,41483.0,1826827095
+Belgrade,Serbia,Beograd,primary,1378682.0,1688374696
+Clearwater,United States,Florida,,116946.0,1840015110
+Merrifield,United States,Virginia,,18291.0,1840006019
+Waianae,United States,Hawaii,,13609.0,1840029552
+Changzhou,China,Jiangsu,minor,4592431.0,1156185511
+Berkeley,United States,California,,121363.0,1840018914
+Louisville,United States,Kentucky,,1005654.0,1840030815
+St. Catharines,Canada,Ontario,,309319.0,1124140229
+Kingstowne,United States,Virginia,,17517.0,1840041770
+Venice,Italy,Veneto,admin,261321.0,1380660414
+St. John's,Canada,Newfoundland and Labrador,,108860.0,1124741456
+North Canton,United States,Ohio,,17176.0,1840008290
+Portage,United States,Michigan,,49445.0,1840003183
+King of Prussia,United States,Pennsylvania,,21313.0,1840005464
+Fox Point,United States,Wisconsin,,6543.0,1840003042
+Stoughton,United States,Massachusetts,,28639.0,1840053558
+Lake Stevens,United States,Washington,,33911.0,1840019794
+Park City,United States,Illinois,,7438.0,1840009133
+Fishkill,United States,New York,,24151.0,1840004748
+Petaling Jaya,Malaysia,Selangor,,638516.0,1458989343
+Winston-Salem,United States,North Carolina,,422269.0,1840015324
+Countryside,United States,Virginia,,9701.0,1840024500
+Wadsworth,United States,Ohio,,24046.0,1840010294
+Durango,Mexico,Durango,admin,654876.0,1484854616
+Lyon,France,Auvergne-Rhône-Alpes,admin,516092.0,1250196189
+Petoskey,United States,Michigan,,8334.0,1840003941
+Saraburi,Thailand,Sara Buri,admin,61750.0,1764111243
+Oak Lawn,United States,Illinois,,55022.0,1840011306
+Alma,Canada,Quebec,,30904.0,1124138438
+Orleans,France,Centre-Val de Loire,admin,282828.0,1250441405
+Homer,United States,New York,,6225.0,1840004497
+Lilburn,United States,Georgia,,12810.0,1840015613
+Inglewood,United States,California,,108151.0,1840019237
+Bellflower,United States,California,,76435.0,1840019230
+Summit,United States,Illinois,,11116.0,1840011329
+White Bear Lake,United States,Minnesota,,25875.0,1840010005
+Wytheville,United States,Virginia,,7921.0,1840006504
+Sonora,United States,California,,28035.0,1840021511
+Hampton,United States,Virginia,,134510.0,1840003866
+Chestermere,Canada,Alberta,,19887.0,1124000371
+Mataram,Indonesia,Nusa Tenggara Barat,admin,408900.0,1360021952
+Glyfada,Greece,Attikí,minor,87305.0,1300003373
+Sunbury,United Kingdom,Surrey,,18041.0,1826417394
+Marlow,United Kingdom,Buckinghamshire,,14004.0,1826308165
+Eagle,United States,Idaho,,29796.0,1840018642
+Easley,United States,South Carolina,,21364.0,1840013526
+Galveston,United States,Texas,,50446.0,1840020970
+Majadahonda,Spain,Madrid,,72155.0,1724482447
+Ratchaburi,Thailand,Ratchaburi,admin,36339.0,1764773366
+Nixa,United States,Missouri,,22515.0,1840008789
+Tampico,Mexico,Tamaulipas,minor,314418.0,1484060031
+Sao Jose dos Campos,Brazil,São Paulo,,688597.0,1076783887
+Cranston,United States,Rhode Island,,81456.0,1840003287
+Lionville,United States,Pennsylvania,,6398.0,1840005502
+Guanajuato,Mexico,Guanajuato,admin,171709.0,1484185068
+Lahaina,United States,Hawaii,,12776.0,1840023234
+Kassel,Germany,Hesse,minor,289924.0,1276791686
+St. George,United States,Utah,,120899.0,1840021559
+Williston,United States,North Dakota,,29844.0,1840001871
+Poznan,Poland,Wielkopolskie,admin,533830.0,1616725607
+Juneau,United States,Alaska,admin,31974.0,1840023306
+Creve Coeur,United States,Missouri,,18622.0,1840007443
+Kings Mountain,United States,North Carolina,,10982.0,1840014552
+Cullowhee,United States,North Carolina,,6377.0,1840013072
+Bronx,United States,New York,,1418207.0,1840033999
+Poulsbo,United States,Washington,,11168.0,1840019822
+Falls Church,United States,Virginia,,14617.0,1840003835
+Pismo Beach,United States,California,,8168.0,1840020416
+New York,United States,New York,,18713220.0,1840034016
+Forest City,United States,North Carolina,,25311.0,1840016320
+Balikesir,Turkey,Balıkesir,admin,331788.0,1792020804
+Webster Groves,United States,Missouri,,22819.0,1840010744
+Riverview,United States,Florida,,95338.0,1840014158
+West Chicago,United States,Illinois,,26816.0,1840010165
+Tottori,Japan,Tottori,,187323.0,1392416969
+Oak Park,United States,Illinois,,52381.0,1840011307
+Artesia,United States,California,,16601.0,1840019224
+Lisbon,Portugal,Lisboa,primary,506654.0,1620619017
+Wallasey,United Kingdom,Wirral,,60284.0,1826741418
+Washington,United States,District of Columbia,primary,5379184.0,1840006060
+Little Elm,United States,Texas,,53126.0,1840020640
+Surat Thani,Thailand,Surat Thani,admin,130703.0,1764338230
+Sudbury,United Kingdom,Ealing,,14950.0,1826460632
+Parksville,Canada,British Columbia,,12514.0,1124698963
+Chino,United States,California,,94371.0,1840019114
+Oakville,Canada,Ontario,,193832.0,1124080468
+Hagerstown,United States,Maryland,,184755.0,1840005613
+Sausalito,United States,California,,7068.0,1840021514
+Invercargill,New Zealand,Southland,admin,50200.0,1554148942
+East Hampton,United States,New York,,21952.0,1840005147
+Bardstown,United States,Kentucky,,21184.0,1840013219
+New Braunfels,United States,Texas,,90209.0,1840021341
+Forest Park,United States,Illinois,,13704.0,1840011276
+Cirencester,United Kingdom,Gloucestershire,,19076.0,1826367738
+North Reading,United States,Massachusetts,,15581.0,1840053482
+Wichita Falls,United States,Texas,,104683.0,1840021923
+Walled Lake,United States,Michigan,,7134.0,1840002435
+Framingham,United States,Massachusetts,,74416.0,1840003131
+Taylors,United States,South Carolina,,22230.0,1840013498
+Morehead City,United States,North Carolina,,49760.0,1840016482
+Hilo,United States,Hawaii,,45056.0,1840023193
+Ryugasaki,Japan,Ibaraki,,76055.0,1392150237
+Austintown,United States,Ohio,,28488.0,1840005185
+Redondo Beach,United States,California,,66749.0,1840020509
+West Valley City,United States,Utah,,135248.0,1840021389
+Monrovia,Liberia,Montserrado,primary,1021762.0,1430477826
+Sahuarita,United States,Arizona,,50616.0,1840022102
+Cancun,Mexico,Quintana Roo,minor,743626.0,1484010310
+Thalwil,Switzerland,Zürich,,17784.0,1756199955
+Kota Kinabalu,Malaysia,Sabah,admin,452058.0,1458441859
+Loma Linda,United States,California,,24482.0,1840020406
+Compton,United States,California,,95605.0,1840019240
+Glenpool,United States,Oklahoma,,13936.0,1840020384
+Cheney,United States,Washington,,12522.0,1840018398
+Riverside,United States,California,,2107852.0,1840020551
+San Luis Potosi,Mexico,San Luis Potosí,admin,824229.0,1484583620
+Arkadelphia,United States,Arkansas,,10726.0,1840013638
+Tendo,Japan,Yamagata,,61981.0,1392389398
+North Haven,United States,Connecticut,,23722.0,1840035515
+Rockaway,United States,New Jersey,,25069.0,1840000951
+Hailsham,United Kingdom,East Sussex,,20476.0,1826151855
+Wichita,United States,Kansas,,482249.0,1840001686
+Albany,United States,New York,admin,586383.0,1840000417
+Midlothian,United States,Texas,,33532.0,1840020757
+Farmingdale,United States,New York,,9002.0,1840005285
+Chigasaki,Japan,Kanagawa,,242347.0,1392346493
+Milton Keynes,United Kingdom,Milton Keynes,,229941.0,1826291745
+South Plainfield,United States,New Jersey,,24052.0,1840001334
+Monaco,Monaco,,primary,36371.0,1492854256
+Jinju,China,Guangdong,,26393.0,1156152673
+Foster City,United States,California,,33901.0,1840020302
+Suwa,Japan,Nagano,,48309.0,1392189773
+Lorain,United States,Ohio,,180279.0,1840000644
+Rancagua,Chile,Libertador General Bernardo O’Higgins,admin,231370.0,1152672356
+Haddonfield,United States,New Jersey,,11317.0,1840016699
+Groningen,Netherlands,Groningen,admin,201462.0,1528295161
+Hackensack,United States,New Jersey,,44188.0,1840003556
+Brandon,United States,Florida,,115911.0,1840014151
+Willemstad,Curaçao,,primary,150000.0,1531000000
+Del Rio,United States,Texas,,44121.0,1840019607
+Grass Valley,United States,California,,34196.0,1840020225
+Prince Albert,Canada,Saskatchewan,,35926.0,1124158154
+Stanford,United States,California,,16326.0,1840028400
+Fort Collins,United States,Colorado,,312666.0,1840020151
+Iowa City,United States,Iowa,,118041.0,1840000532
+Yankton,United States,South Dakota,,14872.0,1840003058
+Merrillville,United States,Indiana,,34792.0,1840009261
+Stow,United States,Ohio,,34785.0,1840000803
+Yelm,United States,Washington,,17103.0,1840021146
+San Sebastian de los Reyes,Spain,Madrid,,91224.0,1724422840
+Brno,Czechia,Jihomoravský Kraj,admin,382405.0,1203676514
+North Richland Hills,United States,Texas,,70670.0,1840020703
+Abingdon,United Kingdom,Oxfordshire,,39809.0,1826918722
+Mount Dora,United States,Florida,,14516.0,1840015082
+Babylon,United States,New York,,211207.0,1840005142
+Carson City,United States,Nevada,admin,58756.0,1840003826
+Bayport,United States,New York,,8402.0,1840005018
+Delson,Canada,Quebec,,7462.0,1124405717
+Clark,United States,New Jersey,,15748.0,1840081746
+New Carrollton,United States,Maryland,,12928.0,1840005978
+Hiroshima,Japan,Hiroshima,admin,1306589.0,1392373695
+Cincinnati,United States,Ohio,,1662691.0,1840003814
+Coralville,United States,Iowa,,22290.0,1840007076
+Libertyville,United States,Illinois,,20205.0,1840011161
+Suffolk,United States,Virginia,,92108.0,1840003873
+Stowe,United States,Pennsylvania,,6197.0,1840150309
+Jacksonville Beach,United States,Florida,,23628.0,1840015032
+Leawood,United States,Kansas,,34727.0,1840001638
+Cold Spring,United States,Kentucky,,6571.0,1840014257
+Elyria,United States,Ohio,,53757.0,1840000643
+Vista,United States,California,,101638.0,1840021994
+Arcueil,France,Île-de-France,,21501.0,1250317790
+Woodland,United States,California,,60598.0,1840021485
+Alameda,United States,California,,77624.0,1840018913
+Rowlett,United States,Texas,,67339.0,1840020711
+Naples,Italy,Campania,admin,966144.0,1380646673
+Terre Haute,United States,Indiana,,92490.0,1840009671
+Yulee,United States,Florida,,12754.0,1840013928
+Pekanbaru,Indonesia,Riau,admin,855221.0,1360422679
+Tokushima,Japan,Tokushima,admin,254510.0,1392795984
+Dumfries,United Kingdom,Dumfries and Galloway,,33320.0,1826801547
+Falkirk,United Kingdom,Falkirk,,35168.0,1826502864
+Downey,United States,California,,111126.0,1840019245
+Hermosa Beach,United States,California,,19320.0,1840020487
+Levelland,United States,Texas,,13755.0,1840020606
+Koblenz,Germany,Rhineland-Palatinate,minor,114024.0,1276605495
+Huntington Beach,United States,California,,199223.0,1840020578
+North Bergen,United States,New Jersey,,61619.0,1840081753
+Jefferson City,United States,Missouri,admin,58025.0,1840008615
+Anacortes,United States,Washington,,18563.0,1840018366
+Baguio City,Philippines,Baguio,admin,345366.0,1608164766
+Roseburg,United States,Oregon,,46228.0,1840020034
+Blackpool,United Kingdom,Blackpool,,139720.0,1826093175
+Daegu,"Korea, South",Daegu,admin,2461002.0,1410095252
+Olney,United States,Maryland,,35191.0,1840005836
+Glastonbury,United Kingdom,Somerset,,8932.0,1826365312
+Heathrow,United States,Florida,,6987.0,1840014070
+Naperville,United States,Illinois,,148449.0,1840008143
+Elk Grove,United States,California,,174775.0,1840020245
+Lititz,United States,Pennsylvania,,9465.0,1840003719
+Bangor,United Kingdom,Ards and North Down,,61011.0,1826282262
+Chimbote,Peru,Ancash,,497875.0,1604199858
+Sydney,Australia,New South Wales,admin,5312163.0,1036074917
+Waukegan,United States,Illinois,,86075.0,1840010113
+Lindale,United States,Texas,,13442.0,1840022078
+Metairie,United States,Louisiana,,142135.0,1840013994
+Erie,United States,Pennsylvania,,184484.0,1840000478
+Palm Springs,United States,Florida,,25216.0,1840018308
+Gimpo,"Korea, South",Gyeonggi,minor,352683.0,1410797548
+Kissimmee,United States,Florida,,382720.0,1840015109
+Mukilteo,United States,Washington,,21441.0,1840019793
+Forest Hill,United States,Texas,,12988.0,1840020695
+Caledonia,United States,Wisconsin,,25277.0,1840010091
+Williamsville,United States,New York,,5220.0,1840004392
+West Palm Beach,United States,Florida,,111955.0,1840015993
+Johns Creek,United States,Georgia,,84579.0,1840014742
+Vernal,United States,Utah,,19893.0,1840021391
+Brooksville,United States,Florida,,8564.0,1840014112
+Abu Dhabi,United Arab Emirates,Abū Z̧aby,primary,1000000.0,1784176710
+South El Monte,United States,California,,20574.0,1840021869
+Hartford,United States,Connecticut,admin,905152.0,1840004773
+Milpitas,United States,California,,84196.0,1840020329
+Andorra la Vella,Andorra,Andorra la Vella,primary,22151.0,1020828846
+Greensburg,United States,Pennsylvania,,14113.0,1840001137
+Saugus,United States,Massachusetts,,28215.0,1840053670
+Indio,United States,California,,417059.0,1840019304
+Saanich,Canada,British Columbia,,114148.0,1124000949
+Banbridge,United Kingdom,"Armagh, Banbridge and Craigavon",,14744.0,1826331367
+Incheon,"Korea, South",Incheon,admin,2913024.0,1410160313
+Wentzville,United States,Missouri,,41784.0,1840010717
+Meridian,United States,Idaho,,114161.0,1840020046
+Tyler,United States,Texas,,143796.0,1840022076
+Fultondale,United States,Alabama,,9284.0,1840002481
+Hockessin,United States,Delaware,,13157.0,1840005573
+Bellingham,United States,Washington,,130641.0,1840018346
+Santa Paula,United States,California,,30233.0,1840021842
+Farmington,United States,New Mexico,,51309.0,1840020349
+Trenton,United States,New Jersey,admin,290716.0,1840001383
+Cordoba,Argentina,Córdoba,admin,1329604.0,1032803249
+Calabasas,United States,California,,23853.0,1840019234
+Allendale,United States,Michigan,,21672.0,1840004345
+Cairo,Egypt,Al Qāhirah,primary,19372000.0,1818253931
+Callaway,United States,Florida,,14060.0,1840013958
+Little Ferry,United States,New Jersey,,10739.0,1840003534
+Willits,United States,California,,8055.0,1840021421
+Wayne,United States,New Jersey,,53954.0,1840081808
+Palm Desert,United States,California,,53275.0,1840020555
+Deerfield,United States,Illinois,,18646.0,1840011167
+Toronto,Canada,Ontario,,5429524.0,1124279679
+Murcia,Spain,Murcia,admin,502000.0,1724107739
+Nederland,United States,Texas,,17371.0,1840020917
+Hikone,Japan,Shiga,,113191.0,1392717059
+Exeter,United Kingdom,Devon,,124180.0,1826840903
+Montrose,United States,Colorado,,23478.0,1840020251
+Miri,Malaysia,Sarawak,,234541.0,1458079883
+Peachtree Corners,United States,Georgia,,43905.0,1840029447
+Mahwah,United States,New Jersey,,26275.0,1840081806
+Cobham,United Kingdom,Surrey,,9739.0,1826478182
+Atascocita,United States,Texas,,81557.0,1840018251
+Starkville,United States,Mississippi,,32546.0,1840015713
+Epsom,United Kingdom,Surrey,,31489.0,1826078283
+River Forest,United States,Illinois,,10816.0,1840011284
+Yonkers,United States,New York,,200370.0,1840003478
+Billerica,United States,Massachusetts,,43200.0,1840053475
+Corinth,United States,Texas,,22099.0,1840019389
+Trondheim,Norway,Sør-Trøndelag,minor,183378.0,1578633461
+Hicksville,United States,New York,,42709.0,1840005266
+Toyota,Japan,Aichi,,422106.0,1392498272
+Manitowoc,United States,Wisconsin,,44770.0,1840002213
+Yaroslavl,Russia,Yaroslavskaya Oblast’,admin,608079.0,1643338528
+Marble Falls,United States,Texas,,7099.0,1840020870
+Tokoname,Japan,Aichi,,57507.0,1392719168
+North Little Rock,United States,Arkansas,,65903.0,1840014632
+East Lansing,United States,Michigan,,48145.0,1840003101
+Morgantown,United States,West Virginia,,72458.0,1840005647
+Hacienda Heights,United States,California,,55188.0,1840017921
+Strongsville,United States,Ohio,,44660.0,1840003415
+Hangzhou,China,Zhejiang,admin,6446000.0,1156275243
+Lakeway,United States,Texas,,15981.0,1840020894
+Quilmes,Argentina,Buenos Aires,minor,230810.0,1032880202
+Aiea,United States,Hawaii,,9638.0,1840029469
+Baden,Switzerland,Aargau,,19122.0,1756517451
+Saskatoon,Canada,Saskatchewan,,246376.0,1124612546
+Sun City,United States,Arizona,,38877.0,1840019311
+Krasnodar,Russia,Krasnodarskiy Kray,admin,881476.0,1643438227
+Bangalore,India,Karnātaka,admin,13707000.0,1356410365
+New Iberia,United States,Louisiana,,28454.0,1840015053
+Missouri City,United States,Texas,,75457.0,1840020950
+Galesburg,United States,Illinois,,33767.0,1840008277
+Irapuato,Mexico,Guanajuato,minor,380941.0,1484625454
+Pasadena,United States,Texas,,151227.0,1840020930
+Sandy Springs,United States,Georgia,,109452.0,1840015609
+Bulverde,United States,Texas,,5300.0,1840019628
+Alcoa,United States,Tennessee,,9980.0,1840013404
+Laurel,United States,Maryland,,25631.0,1840005976
+White Marsh,United States,Maryland,,9216.0,1840005696
+Wanstead,United Kingdom,Redbridge,,11543.0,1826002020
+Cabo San Lucas,Mexico,Baja California Sur,,81111.0,1484694325
+San Dimas,United States,California,,33621.0,1840021860
+Bowie,United States,Maryland,,58643.0,1840005970
+Inzai,Japan,Chiba,,103677.0,1392272573
+Richmond,United States,Virginia,admin,1075798.0,1840001698
+San Juan Capistrano,United States,California,,35911.0,1840021963
+Fenouillet,France,Occitanie,,5272.0,1250371861
+West Dundee,United States,Illinois,,8113.0,1840011357
+Grants Pass,United States,Oregon,,55837.0,1840020087
+Prince Rupert,Canada,British Columbia,,12220.0,1124847707
+Green Bay,United States,Wisconsin,,207557.0,1840002344
+Leeds,United Kingdom,Leeds,,1901934.0,1826343963
+Carpinteria,United States,California,,13385.0,1840019187
+Lompoc,United States,California,,52020.0,1840020468
+Scarborough,United Kingdom,North Yorkshire,,61749.0,1826723231
+Harrisonville,United States,Missouri,,10078.0,1840007464
+Fort Belvoir,United States,Virginia,,7967.0,1840073578
+Tuckahoe,United States,New York,,6549.0,1840004946
+Bremerton,United States,Washington,,218400.0,1840018410
+Daejeon,"Korea, South",Daejeon,admin,1475221.0,1410993875
+Uenohara,Japan,Yamanashi,,22557.0,1392602835
+Ephrata,United States,Pennsylvania,,13862.0,1840003717
+St. Albert,Canada,Alberta,,65589.0,1124850754
+Niihama,Japan,Ehime,,114971.0,1392682431
+Williamsport,United States,Pennsylvania,,53861.0,1840000637
+Kuna,United States,Idaho,,22292.0,1840020047
+DuPont,United States,Washington,,9516.0,1840018457
+Highland,United States,California,,55417.0,1840020405
+Maryville,United States,Tennessee,,29742.0,1840015380
+Closter,United States,New Jersey,,8511.0,1840003538
+Middleton,United Kingdom,Rochdale,,42972.0,1826160201
+Port St. Lucie,United States,Florida,,461152.0,1840015119
+Otsego,United States,Minnesota,,18113.0,1840008899
+Wareham,United States,Massachusetts,,22641.0,1840053578
+Bordeaux,France,Nouvelle-Aquitaine,admin,257804.0,1250449238
+Dortmund,Germany,North Rhine-Westphalia,minor,587010.0,1276562886
+Kahoku,Japan,Ishikawa,,34936.0,1392426434
+Diamond Bar,United States,California,,55720.0,1840019244
+Spring Valley,United States,Nevada,,207127.0,1840033832
+Truro,United Kingdom,Cornwall,,18766.0,1826586304
+Garland,United States,Texas,,239928.0,1840020707
+Rochester Hills,United States,Michigan,,74516.0,1840002429
+Sussex,United States,Wisconsin,,10981.0,1840003006
+Kotelniki,Russia,Moskovskaya Oblast’,,46763.0,1643514399
+Wyoming,United States,Michigan,,75667.0,1840000374
+Wembley,United Kingdom,Brent,,102856.0,1826635683
+Gastonia,United States,North Carolina,,182581.0,1840013468
+Crosby,United Kingdom,Sefton,,50044.0,1826899809
+Lake Jackson,United States,Texas,,75860.0,1840020980
+Beirut,Lebanon,Beyrouth,primary,361366.0,1422847713
+Charlottetown,Canada,Prince Edward Island,,42602.0,1124897699
+Crawley,United Kingdom,West Sussex,,106597.0,1826470693
+Greeley,United States,Colorado,,137810.0,1840020149
+Ely,United Kingdom,Cambridgeshire,,20112.0,1826009346
+Rayong,Thailand,Rayong,admin,61902.0,1764920057
+Stone Mountain,United States,Georgia,,6281.0,1840015645
+Puyallup,United States,Washington,,42361.0,1840019859
+Somerset,United States,Kentucky,,30053.0,1840015257
+Baton Rouge,United States,Louisiana,admin,570308.0,1840013941
+Durham,United States,North Carolina,,424700.0,1840013364
+Porter,United States,New York,,6572.0,1840058414
+Amman,Jordan,Al ‘Āşimah,primary,4007526.0,1400522593
+Miami Gardens,United States,Florida,,110001.0,1840015151
+Tucson,United States,Arizona,,888486.0,1840022101
+Harper Woods,United States,Michigan,,13746.0,1840003981
+Lincolnwood,United States,Illinois,,12245.0,1840011259
+Acton,United Kingdom,Ealing,,62480.0,1826793320
+Aztec,United States,New Mexico,,7963.0,1840018993
+Shippensburg,United States,Pennsylvania,,17234.0,1840001395
+Wilmington,United States,North Carolina,,255616.0,1840015576
+Nicosia,Cyprus,Lefkosía,primary,330000.0,1196944155
+Perth,Australia,Western Australia,admin,2059484.0,1036178956
+Guaynabo,Puerto Rico,Puerto Rico,,68024.0,1630023575
+Lander,United States,Wyoming,,7458.0,1840020027
+Airway Heights,United States,Washington,,9485.0,1840018399
+Basalt,United States,Colorado,,9193.0,1840020195
+Lake Ridge,United States,Virginia,,44716.0,1840006099
+San Carlos,Philippines,Negros Occidental,,132536.0,1608048026
+Bloomfield,United States,New Jersey,,49260.0,1840131592
+Signal Hill,United States,California,,11421.0,1840021868
+Barstow,United States,California,,30605.0,1840019118
+Rancho Santa Margarita,United States,California,,47896.0,1840020584
+Grand Blanc,United States,Michigan,,7870.0,1840002951
+Selinsgrove,United States,Pennsylvania,,5902.0,1840002799
+Huntington,United States,New York,,201718.0,1840058192
+Oak Harbor,United States,Washington,,35228.0,1840019779
+Edinburg,United States,Texas,,101170.0,1840021020
+Fort Lee,United States,New Jersey,,38605.0,1840003552
+Monterrey,Mexico,Nuevo León,admin,4295000.0,1484559591
+Englewood,United States,Colorado,,34917.0,1840020211
+New Delhi,India,Delhi,primary,142004.0,1356215164
+Villahermosa,Mexico,Tabasco,admin,640359.0,1484460894
+Lille,France,Hauts-de-France,admin,232787.0,1250071961
+Oakland Park,United States,Florida,,45202.0,1840015139
+El Cajon,United States,California,,102708.0,1840020618
+Anyang,"Korea, South",Gyeonggi,,573296.0,1410581095
+Istanbul,Turkey,İstanbul,admin,15154000.0,1792756324
+Barrington,United States,Rhode Island,,16131.0,1840106239
+Irbid,Jordan,Irbid,admin,1088100.0,1400221568
+Commerce,United States,California,,12661.0,1840019239
+Puerto Vallarta,Mexico,Jalisco,minor,221200.0,1484408906
+Sandy,United States,Utah,,96380.0,1840037422
+Ketchikan,United States,Alaska,,10652.0,1840023270
+Waconia,United States,Minnesota,,12428.0,1840010008
+Castaic,United States,California,,19400.0,1840022826
+Shoreview,United States,Minnesota,,27130.0,1840008938
+Brandywine,United States,Maryland,,9849.0,1840005946
+Avon,France,Île-de-France,,13662.0,1250308885
+East Point,United States,Georgia,,34875.0,1840013661
+Fife,United States,Washington,,10184.0,1840019853
+Maumee,United States,Ohio,,13669.0,1840000569
+Victorville,United States,California,,346789.0,1840021731
+Corning,United States,New York,,19296.0,1840000443
+North Platte,United States,Nebraska,,24098.0,1840008251
+Nesconset,United States,New York,,13293.0,1840005051
+Stayton,United States,Oregon,,11166.0,1840021227
+Camden,United States,New Jersey,,73562.0,1840001507
+Samara,Russia,Samarskaya Oblast’,admin,1169719.0,1643205757
+Wyckoff,United States,New Jersey,,17017.0,1840081803
+Wilmslow,United Kingdom,Cheshire East,,24497.0,1826883084
+Torquay,United Kingdom,Torbay,,65245.0,1826982921
+Monroe,United States,Louisiana,,112891.0,1840014881
+Garden Grove,United States,California,,171644.0,1840020577
+Hillsdale,United States,Michigan,,11223.0,1840003252
+Morton Grove,United States,Illinois,,22796.0,1840011299
+Schaumburg,United States,Illinois,,72887.0,1840011319
+Danvers,United States,Massachusetts,,27586.0,1840053528
+Miramar Beach,United States,Florida,,8356.0,1840013925
+Thessaloniki,Greece,Kentrikí Makedonía,admin,315196.0,1300397999
+Johnston,United States,Rhode Island,,29307.0,1840106232
+Zushi,Japan,Kanagawa,,56996.0,1392442008
+Napier,New Zealand,Hawke’s Bay,admin,62241.0,1554064936
+Naga City,Philippines,Naga,admin,196003.0,1608775993
+Coalinga,United States,California,,17179.0,1840018945
+Hazelwood,United States,Missouri,,25117.0,1840007453
+North Olmsted,United States,Ohio,,31341.0,1840003400
+Jersey City,United States,New Jersey,,262075.0,1840003600
+Kenmore,United States,New York,,15020.0,1840004386
+Nashville,United States,Tennessee,admin,1081903.0,1840036155
+La Grande,United States,Oregon,,15515.0,1840019924
+Bromley,United Kingdom,Bromley,,87889.0,1826385764
+Hillsboro,United States,Oregon,,109128.0,1840019932
+Maple Valley,United States,Washington,,27202.0,1840019828
+Doral,United States,Florida,,65741.0,1840015148
+Maitland,Australia,New South Wales,,78015.0,1036034945
+Wildwood,United States,Missouri,,35432.0,1840010746
+Harvey,United States,Illinois,,24408.0,1840007029
+Murfreesboro,United States,Tennessee,,179951.0,1840014495
+Lake Placid,United States,Florida,,18227.0,1840017248
+South Lake Tahoe,United States,California,,30188.0,1840021471
+Hayward,United States,California,,159203.0,1840020293
+Kingston,Jamaica,Kingston,primary,580000.0,1388709177
+Basildon,United Kingdom,Essex,,185900.0,1826481004
+Pohang,"Korea, South",Gyeongbuk,minor,520305.0,1410983252
+Ruston,United States,Louisiana,,27717.0,1840014878
+San Leandro,United States,California,,88815.0,1840021538
+Manteca,United States,California,,103420.0,1840020265
+North Attleborough,United States,Massachusetts,,29180.0,1840070236
+Canonsburg,United States,Pennsylvania,,8760.0,1840003643
+Elk Grove Village,United States,Illinois,,32400.0,1840011271
+Pembroke Pines,United States,Florida,,173591.0,1840015141
+Sioux Falls,United States,South Dakota,,187239.0,1840002648
+Minot,United States,North Dakota,,49425.0,1840000053
+Beverly,United States,Massachusetts,,42174.0,1840000411
+Dasmarinas,Philippines,Cavite,,659019.0,1608418544
+Patterson,United States,California,,22930.0,1840020290
+Graham,United States,Washington,,28976.0,1840017365
+Lincoln,United States,Nebraska,admin,289490.0,1840009357
+Bayamon,Puerto Rico,Puerto Rico,,161034.0,1630035622
+Powell River,Canada,British Columbia,,13157.0,1124154376
+Hoffman Estates,United States,Illinois,,50932.0,1840011263
+Mobile,United States,Alabama,,315502.0,1840006009
+San Clemente,United States,California,,64558.0,1840021962
+Merced,United States,California,,145149.0,1840020313
+Newington,United States,Connecticut,,30234.0,1840035505
+Spartanburg,United States,South Carolina,,182701.0,1840015482
+Nisshin,Japan,Aichi,,92823.0,1392999336
+Norristown,United States,Pennsylvania,,34341.0,1840003705
+Newburyport,United States,Massachusetts,,18289.0,1840000413
+Indiana,United States,Pennsylvania,,27142.0,1840000997
+El Sobrante,United States,California,,13881.0,1840075804
+Newark,United States,New Jersey,,282011.0,1840002791
+Grove City,United States,Ohio,,41820.0,1840007264
+Labuan,Malaysia,Labuan,admin,,1458460967
+Lake Oswego,United States,Oregon,,39822.0,1840019955
+Marietta,United States,Georgia,,60867.0,1840015633
+McLean,United States,Virginia,,47682.0,1840006018
+Winter Garden,United States,Florida,,46051.0,1840015965
+Des Peres,United States,Missouri,,8697.0,1840007456
+East Grinstead,United Kingdom,West Sussex,,26383.0,1826278903
+Swindon,United Kingdom,Swindon,,192599.0,1826498106
+Monument,United States,Colorado,,8097.0,1840022474
+Renton,United States,Washington,,101751.0,1840019827
+Mint Hill,United States,North Carolina,,27617.0,1840016351
+Lake Grove,United States,New York,,11056.0,1840005121
+Gaffney,United States,South Carolina,,21169.0,1840013515
+Daphne,United States,Alabama,,71484.0,1840006178
+Northville,United States,Michigan,,5958.0,1840003958
+Cheektowaga,United States,New York,,86477.0,1840057976
+Jeonju,"Korea, South",Jeonbuk,minor,653055.0,1410494847
+Islip,United States,New York,,331499.0,1840058203
+Medford,United States,Oregon,,170876.0,1840020076
+Riverdale,United States,Georgia,,15594.0,1840014815
+Fort Mohave,United States,Arizona,,15593.0,1840042961
+Kagoshima,Japan,Kagoshima,admin,594258.0,1392120675
+Kamisu,Japan,Ibaraki,,95471.0,1392634524
+Byron,United States,Illinois,,6896.0,1840007021
+Kill Devil Hills,United States,North Carolina,,20951.0,1840016154
+Irmo,United States,South Carolina,,12483.0,1840016723
+Brussels,Belgium,Brussels-Capital Region,primary,1743000.0,1056469830
+Wonju,"Korea, South",Gangwon,,330854.0,1410782685
+Casa Grande,United States,Arizona,,61966.0,1840019364
+South Brunswick,United States,New Jersey,,45400.0,1840081692
+Mountain View,United States,California,,82739.0,1840020332
+Waco,United States,Texas,,192315.0,1840022140
+Isparta,Turkey,Isparta,admin,258375.0,1792105249
+Hopkinsville,United States,Kentucky,,31569.0,1840014399
+Westmont,United States,California,,35266.0,1840028408
+Helotes,United States,Texas,,9961.0,1840020957
+Cheadle,United Kingdom,Staffordshire,,12165.0,1826424119
+Ansonia,United States,Connecticut,,18654.0,1840004846
+Prescott Valley,United States,Arizona,,101539.0,1840021772
+Santa Clara,Cuba,Villa Clara,admin,207963.0,1192329773
+Safety Harbor,United States,Florida,,18016.0,1840015975
+The Woodlands,United States,Texas,,113819.0,1840019585
+Melrose Park,United States,Illinois,,24703.0,1840011296
+Largo,United States,Florida,,84948.0,1840015114
+Liberty Lake,United States,Washington,,10956.0,1840037678
+Waxahachie,United States,Texas,,37988.0,1840022083
+Bartlesville,United States,Oklahoma,,39301.0,1840018977
+Carmichael,United States,California,,64454.0,1840017579
+Westborough,United States,Massachusetts,,19037.0,1840053611
+Mount Laurel,United States,New Jersey,,41422.0,1840081624
+Ushiku,Japan,Ibaraki,,84505.0,1392965168
+D'Iberville,United States,Mississippi,,14012.0,1840015023
+Goldsboro,United States,North Carolina,,57278.0,1840013432
+Ferguson,United States,Missouri,,20525.0,1840008584
+Olathe,United States,Kansas,,140545.0,1840003833
+Farmington Hills,United States,Michigan,,80612.0,1840002442
+Farnborough,United Kingdom,Hampshire,,65034.0,1826383788
+Lake Worth,United States,Florida,,38526.0,1840015127
+Fargo,United States,North Dakota,,208675.0,1840000177
+University Place,United States,Washington,,34001.0,1840021130
+Polson,United States,Montana,,5370.0,1840019802
+St. Peters,United States,Missouri,,58212.0,1840009721
+New Hope,United States,Minnesota,,20907.0,1840007829
+South San Francisco,United States,California,,67789.0,1840021552
+Canal Winchester,United States,Ohio,,8818.0,1840010524
+Enola,United States,Pennsylvania,,6251.0,1840005483
+Warwick,United States,Rhode Island,,81004.0,1840003344
+Quakertown,United States,Pennsylvania,,8784.0,1840001310
+Detroit,United States,Michigan,,3506126.0,1840003971
+Adana,Turkey,Adana,admin,2220125.0,1792783772
+Black Mountain,United States,North Carolina,,8162.0,1840015392
+Yorktown,United States,New York,,36538.0,1840088070
+Potters Bar,United Kingdom,Hertfordshire,,21639.0,1826408007
+Lisle,United States,Illinois,,23270.0,1840011401
+Salida,United States,California,,14229.0,1840018908
+Accokeek,United States,Maryland,,11647.0,1840005943
+Stockholm,Sweden,Stockholm,primary,972647.0,1752425602
+Grand Haven,United States,Michigan,,11047.0,1840002995
+Vaughan,Canada,Ontario,,306233.0,1124000141
+Independence,United States,Missouri,,116672.0,1840008534
+Keizer,United States,Oregon,,39713.0,1840018581
+New Port Richey,United States,Florida,,16737.0,1840015102
+Sonoma,United States,California,,33831.0,1840021490
+Afyonkarahisar,Turkey,Afyonkarahisar,admin,299673.0,1792855788
+San Francisco,United States,California,,3592294.0,1840021543
+New Canaan,United States,Connecticut,,20276.0,1840035495
+Buffalo Grove,United States,Illinois,,40494.0,1840010143
+Malahide,Canada,Ontario,,9292.0,1124001777
+Mont-Tremblant,Canada,Quebec,,9646.0,1124041173
+University City,United States,Missouri,,34165.0,1840010739
+Hebron,United States,Connecticut,,9512.0,1840035074
+Woburn,United States,Massachusetts,,40228.0,1840003124
+Aberdeen,United Kingdom,Aberdeen City,,214610.0,1826324306
+San Jose del Cabo,Mexico,Baja California Sur,minor,93069.0,1484157742
+Banbury,United Kingdom,Oxfordshire,,46853.0,1826594194
+Dothan,United States,Alabama,,72396.0,1840001518
+San Marcos,El Salvador,San Salvador,,63209.0,1222304332
+Merriam,United States,Kansas,,11081.0,1840003830
+Takoma Park,United States,Maryland,,17725.0,1840005850
+Estes Park,United States,Colorado,,7769.0,1840021382
+Carney,United States,Maryland,,30289.0,1840005678
+Savannah,United States,Georgia,,276295.0,1840015830
+Kansas City,United States,Missouri,,1636715.0,1840008535
+Schertz,United States,Texas,,42042.0,1840022213
+Plainfield,United States,New Jersey,,50317.0,1840001090
+Boone,United States,North Carolina,,26146.0,1840015310
+Webb City,United States,Missouri,,12134.0,1840010878
+Hellertown,United States,Pennsylvania,,5831.0,1840000973
+Lubbock,United States,Texas,,267648.0,1840020604
+Oak Ridge,United States,Florida,,24004.0,1840029062
+Phoenix,United States,Arizona,admin,4219697.0,1840020568
+West New York,United States,New Jersey,,52723.0,1840001035
+Merritt,Canada,British Columbia,,7139.0,1124550302
+South Portland,United States,Maine,,25532.0,1840000328
+Watertown,United States,New York,,53163.0,1840002200
+Guiguinto,Philippines,Bulacan,,99730.0,1608949348
+Mill Valley,United States,California,,14259.0,1840020259
+Harlingen,United States,Texas,,136037.0,1840021036
+Valley Park,United States,Missouri,,6796.0,1840010740
+Sao Paulo,Brazil,São Paulo,admin,22046000.0,1076532519
+Lynbrook,United States,New York,,19448.0,1840005304
+San Fernando,Philippines,Pampanga,admin,306659.0,1608862124
+Port Angeles,United States,Washington,,24293.0,1840019782
+Vineland,United States,New Jersey,,93239.0,1840001551
+Lathrop,United States,California,,24483.0,1840020266
+Bullhead City,United States,Arizona,,50309.0,1840019748
+Ormond Beach,United States,Florida,,43759.0,1840015076
+Cozumel,Mexico,Quintana Roo,minor,77236.0,1484935305
+Benicia,United States,California,,28240.0,1840018858
+Bettendorf,United States,Iowa,,36543.0,1840007079
+Bayonne,United States,New Jersey,,64897.0,1840003595
+Brockville,Canada,Ontario,,21854.0,1124286131
+Beaverton,United States,Oregon,,99037.0,1840018556
+Ocoee,United States,Florida,,48263.0,1840015098
+Liberty,United States,Missouri,,32100.0,1840008502
+Mesa,United States,Arizona,,518012.0,1840020566
+Poole,United Kingdom,Poole,,151500.0,1826379738
+Leavenworth,United States,Kansas,,46192.0,1840001591
+Murrysville,United States,Pennsylvania,,19590.0,1840001148
+Shorewood,United States,Wisconsin,,13145.0,1840003031
+Cherry Hill,United States,New Jersey,,70965.0,1840081685
+Holladay,United States,Utah,,30325.0,1840020156
+Kofu,Japan,Yamanashi,admin,187144.0,1392307565
+Enid,United States,Oklahoma,,49688.0,1840020373
+Rockledge,United States,Florida,,28227.0,1840015095
+Ponca City,United States,Oklahoma,,24274.0,1840020345
+Fresno,United States,California,,703498.0,1840020319
+Horwich,United Kingdom,Bolton,,20067.0,1826931583
+Watauga,United States,Texas,,24481.0,1840022049
+Hopkins,United States,Minnesota,,18468.0,1840006749
+Chico,United States,California,,117668.0,1840018778
+North Augusta,United States,South Carolina,,23845.0,1840014788
+Ridgefield,United States,Connecticut,,25042.0,1840035559
+Shepherdsville,United States,Kentucky,,12442.0,1840015214
+Dorado,Puerto Rico,Puerto Rico,,12695.0,1630023736
+Takeo,Cambodia,Takeo,admin,52000.0,1116674518
+Lakeshore,Canada,Ontario,,36611.0,1124001501
+Watchung,United States,New Jersey,,6006.0,1840001061
+Tokyo,Japan,Tōkyō,primary,37977000.0,1392685764
+Shakopee,United States,Minnesota,,41570.0,1840008955
+Banff,Canada,Alberta,,7847.0,1124351648
+Kure,Japan,Hiroshima,,212159.0,1392991987
+South Burlington,United States,Vermont,,19509.0,1840002311
+Plattekill,United States,New York,,10254.0,1840058407
+Jeffersontown,United States,Kentucky,,27715.0,1840014311
+Towson,United States,Maryland,,57817.0,1840005695
+Hailey,United States,Idaho,,11409.0,1840020028
+Nappanee,United States,Indiana,,7139.0,1840008189
+Ipswich,United Kingdom,Suffolk,,180000.0,1826629486
+Downers Grove,United States,Illinois,,49057.0,1840011404
+Smithtown,United States,New York,,116669.0,1840058498
+Los Osos,United States,California,,16533.0,1840017805
+Malay,Philippines,Aklan,,52973.0,1608537061
+San Luis Obispo,United States,California,,62290.0,1840021734
+Fort Carson,United States,Colorado,,14951.0,1840028557
+Wallisellen,Switzerland,Zürich,,15855.0,1756960820
+Trophy Club,United States,Texas,,12451.0,1840022993
+Mainz,Germany,Rhineland-Palatinate,admin,217118.0,1276801317
+Bradenton,United States,Florida,,59439.0,1840014173
+Rome,Italy,Lazio,primary,2872800.0,1380382862
+Oswego,United States,New York,,37420.0,1840000348
+Harrisonburg,United States,Virginia,,72386.0,1840003844
+Taylor,United States,Michigan,,60922.0,1840003965
+Shanghai,China,Shanghai,admin,22120000.0,1156073548
+Hermiston,United States,Oregon,,29512.0,1840019915
+Yuma,United States,Arizona,,142847.0,1840021998
+Shizuoka,Japan,Shizuoka,admin,685589.0,1392235505
+Nottingham,United Kingdom,Nottingham,,768638.0,1826122597
+North Charleston,United States,South Carolina,,115382.0,1840015164
+Yokohama,Japan,Kanagawa,admin,3757630.0,1392118339
+Wellington,New Zealand,Wellington,primary,418500.0,1554772152
+Henrietta,United States,New York,,43347.0,1840058179
+North Brunswick,United States,New Jersey,,41760.0,1840081694
+Croydon,United Kingdom,Croydon,,192064.0,1826126675
+Streetsboro,United States,Ohio,,16478.0,1840000808
+Lodi,United States,New Jersey,,24347.0,1840003535
+Burien,United States,Washington,,51500.0,1840018420
+Spearfish,United States,South Dakota,,12836.0,1840002374
+Delta,Canada,British Columbia,,102238.0,1124001200
+Limassol,Cyprus,Lemesós,admin,235056.0,1196136222
+Mansfield,United Kingdom,Nottinghamshire,,106556.0,1826359576
+Cuyahoga Falls,United States,Ohio,,49106.0,1840000795
+Hot Springs,United States,Arkansas,,60767.0,1840014670
+Cochrane,Canada,Alberta,,25853.0,1124952542
+Lazaro Cardenas,Mexico,Chihuahua,,8704.0,1484739082
+Wakefield,United Kingdom,Wakefield,,99251.0,1826013112
+Newbridge,United Kingdom,Caerphilly,,6509.0,1826628425
+Mesquite,United States,Texas,,140937.0,1840020713
+Woodstock,Canada,Ontario,,40902.0,1124758374
+Narita,Japan,Chiba,,130689.0,1392216588
+Kennett Square,United States,Pennsylvania,,6202.0,1840001428
+Guadalajara,Mexico,Jalisco,admin,5253000.0,1484950208
+Miramar,United States,Florida,,141191.0,1840015137
+Rock Hill,United States,South Carolina,,119105.0,1840014618
+Bonita,United States,California,,12706.0,1840018015
+Eugene,United States,Oregon,,273439.0,1840020007
+Lawrence,United States,Massachusetts,,80028.0,1840000408
+Vejle,Denmark,Syddanmark,admin,51177.0,1208585023
+Hendersonville,United States,Tennessee,,58113.0,1840014419
+West Allis,United States,Wisconsin,,59890.0,1840003034
+Lancaster,United States,Pennsylvania,,401524.0,1840003718
+Neptune Beach,United States,Florida,,7259.0,1840015030
+New Kensington,United States,Pennsylvania,,12292.0,1840001151
+Hitchin,United Kingdom,Hertfordshire,,33352.0,1826093917
+Pukalani,United States,Hawaii,,7695.0,1840029545
+Calumet City,United States,Illinois,,35913.0,1840007023
+Salzburg,Austria,Salzburg,admin,155021.0,1040312147
+Deerfield Beach,United States,Florida,,81066.0,1840015136
+East Rutherford,United States,New Jersey,,9687.0,1840003542
+Muscatine,United States,Iowa,,26168.0,1840008202
+Agoura Hills,United States,California,,20222.0,1840019221
+Madras,United States,Oregon,,9340.0,1840019987
+Zeeland,Netherlands,Noord-Brabant,minor,5788.0,1528533817
+Taiping,China,Sichuan,,407594.0,1156077074
+Culpeper,United States,Virginia,,20485.0,1840006169
+Cloverdale,United States,California,,9205.0,1840018838
+Espoo,Finland,Uusimaa,minor,269802.0,1246357316
+Ulsan,"Korea, South",Ulsan,admin,1166033.0,1410134602
+North Highlands,United States,California,,47661.0,1840018841
+Wailea,United States,Hawaii,,6218.0,1840025210
+Oaxaca,Mexico,Oaxaca,admin,300050.0,1484301467
+Kawagoe,Japan,Saitama,,337931.0,1392825080
+Sierra Vista,United States,Arizona,,51731.0,1840022103
+Costa Mesa,United States,California,,113003.0,1840019326
+Kanazawa,Japan,Ishikawa,admin,462479.0,1392684679
+Chicago,United States,Illinois,,8604203.0,1840000494
+Victor,United States,New York,,14877.0,1840004414
+Hawthorne,United States,California,,86068.0,1840020486
+Rifle,United States,Colorado,,11089.0,1840020185
+West Sacramento,United States,California,,53519.0,1840021483
+Ludlow,United States,Massachusetts,,21291.0,1840053449
+Stafford,United Kingdom,Staffordshire,,68472.0,1826088347
+Kasuga,Japan,Fukuoka,,111144.0,1392971052
+Changwon,"Korea, South",Gyeongnam,admin,1046054.0,1410592618
+Morelia,Mexico,Michoacán de Ocampo,,784776.0,1484669072
+Gretna,United States,Louisiana,,17647.0,1840013996
+Port Washington,United States,New York,,15808.0,1840005252
+Granbury,United States,Texas,,37996.0,1840020749
+California,United States,Maryland,,14815.0,1840006228
+Kitchener,Canada,Ontario,,470015.0,1124158530
+Toledo,United States,Ohio,,482111.0,1840000572
+Inver Grove Heights,United States,Minnesota,,35672.0,1840007858
+Milledgeville,United States,Georgia,,31471.0,1840014857
+Alexandria,Egypt,Al Iskandarīyah,admin,4870000.0,1818695837
+Levittown,United States,New York,,51634.0,1840005270
+Snellville,United States,Georgia,,20077.0,1840015614
+Eagan,United States,Minnesota,,66372.0,1840007852
+Burnaby,Canada,British Columbia,,232755.0,1124817304
+Gladstone,Australia,Queensland,,33418.0,1036070755
+Tijuana,Mexico,Baja California,minor,2384609.0,1484708778
+New Haven,United States,Connecticut,,564830.0,1840004850
+Northport,United States,Alabama,,26115.0,1840014819
+Glen Allen,United States,Virginia,,15488.0,1840006390
+Bisbee,United States,Arizona,,5225.0,1840019495
+South Gate,United States,California,,93444.0,1840021870
+Ishigaki,Japan,Okinawa,,48258.0,1392462580
+Monmouth,United States,Oregon,,20172.0,1840019971
+Irving,United States,Texas,,239798.0,1840019438
+Mount Pleasant,United States,South Carolina,,91684.0,1840017286
+Beckley,United States,West Virginia,,57942.0,1840006350
+Morehead,United States,Kentucky,,8044.0,1840014291
+Macon,United States,Georgia,,153159.0,1840043455
+Gardnerville,United States,Nevada,,6121.0,1840017563
+Ajax,Canada,Ontario,,119677.0,1124382916
+Coachella,United States,California,,45743.0,1840019294
+Deventer,Netherlands,Overijssel,minor,99166.0,1528681564
+Wayland,United States,Massachusetts,,13802.0,1840053492
+Moscow,Russia,Moskva,primary,17125000.0,1643318494
+Pilar,Paraguay,Ñeembucú,admin,32810.0,1600377954
+Las Pinas City,Philippines,Las Piñas,,588894.0,1608544537
+Neumunster,Germany,Schleswig-Holstein,minor,79487.0,1276757733
+Lebanon,United States,Pennsylvania,,78302.0,1840001347
+Rochdale,United Kingdom,Rochdale,,107926.0,1826578106
+Port Alberni,Canada,British Columbia,,17678.0,1124952808
+Coventry,United Kingdom,Coventry,,362690.0,1826979198
+Woodhaven,United States,Michigan,,12469.0,1840001848
+Marseille,France,Provence-Alpes-Côte d’Azur,admin,870018.0,1250774071
+Granger,United States,Indiana,,30776.0,1840030079
+Culver City,United States,California,,39185.0,1840019243
+Hull,United States,Massachusetts,,10455.0,1840053570
+Yucca Valley,United States,California,,25042.0,1840022726
+Yao,Chad,Batha,,91507.0,1148655909
+Ichihara,Japan,Chiba,,268038.0,1392167256
+Colonial Heights,United States,Virginia,,17370.0,1840003860
+Tainan,Taiwan,Tainan,admin,1883831.0,1158061376
+Baden-Baden,Germany,Baden-Württemberg,minor,55123.0,1276150269
+Anderson,United States,Indiana,,85992.0,1840007242
+Prineville,United States,Oregon,,12650.0,1840019999
+Greer,United States,South Carolina,,33373.0,1840013502
+Big Bear Lake,United States,California,,5279.0,1840019119
+Chino Hills,United States,California,,83853.0,1840019115
+Leon,Spain,Castille-Leon,minor,202793.0,1724907542
+Niles,United States,Illinois,,28938.0,1840011301
+Homewood,United States,Alabama,,25377.0,1840014794
+Kailua,United States,Hawaii,,37586.0,1840023244
+Firestone,United States,Colorado,,34230.0,1840021363
+Windsor,Canada,Ontario,,276165.0,1124261024
+Bilbao,Spain,Basque Country,minor,350184.0,1724331267
+Olympia,United States,Washington,admin,200915.0,1840019865
+Helsinki,Finland,Uusimaa,primary,642045.0,1246177997
+Muar,Malaysia,Johor,,191346.0,1458170112
+Champlin,United States,Minnesota,,25268.0,1840006746
+Ripon,United Kingdom,North Yorkshire,,16702.0,1826726048
+Hamden,United States,Connecticut,,60982.0,1840034823
+Milford,United States,Connecticut,,54328.0,1840028594
+Courtenay,Canada,British Columbia,,25599.0,1124324905
+Vandalia,United States,Ohio,,14997.0,1840003786
+Bolton,United Kingdom,Bolton,,128139.0,1826628353
+Lumberton,United States,North Carolina,,28279.0,1840015531
+Keller,United States,Texas,,47213.0,1840019428
+Enfield,United Kingdom,Enfield,,132640.0,1826362409
+South Bend,United States,Indiana,,280498.0,1840009241
+Pompano Beach,United States,Florida,,112118.0,1840015143
+Antalya,Turkey,Antalya,admin,2426356.0,1792988434
+Voorhees,United States,New Jersey,,29212.0,1840081683
+Sheboygan,United States,Wisconsin,,69393.0,1840002628
+Greenwood,United States,Indiana,,59458.0,1840007332
+Medicine Hat,Canada,Alberta,,63260.0,1124303972
+Canyon,United States,Texas,,16109.0,1840019180
+Gallup,United States,New Mexico,,22917.0,1840020395
+San Isidro,Argentina,Buenos Aires,minor,43595.0,1032862666
+Orland,United States,California,,9964.0,1840020209
+Manchester,United Kingdom,Manchester,,2705000.0,1826246335
+North Merrick,United States,New York,,12170.0,1840005242
+Lyons,United States,Illinois,,10372.0,1840011292
+Texas City,United States,Texas,,118169.0,1840022234
+Akita,Japan,Akita,admin,302984.0,1392129688
+Needham,United States,Massachusetts,,30970.0,1840053553
+American Fork,United States,Utah,,33161.0,1840018756
+Taipei,Taiwan,Taipei,primary,2684567.0,1158881289
+Bismarck,United States,North Dakota,admin,98345.0,1840001926
+Altoona,United States,Pennsylvania,,74829.0,1840001080
+Wilsonville,United States,Oregon,,24918.0,1840021219
+Frisco,United States,Texas,,200490.0,1840020654
+Houston,United States,Texas,,5464251.0,1840020925
+Cortez,United States,Colorado,,8736.0,1840018928
+Ennis,Ireland,Clare,admin,24253.0,1372255646
+Columbus,United States,Ohio,admin,1562009.0,1840003760
+West Des Moines,United States,Iowa,,67899.0,1840010185
+Spanish Fork,United States,Utah,,40913.0,1840021398
+Manalapan,United States,New Jersey,,39702.0,1840081648
+Budapest,Hungary,Budapest,primary,1752286.0,1348611435
+Clarksburg,United States,West Virginia,,40403.0,1840005767
+Green Valley,United States,Arizona,,20902.0,1840018111
+Namur,Belgium,Wallonia,admin,110939.0,1056954156
+Longview,United States,Texas,,100330.0,1840020746
+Salmon Creek,United States,Washington,,20956.0,1840018520
+Camp Hill,United States,Pennsylvania,,7905.0,1840001385
+San Bernardino,United States,California,,215784.0,1840021728
+Hannover,Germany,Lower Saxony,admin,538068.0,1276457707
+Katowice,Poland,Śląskie,admin,276499.0,1616798495
+Alhambra,United States,California,,83750.0,1840019222
+La Habra,United States,California,,60513.0,1840020585
+Elizabeth City,United States,North Carolina,,22711.0,1840013315
+Fowler,United States,California,,6790.0,1840020318
+Glenmont,United States,Maryland,,16659.0,1840024490
+Berlin,Germany,Berlin,primary,3644826.0,1276451290
+Smyrna,United States,Georgia,,56666.0,1840015634
+Hatsukaichi,Japan,Hiroshima,,114699.0,1392723053
+Millburn,United States,New Jersey,,20148.0,1840081751
+Indian Trail,United States,North Carolina,,40252.0,1840016453
+Zapopan,Mexico,Jalisco,minor,1155790.0,1484198680
+Wenatchee,United States,Washington,,72350.0,1840021074
+Gatineau,Canada,Quebec,,276245.0,1124722129
+Show Low,United States,Arizona,,11442.0,1840021582
+Chambersburg,United States,Pennsylvania,,53083.0,1840001410
+Searcy,United States,Arkansas,,26889.0,1840015429
+Tonbridge,United Kingdom,Kent,,40356.0,1826806502
+Canton,United States,Ohio,,269418.0,1840000963
+Winter Springs,United States,Florida,,37312.0,1840015959
+Holyoke,United States,Massachusetts,,40117.0,1840000465
+Grand Rapids,United States,Michigan,,609314.0,1840002928
+Saku,Japan,Nagano,,98292.0,1392305904
+Kidderminster,United Kingdom,Worcestershire,,55530.0,1826052030
+Yonago,Japan,Tottori,,147210.0,1392391989
+Glen Rock,United States,New Jersey,,11707.0,1840003555
+Wailuku,United States,Hawaii,,17708.0,1840023239
+McMinnville,United States,Oregon,,42062.0,1840019956
+Odessa,United States,Texas,,155998.0,1840020794
+Rye,United States,New York,,46595.0,1840000784
+Radford,United States,Virginia,,18249.0,1840003864
+Newmarket,Canada,Ontario,,84224.0,1124400266
+Fairbanks,United States,Alaska,,63245.0,1840023463
+Bluffton,United States,South Carolina,,25557.0,1840015799
+Eastbourne,United Kingdom,East Sussex,,103745.0,1826356320
+Plant City,United States,Florida,,39744.0,1840015115
+Orange,United States,California,,138669.0,1840020582
+Laguna Woods,United States,California,,15850.0,1840020590
+Lowell,United States,Massachusetts,,110997.0,1840000426
+Pacifica,United States,California,,38546.0,1840020307
+South Euclid,United States,Ohio,,21297.0,1840003414
+Oroville,United States,California,,49513.0,1840020182
+Holly Springs,United States,North Carolina,,37812.0,1840016193
+Ashland,United States,California,,24430.0,1840017619
+Livonia,United States,Michigan,,93665.0,1840003985
+Cusco,Peru,Cusco,admin,428450.0,1604162901
+Bentonville,United States,Arkansas,,54909.0,1840013319
+Dacula,United States,Georgia,,6350.0,1840014743
+Bournemouth,United Kingdom,Bournemouth,,183491.0,1826769743
+Ledyard,United States,Connecticut,,14761.0,1840045034
+Urbandale,United States,Iowa,,44379.0,1840010184
+Sand Springs,United States,Oklahoma,,19905.0,1840021671
+Carolina,Puerto Rico,Puerto Rico,,136771.0,1630035637
+Butterworth,Malaysia,Pulau Pinang,,821652.0,1458469233
+Kocaeli,Turkey,Kocaeli,admin,363416.0,1792965114
+Opelika,United States,Alabama,,30908.0,1840005210
+Scottsdale,United States,Arizona,,258069.0,1840021940
+Pocatello,United States,Idaho,,72878.0,1840013376
+Lynchburg,United States,Virginia,,126814.0,1840003855
+Azumino,Japan,Nagano,,93927.0,1392101705
+Lenexa,United States,Kansas,,55625.0,1840001639
+Parry Sound,Canada,Ontario,,6408.0,1124245809
+Pearl City,United States,Hawaii,,45605.0,1840023251
+Palm Bay,United States,Florida,,507002.0,1840015094
+Cedar Hill,United States,Texas,,47930.0,1840019433
+Pitt Meadows,Canada,British Columbia,,18573.0,1124786902
+Gaziantep,Turkey,Gaziantep,admin,2028563.0,1792911843
+Wendover,United Kingdom,Buckinghamshire,,7399.0,1826061990
+Cocoa Beach,United States,Florida,,11705.0,1840015093
+Goleta,United States,California,,30911.0,1840001783
+Key Largo,United States,Florida,,9952.0,1840014253
+Chachoengsao,Thailand,Chachoengsao,admin,39570.0,1764632382
+Oakley,United States,California,,42543.0,1840020279
+Nampa,United States,Idaho,,184428.0,1840020041
+Thornton,United States,Colorado,,141464.0,1840021422
+Willow Grove,United States,Pennsylvania,,14992.0,1840005471
+Tokorozawa,Japan,Saitama,,341195.0,1392340764
+Severna Park,United States,Maryland,,38188.0,1840005926
+Los Alamos,United States,New Mexico,,12666.0,1840017779
+Seekonk,United States,Massachusetts,,15441.0,1840053523
+Isehara,Japan,Kanagawa,,102088.0,1392928065
+Seabrook,United States,Maryland,,18616.0,1840024547
+Pasay City,Philippines,Pasay,admin,416522.0,1608448280
+Turlock,United States,California,,107317.0,1840021533
+Red Bank,United States,New Jersey,,11966.0,1840001358
+Chon Buri,Thailand,Chon Buri,admin,29961.0,1764202077
+Bangkok,Thailand,Krung Thep Maha Nakhon,primary,17066000.0,1764068610
+Nanterre,France,Île-de-France,minor,95105.0,1250886409
+Montebello,United States,California,,61954.0,1840020499
+Calexico,United States,California,,39825.0,1840019379
+Logansport,United States,Indiana,,20608.0,1840013861
+Hitachi,Japan,Ibaraki,,172709.0,1392145167
+Northfield,United Kingdom,Birmingham,,25707.0,1826476476
+Belfast,United Kingdom,Belfast,,333871.0,1826325087
+Wyomissing,United States,Pennsylvania,,10635.0,1840001196
+Gunnison,United States,Colorado,,7195.0,1840020235
+Scranton,United States,Pennsylvania,,384250.0,1840003389
+Bergen,Norway,Hordaland,admin,257087.0,1578465701
+Chesapeake,United States,Virginia,,244835.0,1840003874
+Raleigh,United States,North Carolina,admin,1038738.0,1840014497
+Springdale,United States,Arkansas,,81125.0,1840015336
+Cuernavaca,Mexico,Morelos,admin,366321.0,1484926471
+Miami Shores,United States,Florida,,10365.0,1840018334
+Hays,United States,Kansas,,21421.0,1840001628
+Khimki,Russia,Moskva,,244668.0,1643601857
+Cork,Ireland,Cork,admin,208669.0,1372221853
+Austell,United States,Georgia,,7170.0,1840013689
+San Angelo,United States,Texas,,101004.0,1840022146
+Twickenham,United Kingdom,Richmond upon Thames,,62148.0,1826827915
+Harwood Heights,United States,Illinois,,8333.0,1840011252
+Thatcher,United States,Arizona,,5200.0,1840022955
+Rapid City,United States,South Dakota,,92664.0,1840002180
+Saratoga,United States,California,,30153.0,1840021572
+Freeport,United States,New York,,42956.0,1840005288
+Katy,United States,Texas,,21729.0,1840019648
+La Mirada,United States,California,,48183.0,1840020512
+Port Orange,United States,Florida,,64842.0,1840015077
+Gustine,United States,California,,5882.0,1840020310
+Warren,United States,Michigan,,133943.0,1840002418
+Pace,United States,Florida,,22860.0,1840013919
+State College,United States,Pennsylvania,,87723.0,1840000830
+Tulum,Mexico,Quintana Roo,minor,18233.0,1484002889
+Bolingbrook,United States,Illinois,,74545.0,1840011482
+Sierra Madre,United States,California,,10793.0,1840021867
+Foley,United States,Alabama,,36921.0,1840002084
+Bethlehem,United States,Pennsylvania,,75815.0,1840000986
+Ealing,United Kingdom,Ealing,,85014.0,1826730060
+Glen Ridge,United States,New Jersey,,7574.0,1840005356
+Roswell,United States,Georgia,,94763.0,1840014741
+Perrysburg,United States,Ohio,,21626.0,1840000623
+Waterbury,United States,Connecticut,,189614.0,1840004851
+Savage,United States,Minnesota,,32362.0,1840008957
+Shimotsuke,Japan,Tochigi,,59404.0,1392034271
+Kensington,United Kingdom,Kensington and Chelsea,,64681.0,1826583042
+Queensbury,United States,New York,,27456.0,1840058430
+Gurgaon,India,Haryāna,,197340.0,1356836043
+Gardena,United States,California,,59329.0,1840020482
+Brookline,United States,Massachusetts,,59180.0,1840053672
+Metepec,Mexico,Morelos,minor,206005.0,1484782768
+Universal City,United States,Texas,,20890.0,1840022225
+Moreno Valley,United States,California,,213055.0,1840020552
+Grand Forks,United States,North Dakota,,64748.0,1840000101
+Wellingborough,United Kingdom,Northamptonshire,,49128.0,1826752476
+Monaca,United States,Pennsylvania,,5421.0,1840001025
+Lone Tree,United States,Colorado,,13082.0,1840020222
+Solana Beach,United States,California,,13296.0,1840021993
+East Norriton,United States,Pennsylvania,,14015.0,1840133023
+George Town,Cayman Islands,,primary,27704.0,1136159124
+Mercedes,Uruguay,Soriano,admin,41974.0,1858182538
+Tempe,United States,Arizona,,195805.0,1840021942
+Timonium,United States,Maryland,,10557.0,1840026624
+Alvin,United States,Texas,,26723.0,1840019671
+Ladue,United States,Missouri,,8616.0,1840008599
+Dillon,United States,South Carolina,,9089.0,1840014676
+Lawton,United States,Oklahoma,,93025.0,1840020477
+Bremen,Germany,Bremen,admin,724909.0,1276376509
+Redlands,United States,California,,71513.0,1840020412
+Denton,United States,Texas,,457177.0,1840019390
+Sweet Home,United States,Oregon,,10697.0,1840021253
+Emporia,United States,Kansas,,24598.0,1840001652
+Murrieta,United States,California,,496046.0,1840020553
+Terrell,United States,Texas,,18869.0,1840022065
+New Rochelle,United States,New York,,78557.0,1840000782
+St. Charles,United States,Missouri,,71028.0,1840009719
+Vienna,Austria,Wien,primary,1911191.0,1040261752
+Temple,United States,Texas,,107258.0,1840022154
+Jenison,United States,Michigan,,17431.0,1840004344
+Roselle,United States,New Jersey,,21811.0,1840001092
+Akron,United States,Ohio,,565208.0,1840000791
+Nonthaburi,Thailand,Nonthaburi,admin,255671.0,1764667935
+Piscataway,United States,New Jersey,,56884.0,1840081697
+Guelph,Canada,Ontario,,131794.0,1124968815
+Waltham,United States,Massachusetts,,62495.0,1840000428
+Sopot,Poland,Pomorskie,minor,37457.0,1616375300
+Matthews,United States,North Carolina,,33138.0,1840016350
+Fort Frances,Canada,Ontario,,7739.0,1124939714
+Vero Beach,United States,Florida,,17503.0,1840015985
+Santa Ana,United States,California,,332318.0,1840021964
+Spreitenbach,Switzerland,Aargau,,11788.0,1756282407
+The Dalles,United States,Oregon,,20442.0,1840021212
+Clifton Springs,Australia,Victoria,,7519.0,1036319529
+Blythe,United States,California,,19682.0,1840019299
+Incline Village,United States,Nevada,,8669.0,1840033809
+Houma,United States,Louisiana,,140469.0,1840015063
+Terrace,Canada,British Columbia,,15723.0,1124878479
+Waukesha,United States,Wisconsin,,72299.0,1840003008
+Bacoor,Philippines,Cavite,,600609.0,1608869358
+Broomfield,United States,Colorado,,70465.0,1840018781
+Brevard,United States,North Carolina,,13666.0,1840013467
+Mountain Brook,United States,Alabama,,20297.0,1840014792
+Arlington,United States,Texas,,398854.0,1840019422
+Lorton,United States,Virginia,,20871.0,1840006035
+Huntersville,United States,North Carolina,,58098.0,1840016349
+Kelso,United States,Washington,,12417.0,1840018503
+National City,United States,California,,61394.0,1840020622
+Cwmbran,United Kingdom,Torfaen,,48535.0,1826475602
+Arnold,United Kingdom,Nottinghamshire,,37768.0,1826647385
+Dunedin,New Zealand,Otago,admin,106200.0,1554475997
+Port Chester,United States,New York,,29163.0,1840004941
+Maha Sarakham,Thailand,Maha Sarakham,admin,52866.0,1764568961
+Bintulu,Malaysia,Sarawak,,151617.0,1458164361
+Squamish,Canada,British Columbia,,19512.0,1124005958
+Jeju,"Korea, South",Jeju,admin,435413.0,1410364424
+Edmonton,Canada,Alberta,,1062643.0,1124290735
+Birmingham,United Kingdom,Birmingham,,2897303.0,1826423213
+Oak Forest,United States,Illinois,,27173.0,1840008132
+Fuchu,Japan,Tōkyō,,263093.0,1392370709
+Harrogate,United Kingdom,North Yorkshire,,75070.0,1826765513
+Fort Myers,United States,Florida,,87103.0,1840014226
+Linwood,United States,New Jersey,,6658.0,1840016701
+Bartlett,United States,Tennessee,,59440.0,1840013472
+Moore,United States,Oklahoma,,62055.0,1840020449
+Southbury,United States,Connecticut,,19681.0,1840035599
+Beverley,United Kingdom,East Riding of Yorkshire,,29110.0,1826700096
+Novato,United States,California,,55516.0,1840020260
+High Point,United States,North Carolina,,179913.0,1840014479
+Griffin,United States,Georgia,,22813.0,1840013776
+Gothenburg,Sweden,Västra Götaland,admin,604829.0,1752059374
+Roi Et,Thailand,Roi Et,admin,35219.0,1764216668
+Wesley Chapel,United States,Florida,,58208.0,1840014118
+Mechanicsburg,United States,Pennsylvania,,8990.0,1840001388
+Little Rock,United States,Arkansas,admin,439815.0,1840015509
+Leicester,United Kingdom,Leicester,,508916.0,1826431946
+Florence,Italy,Tuscany,admin,380948.0,1380726561
+Howell,United States,New Jersey,,51959.0,1840081644
+Newtown,United States,Connecticut,,27822.0,1840004838
+Yamagata,Japan,Yamagata,admin,247234.0,1392300081
+Twin Falls,United States,Idaho,,55556.0,1840021301
+Grapevine,United States,Texas,,55281.0,1840020697
+Urbana,United States,Illinois,,42214.0,1840010451
+Oviedo,Spain,Asturias,admin,219910.0,1724090743
+Paris,France,Île-de-France,primary,11020000.0,1250015082
+Tracy,United States,California,,100049.0,1840021518
+Mulhouse,France,Grand Est,minor,285121.0,1250218452
+Salamanca,Mexico,Guanajuato,minor,260759.0,1484741627
+Hanover,United States,Pennsylvania,,68165.0,1840001450
+Dryden,United States,New York,,14498.0,1840004547
+Latrobe,United States,Pennsylvania,,7830.0,1840001142
+Watsonville,United States,California,,77352.0,1840021581
+Pachuca,Mexico,Hidalgo,admin,277375.0,1484575026
+Sharonville,United States,Ohio,,13684.0,1840001613
+Rowland Heights,United States,California,,50347.0,1840019211
+Spanaway,United States,Washington,,32575.0,1840018451
+East Longmeadow,United States,Massachusetts,,16242.0,1840053444
+Fond du Lac,United States,Wisconsin,,55209.0,1840002603
+Orcutt,United States,California,,31118.0,1840019183
+Hutto,United States,Texas,,27947.0,1840019573
+Syosset,United States,New York,,19453.0,1840005278
+Matsue,Japan,Shimane,admin,201802.0,1392692238
+Bowling Green,United States,Kentucky,,95135.0,1840013265
+Evansville,United States,Indiana,,230427.0,1840013730
+Georgetown,Guyana,Demerara-Mahaica,primary,200500.0,1328160906
+Vestal,United States,New York,,28352.0,1840058562
+Hyderabad,India,Telangana,admin,9746000.0,1356871768
+Sherbrooke,Canada,Quebec,,161323.0,1124559506
+Port Coquitlam,Canada,British Columbia,,58612.0,1124473757
+Mount Juliet,United States,Tennessee,,37029.0,1840014465
+Vadnais Heights,United States,Minnesota,,13607.0,1840010004
+Anthem,United States,Arizona,,22468.0,1840022919
+Spokane Valley,United States,Washington,,101060.0,1840021094
+Pocklington,United Kingdom,East Riding of Yorkshire,,8337.0,1826728939
+Seward,United States,Nebraska,,7216.0,1840009356
+Oakton,United States,Virginia,,36997.0,1840006023
+Media,United States,Pennsylvania,,5682.0,1840000702
+Nishio,Japan,Aichi,,168992.0,1392425838
+Stuart,United States,Florida,,16237.0,1840015990
+Oslo,Norway,Oslo,primary,693494.0,1578324706
+Oklahoma City,United States,Oklahoma,admin,972943.0,1840020428
+Matteson,United States,Illinois,,19448.0,1840011293
+Reston,United States,Virginia,,61147.0,1840006025
+Piura,Peru,Piura,admin,473025.0,1604331641
+Sun Prairie,United States,Wisconsin,,34661.0,1840002902
+Rancho Mirage,United States,California,,18528.0,1840020558
+Maple Grove,United States,Minnesota,,72622.0,1840008923
+Sedona,United States,Arizona,,10339.0,1840021584
+Twinsburg,United States,Ohio,,18856.0,1840000805
+Bastrop,United States,Texas,,17120.0,1840019603
+Huntington Station,United States,New York,,32866.0,1840005081
+Dickson City,United States,Pennsylvania,,5761.0,1840003380
+Munich,Germany,Bavaria,admin,1471508.0,1276692352
+Truckee,United States,California,,16735.0,1840022462
+Silver Spring,United States,Maryland,,81773.0,1840005845
+Providence,United States,Rhode Island,admin,1203230.0,1840003289
+Cleburne,United States,Texas,,37468.0,1840019464
+Pendleton,United States,Oregon,,17398.0,1840019917
+Clifton,United States,New Jersey,,85052.0,1840003511
+Mascouche,Canada,Quebec,,42491.0,1124001580
+Taunton,United Kingdom,Somerset,,60479.0,1826959489
+Kennebunk,United States,Maine,,11424.0,1840052870
+Anaheim,United States,California,,350365.0,1840019322
+Conroe,United States,Texas,,91079.0,1840019586
+Red Wing,United States,Minnesota,,16320.0,1840008959
+Inverness,United Kingdom,Highland,,70000.0,1826161019
+Sault Ste. Marie,Canada,Ontario,,73368.0,1124810690
+Denham Springs,United States,Louisiana,,9753.0,1840015027
+Beaufort,United States,South Carolina,,53051.0,1840013818
+Oxford,United Kingdom,Oxfordshire,,154600.0,1826689568
+Cedar City,United States,Utah,,39995.0,1840018895
+Veracruz,Mexico,Veracruz,minor,552156.0,1484992153
+North Las Vegas,United States,Nevada,,251974.0,1840020363
+Selkirk,Canada,Manitoba,,10278.0,1124499880
+Edinburgh,United Kingdom,"Edinburgh, City of",,488050.0,1826492520
+Visalia,United States,California,,237386.0,1840021639
+Phuket,Thailand,Phuket,admin,77610.0,1764327831
+Oro Valley,United States,Arizona,,46044.0,1840023058
+Kusatsu,Japan,Shiga,,143230.0,1392082200
+Atlanta,United States,Georgia,admin,5449398.0,1840013660
+Rancho Cucamonga,United States,California,,177603.0,1840020411
+Youngstown,United States,Ohio,,378732.0,1840003563
+Indianapolis,United States,Indiana,admin,1588961.0,1840030084
+Woking,United Kingdom,Surrey,,62796.0,1826205427
+Port Hope,Canada,Ontario,,16753.0,1124105292
+Ueda,Japan,Nagano,,152481.0,1392438902
+Tomah,United States,Wisconsin,,9397.0,1840002566
+Hernando,United States,Mississippi,,16399.0,1840014642
+Aloha,United States,Oregon,,54287.0,1840017414
+Hidaka,Japan,Saitama,,54728.0,1392984149
+Samarinda,Indonesia,Kalimantan Timur,admin,753370.0,1360684979
+Fukuoka,Japan,Fukuoka,admin,2128000.0,1392576294
+Ome,Japan,Tōkyō,,132436.0,1392575345
+Montgomeryville,United States,Pennsylvania,,13082.0,1840005457
+Kenilworth,United Kingdom,Warwickshire,,22413.0,1826857178
+San Jose,United States,California,,1798103.0,1840021570
+Atascadero,United States,California,,30075.0,1840019126
+Schwechat,Austria,Niederösterreich,,18026.0,1040189871
+Colchester,United Kingdom,Essex,,111921.0,1826545433
+Medellin,Colombia,Antioquia,admin,2529403.0,1170680389
+Rio Grande,Brazil,Rio Grande do Sul,,211965.0,1076567920
+Friendswood,United States,Texas,,40290.0,1840020969
+Irvine,United States,California,,287401.0,1840019325
+Palm Beach Gardens,United States,Florida,,57704.0,1840015125
+Osaka,Japan,Ōsaka,admin,14977000.0,1392419823
+Madison Heights,United States,Michigan,,29886.0,1840002449
+Stephenville,United States,Texas,,21247.0,1840022097
+Manassas,United States,Virginia,,41085.0,1840003839
+Minneapolis,United States,Minnesota,,2977172.0,1840007830
+Affton,United States,Missouri,,20148.0,1840006124
+Skokie,United States,Illinois,,62700.0,1840011321
+Greendale,United States,Wisconsin,,14143.0,1840003038
+Barrie,Canada,Ontario,,172657.0,1124340223
+Kisarazu,Japan,Chiba,,136118.0,1392821453
+Dijon,France,Bourgogne-Franche-Comté,admin,156920.0,1250505606
+Douglasville,United States,Georgia,,33992.0,1840014804
+Centereach,United States,New York,,31493.0,1840005026
+Kiel,Germany,Schleswig-Holstein,admin,246794.0,1276305306
+Cavite City,Philippines,Cavite,,102806.0,1608639398
+Brantford,Canada,Ontario,,97496.0,1124737006
+Khon Kaen,Thailand,Khon Kaen,admin,115928.0,1764003406
+Southampton,United Kingdom,Southampton,,855569.0,1826602892
+Belmont,United States,California,,26941.0,1840018924
+Kutztown,United States,Pennsylvania,,10137.0,1840001178
+Carmel,United States,Indiana,,101068.0,1840007260
+Edwardsville,United States,Illinois,,25233.0,1840008564
+Larnaca,Cyprus,Lárnaka,admin,48947.0,1196804795
+Nagano,Japan,Nagano,admin,367184.0,1392603439
+Irondequoit,United States,New York,,50302.0,1840058201
+Antwerp,Belgium,Flanders,minor,920000.0,1056168623
+Kokomo,United States,Indiana,,79351.0,1840013844
+Forest Lake,United States,Minnesota,,24853.0,1840007808
+Marion,United States,Ohio,,45181.0,1840008332
+Stockbridge,United States,Georgia,,29904.0,1840015707
+Odenton,United States,Maryland,,41846.0,1840005912
+Marignane,France,Provence-Alpes-Côte d’Azur,,32920.0,1250764669
+Chandler,United States,Arizona,,261165.0,1840019309
+South Elgin,United States,Illinois,,24755.0,1840013564
+Broughton,United Kingdom,North Lincolnshire,,5726.0,1826619680
+Granby,Canada,Quebec,,63433.0,1124502071
+Penrith,United Kingdom,Cumbria,,15200.0,1826839302
+Lockport,United States,New York,,34561.0,1840000370
+Rosemere,Canada,Quebec,,14294.0,1124741055
+Chelmsford,United Kingdom,Essex,,111511.0,1826876670
+Westerville,United States,Ohio,,41103.0,1840003763
+Malibu,United States,California,,11820.0,1840028310
+Burlingame,United States,California,,30889.0,1840018925
+Baldwin Harbor,United States,New York,,7623.0,1840005229
+New Albany,United States,Indiana,,36843.0,1840008662
+Panama City Beach,United States,Florida,,12583.0,1840015035
+Sakado,Japan,Saitama,,100829.0,1392771396
+Westbury,United Kingdom,Wiltshire,,16989.0,1826000067
+Tarpon Springs,United States,Florida,,25577.0,1840015980
+Blackburn,United Kingdom,Blackburn with Darwen,,117963.0,1826802533
+Boston,United States,Massachusetts,admin,4688346.0,1840000455
+Niskayuna,United States,New York,,22267.0,1840058350
+Hounslow,United Kingdom,Hounslow,,103337.0,1826943293
+Luton,United Kingdom,Luton,,213052.0,1826630574
+Boise,United States,Idaho,admin,389280.0,1840027142
+Port Jefferson,United States,New York,,8145.0,1840005131
+Kenner,United States,Louisiana,,66340.0,1840015047
+Traverse City,United States,Michigan,,50522.0,1840003946
+Marina del Rey,United States,California,,9852.0,1840017920
+Aguascalientes,Mexico,Aguascalientes,admin,934424.0,1484666646
+Monterey,United States,California,,28178.0,1840020358
+Marana,United States,Arizona,,49030.0,1840023057
+Essex,United States,Maryland,,39437.0,1840005675
+Sidney,Canada,British Columbia,,11672.0,1124421362
+Yardville,United States,New Jersey,,6801.0,1840026523
+Morganton,United States,North Carolina,,16577.0,1840014504
+Lynnfield,United States,Massachusetts,,12894.0,1840053531
+Plover,United States,Wisconsin,,13099.0,1840002328
+Southport,United Kingdom,Sefton,,90381.0,1826271387
+Perry Hall,United States,Maryland,,28266.0,1840005686
+Muncy,United States,Pennsylvania,,9245.0,1840000633
+Federal Heights,United States,Colorado,,12827.0,1840028425
+Chatham,Canada,Ontario,,101647.0,1124393373
+Sparks,United States,Nevada,,105006.0,1840021337
+Farnham,United Kingdom,Surrey,,39488.0,1826338893
+Herndon,United States,Virginia,,24601.0,1840006037
+Dayton,United States,Ohio,,718353.0,1840034249
+Rocklin,United States,California,,68823.0,1840020232
+Quezon City,Philippines,Quezon,admin,2936116.0,1608974097
+Dunkirk,United States,New York,,23874.0,1840000445
+Fernandina Beach,United States,Florida,,28931.0,1840013929
+Beaumont,United States,Texas,,146091.0,1840019612
+Woodway,United States,Texas,,9024.0,1840022142
+Menomonee Falls,United States,Wisconsin,,38014.0,1840003020
+Asahikawa,Japan,Hokkaidō,,331392.0,1392380358
+Chihuahua,Mexico,Chihuahua,admin,878062.0,1484335603
+Waxhaw,United States,North Carolina,,17147.0,1840016458
+Scotia,United States,New York,,7642.0,1840004448
+Billings,United States,Montana,,120728.0,1840018496
+Cilegon,Indonesia,Banten,,387543.0,1360643410
+Walnut Creek,United States,California,,70166.0,1840021531
+Buffalo,United States,New York,,914341.0,1840000386
+Grand Junction,United States,Colorado,,139143.0,1840020230
+Changshu,China,Jiangsu,,1510100.0,1156901538
+Garfield Heights,United States,Ohio,,27448.0,1840000602
+Leduc,Canada,Alberta,,29993.0,1124170853
+Seal Beach,United States,California,,23896.0,1840021965
+Walnut,United States,California,,29685.0,1840021875
+Woodburn,United States,Oregon,,35941.0,1840021230
+Norfolk,United States,Virginia,,242742.0,1840003869
+Lafayette,United States,Louisiana,,264357.0,1840015044
+Short Pump,United States,Virginia,,28328.0,1840006394
+Madeira,United States,Ohio,,9245.0,1840001605
+Wexford,Ireland,Wexford,admin,,1372349451
+Russellville,United States,Arkansas,,34205.0,1840014541
+Arvin,United States,California,,22155.0,1840019147
+Ottumwa,United States,Iowa,,24368.0,1840009339
+Santa Rosa,Philippines,Laguna,,353767.0,1608571683
+Aventura,United States,Florida,,36987.0,1840014243
+Frederickson,United States,Washington,,22994.0,1840037551
+Hiratsuka,Japan,Kanagawa,,257662.0,1392311050
+Woodbridge,United States,New Jersey,,100089.0,1840081695
+Barnegat,United States,New Jersey,,22754.0,1840081601
+Astoria,United States,Oregon,,14916.0,1840018504
+Huntley,United States,Illinois,,27228.0,1840011134
+Imus,Philippines,Cavite,,403785.0,1608802508
+Moline,United States,Illinois,,41356.0,1840008181
+Soldotna,United States,Alaska,,7398.0,1840023415
+Fukuyama,Japan,Hiroshima,,459576.0,1392551602
+Escondido,United States,California,,151625.0,1840020620
+Collegeville,United States,Pennsylvania,,5174.0,1840003696
+Dumbarton,United Kingdom,West Dunbartonshire,,20527.0,1826077098
+Mundelein,United States,Illinois,,31051.0,1840011175
+Bozeman,United States,Montana,,57695.0,1840018509
+Chowchilla,United States,California,,18310.0,1840018919
+Mishawaka,United States,Indiana,,50363.0,1840014695
+Manado,Indonesia,Sulawesi Utara,admin,461636.0,1360771278
+Ica,Peru,Ica,admin,282407.0,1604607907
+Whittier,United States,California,,85098.0,1840021878
+Mammoth Lakes,United States,California,,8235.0,1840022493
+Cerritos,United States,California,,49859.0,1840019215
+Newburgh,United States,New York,,30905.0,1840000586
+Chiba,Japan,Chiba,admin,981738.0,1392107144
+Broadlands,United States,Virginia,,13576.0,1840024498
+Alliance,United States,Ohio,,31255.0,1840000962
+Breukelen,Netherlands,Utrecht,,14736.0,1528284816
+Carlsbad,United States,California,,115382.0,1840019352
+Willoughby,United States,Ohio,,22977.0,1840000547
+Cedarhurst,United States,New York,,6633.0,1840005339
+Prosper,United States,Texas,,24579.0,1840022019
+Marblehead,United States,Massachusetts,,20500.0,1840053532
+Port Arthur,United States,Texas,,154468.0,1840020919
+Tooele,United States,Utah,,36015.0,1840021356
+Fleet,United Kingdom,Hampshire,,37000.0,1826039041
+Shrewsbury,United Kingdom,Shropshire,,71715.0,1826283137
+Victoria,Canada,British Columbia,,335696.0,1124147219
+Poland,United States,Maine,,5588.0,1840052967
+Sayville,United States,New York,,15910.0,1840005092
+Fairport,United States,New York,,5305.0,1840004280
+Palmdale,United States,California,,155079.0,1840020502
+DeSoto,United States,Texas,,52988.0,1840019441
+Duncanville,United States,Texas,,38751.0,1840019442
+Tuscaloosa,United States,Alabama,,155499.0,1840005563
+Cagayan de Oro,Philippines,Cagayan de Oro,admin,675950.0,1608831546
+Hayden,United States,Idaho,,15434.0,1840019808
+New Berlin,United States,Wisconsin,,39691.0,1840003025
+Salem,India,Tamil Nādu,,693236.0,1356567087
+Nagasaki,Japan,Nagasaki,admin,404656.0,1392162566
+Boardman,United States,Ohio,,34431.0,1840005186
+Yorkville,United States,Illinois,,20613.0,1840010216
+Staten Island,United States,New York,,476143.0,1840034032
+Conyers,United States,Georgia,,16256.0,1840014806
+Franklin Lakes,United States,New Jersey,,11119.0,1840003553
+Tallahassee,United States,Florida,admin,257601.0,1840015913
+Temple City,United States,California,,35811.0,1840021872
+Norwich,United Kingdom,Norfolk,,213166.0,1826688051
+Hamilton,Bermuda,Hamilton,primary,52320.0,1060000000
+Charleston,United States,South Carolina,,628377.0,1840015163
+Weymouth,United Kingdom,Dorset,,53068.0,1826316742
+Norman,United States,Oklahoma,,124880.0,1840020451
+San Pedro Garza Garcia,Mexico,Nuevo León,minor,122009.0,1484228590
+Jim Thorpe,United States,Pennsylvania,,5449.0,1840000931
+Hexham,United Kingdom,Northumberland,,11829.0,1826406735
+Scotts Valley,United States,California,,11757.0,1840021580
+Santa Fe,Argentina,Santa Fe,admin,405683.0,1032817575
+Simpsonville,United States,South Carolina,,24221.0,1840015477
+Verona,Italy,Veneto,minor,257275.0,1380324879
+Jeddah,Saudi Arabia,Makkah al Mukarramah,,3976000.0,1682926944
+Edgewater,United States,New Jersey,,13364.0,1840003543
+Tifton,United States,Georgia,,24466.0,1840015863
+Front Royal,United States,Virginia,,19719.0,1840006045
+Anchorage,United States,Alaska,,288000.0,1840023385
+Deer Park,United States,Ohio,,5566.0,1840003815
+Flat Rock,United States,Michigan,,10004.0,1840003973
+Holland,United States,Michigan,,100432.0,1840002996
+Gadsden,United States,Alabama,,60944.0,1840006332
+Conshohocken,United States,Pennsylvania,,8047.0,1840003697
+Aptos,United States,California,,6387.0,1840017648
+Prague,Czechia,"Praha, Hlavní Město",primary,1335084.0,1203744823
+West Linn,United States,Oregon,,26736.0,1840021218
+Swansea,United States,Massachusetts,,16567.0,1840053663
+Waldorf,United States,Maryland,,75489.0,1840006175
+Mumbai,India,Mahārāshtra,admin,23355000.0,1356226629
+El Cerrito,United States,California,,25508.0,1840020275
+Breda,Netherlands,Noord-Brabant,minor,183873.0,1528921549
+Gilbert,United States,Arizona,,254114.0,1840021947
+Naha,Japan,Okinawa,admin,316048.0,1392583118
+North Riverside,United States,Illinois,,6429.0,1840011303
+Key West,United States,Florida,,31401.0,1840015161
+Brossard,Canada,Quebec,,85721.0,1124655166
+Chesterton,United States,Indiana,,14088.0,1840009267
+Pickering,Canada,Ontario,,91771.0,1124781814
+Pico Rivera,United States,California,,62027.0,1840020506
+Yekaterinburg,Russia,Sverdlovskaya Oblast’,admin,1468833.0,1643582706
+Belle Isle,United States,Florida,,7240.0,1840014101
+Vevey,Switzerland,Vaud,,19891.0,1756579162
+Butler,United States,Pennsylvania,,37796.0,1840000857
+Southington,United States,Connecticut,,43781.0,1840035601
+Miami Lakes,United States,Florida,,31367.0,1840017275
+Bridgeton,United States,New Jersey,,33379.0,1840016610
+Blue Ash,United States,Ohio,,12372.0,1840003812
+Warner Robins,United States,Georgia,,155140.0,1840015800
+Kernersville,United States,North Carolina,,24660.0,1840016123
+Trussville,United States,Alabama,,22635.0,1840015672
+North Bethesda,United States,Maryland,,49872.0,1840031494
+Medway,United States,Massachusetts,,13325.0,1840053674
+Tauranga,New Zealand,Bay of Plenty,,135000.0,1554759867
+Bel Air,United States,Maryland,,10119.0,1840005668
+Depew,United States,New York,,15011.0,1840004397
+Utica,United States,New York,,112650.0,1840002746
+Aalborg,Denmark,Nordjylland,admin,122219.0,1208789278
+Butte,United States,Montana,,34207.0,1840032850
+Fairfield,United States,California,,148683.0,1840020253
+Pigeon Forge,United States,Tennessee,,6266.0,1840014500
+Joliet,United States,Illinois,,147344.0,1840008192
+Yachiyo,Japan,Chiba,,200538.0,1392929073
+Leesburg,United States,Florida,,154574.0,1840015083
+La Libertad,Philippines,Negros Oriental,,38602.0,1608768196
+Gresham,United States,Oregon,,109381.0,1840019939
+Woodcliff Lake,United States,New Jersey,,5839.0,1840000924
+Emmett,United States,Idaho,,9889.0,1840020000
+West Hartford,United States,Connecticut,,63063.0,1840035652
+Bucharest,Romania,Bucureşti,primary,1883425.0,1642414442
+Canby,United States,Oregon,,19393.0,1840018569
+Takamatsu,Japan,Kagawa,admin,417814.0,1392427161
+Edmond,United States,Oklahoma,,94054.0,1840020423
+Walsall,United Kingdom,Walsall,,67594.0,1826655696
+Krakow,Poland,Małopolskie,admin,766739.0,1616172264
+Sokcho,"Korea, South",Gangwon,minor,85430.0,1410921315
+Decatur,United States,Georgia,,25696.0,1840014777
+Fussa,Japan,Tōkyō,,56713.0,1392749897
+Fortuna,Brazil,Maranhão,,15098.0,1076197650
+West Lafayette,United States,Indiana,,50996.0,1840010430
+Lake Charles,United States,Louisiana,,156181.0,1840015039
+Fribourg,Switzerland,Fribourg,admin,38365.0,1756145667
+Linden,Guyana,Upper Demerara-Berbice,admin,29298.0,1328531190
+Mississauga,Canada,Ontario,,721599.0,1124112672
+Kuala Lumpur,Malaysia,Kuala Lumpur,primary,8285000.0,1458988644
+Syracuse,United States,New York,,404223.0,1840000378
+Hornchurch,United Kingdom,Havering,,63583.0,1826813082
+Weston,United States,Florida,,71166.0,1840016003
+Clayton,United Kingdom,Bradford,,16982.0,1826432335
+Hermitage,United States,Pennsylvania,,15471.0,1840000732
+Manila,Philippines,Manila,primary,23088000.0,1608618140
+Williamsburg,United States,Virginia,,80441.0,1840001720
+North Bend,United States,Oregon,,9768.0,1840020057
+Santa Maria,Brazil,Rio Grande do Sul,,283677.0,1076178738
+Garner,United States,North Carolina,,31407.0,1840016198
+Prosser,United States,Washington,,6380.0,1840019890
+Yorba Linda,United States,California,,67644.0,1840021970
+Ellicott City,United States,Maryland,,72665.0,1840005802
+Belton,United States,Missouri,,23642.0,1840007463
+Hayesville,United States,Oregon,,21979.0,1840034726
+Northbrook,United States,Ohio,,10684.0,1840034123
+Elkridge,United States,Maryland,,21458.0,1840005801
+Thibodaux,United States,Louisiana,,14425.0,1840015946
+Sandpoint,United States,Idaho,,13145.0,1840021064
+Dedham,United States,Massachusetts,,25283.0,1840053547
+Issaquah,United States,Washington,,39509.0,1840018422
+Orchard Park,United States,New York,,29509.0,1840004389
+Shah Alam,Malaysia,Selangor,admin,584340.0,1458194263
+Reno,United States,Nevada,,445020.0,1840020121
+Castleford,United Kingdom,Wakefield,,40210.0,1826827675
+Sebastopol,United States,California,,7674.0,1840021489
+Muskego,United States,Wisconsin,,25127.0,1840003023
+Cartersville,United States,Georgia,,57873.0,1840014701
+St. Helens,United States,Oregon,,27353.0,1840021185
+Baku,Azerbaijan,Bakı,primary,2181800.0,1031946365
+Ferndale,United States,Michigan,,20033.0,1840002443
+Wethersfield,United States,Connecticut,,26171.0,1840035670
+Redmond,United States,Washington,,71929.0,1840019835
+Prunedale,United States,California,,20327.0,1840019020
+Bellevue,United States,Washington,,148164.0,1840018417
+Sherman,United States,Texas,,70704.0,1840021953
+Marilao,Philippines,Bulacan,,221965.0,1608371779
+Mount Vernon,United States,New York,,67345.0,1840000781
+Camrose,Canada,Alberta,,18742.0,1124351657
+Baytown,United States,Texas,,77192.0,1840019616
+Nelson,New Zealand,Nelson,admin,49300.0,1554017097
+Odense,Denmark,Syddanmark,minor,158222.0,1208194249
+Laguna Beach,United States,California,,22827.0,1840020587
+Cape Coral,United States,Florida,,668382.0,1840015130
+Bethpage,United States,New York,,17627.0,1840005233
+Stevens Point,United States,Wisconsin,,42837.0,1840002320
+Temecula,United States,California,,114761.0,1840021937
+Nantou,Taiwan,Nantou,admin,165000.0,1158112865
+South Charleston,United States,West Virginia,,12047.0,1840006200
+Lake Forest,United States,California,,85531.0,1840020591
+Notre Dame,United States,Indiana,,6646.0,1840039286
+Johnson City,United States,Tennessee,,127571.0,1840014462
+Campinas,Brazil,São Paulo,,1164098.0,1076145766
+Minnetonka,United States,Minnesota,,54064.0,1840007831
+Malta,United States,New York,,15907.0,1840058280
+Franklin Square,United States,New York,,32055.0,1840005256
+San Pedro,Philippines,Laguna,,325809.0,1608848483
+Kingsport,United States,Tennessee,,119666.0,1840014425
+Melbourne,Australia,Victoria,admin,5078193.0,1036533631
+Live Oak,United States,California,,16837.0,1840144061
+Upper Arlington,United States,Ohio,,35366.0,1840003762
+Malvern,United States,Arkansas,,11851.0,1840015563
+Gurnee,United States,Illinois,,30378.0,1840011152
+Misato,Japan,Saitama,,141913.0,1392464033
+Ballwin,United States,Missouri,,30082.0,1840007447
+Cleveland Heights,United States,Ohio,,43992.0,1840000597
+Princeton,United States,Florida,,32299.0,1840014248
+Springfield,United States,Massachusetts,,623401.0,1840000466
+Lincroft,United States,New Jersey,,6405.0,1840005449
+Tarlac City,Philippines,Tarlac,admin,342493.0,1608237027
+West Haven,United States,Connecticut,,54620.0,1840004852
+Matawan,United States,New Jersey,,8640.0,1840003675
+Tsurugashima,Japan,Saitama,,70067.0,1392196288
+Fairview Park,United States,Ohio,,16161.0,1840000601
+Casablanca,Morocco,Casablanca-Settat,admin,4370000.0,1504175315
+Muscat,Oman,Masqaţ,primary,1421409.0,1512035506
+Gainesville,United States,Florida,,202335.0,1840014022
+Milltown,United States,New Jersey,,6967.0,1840001338
+Royal Palm Beach,United States,Florida,,40396.0,1840018309
+Yate,United Kingdom,South Gloucestershire,,27603.0,1826350658
+Ramona,United States,California,,21323.0,1840019346
+Pensacola,United States,Florida,,346921.0,1840015005
+Eldersburg,United States,Maryland,,31108.0,1840005698
+Crewe,United Kingdom,Cheshire East,,71722.0,1826086541
+Los Mochis,Mexico,Sinaloa,minor,256613.0,1484443585
+Highwood,United States,Illinois,,5224.0,1840006974
+Miami Beach,United States,Florida,,88885.0,1840015150
+Hercules,United States,California,,26276.0,1840020276
+Norcross,United States,Georgia,,16592.0,1840014744
+Birstall,United Kingdom,Leicester,,1424216.0,1826141026
+Cockermouth,United Kingdom,Cumbria,,8761.0,1826229039
+Sewickley,United States,Pennsylvania,,5777.0,1840149354
+Ukiah,United States,California,,29561.0,1840021420
+San Gabriel,United States,California,,39899.0,1840021862
+Allentown,United States,Pennsylvania,,683794.0,1840001044
+Bracknell,United Kingdom,Bracknell Forest,,84469.0,1826880896
+Plattsburgh,United States,New York,,28740.0,1840000296
+Centralia,United States,Washington,,42922.0,1840018471
+Rotterdam,Netherlands,Zuid-Holland,minor,631155.0,1528892850
+San Anselmo,United States,California,,12476.0,1840022520
+Bishop,United States,California,,9597.0,1840018955
+Lake Mary,United States,Florida,,17479.0,1840015090
+Koshigaya,Japan,Saitama,,346768.0,1392606124
+Tama,Japan,Tōkyō,,147252.0,1392092333
+Lloydminster,Canada,Saskatchewan,,31410.0,1124051728
+Shelton,United States,Connecticut,,41129.0,1840004840
+Greencastle,United States,Indiana,,10567.0,1840008439
+East Greenwich,United States,Rhode Island,,13081.0,1840066133
+Lewisburg,United States,Pennsylvania,,5708.0,1840003531
+Frederick,United States,Maryland,,156787.0,1840005710
+Catonsville,United States,Maryland,,41547.0,1840005679
+Hawaiian Gardens,United States,California,,14159.0,1840020485
+Cottonwood,United States,Arizona,,12253.0,1840019168
+Basingstoke,United Kingdom,Hampshire,,113776.0,1826924980
+Ocean Springs,United States,Mississippi,,17862.0,1840015017
+Chicago Ridge,United States,Illinois,,13928.0,1840010146
+Vancouver,Canada,British Columbia,,2264823.0,1124825478
+Fountain Hills,United States,Arizona,,25200.0,1840021945
+Clearfield,United States,Utah,,32118.0,1840018735
+Chennai,India,Tamil Nādu,admin,11324000.0,1356374944
+Cary,United States,North Carolina,,170282.0,1840016196
+Alamosa,United States,Colorado,,10652.0,1840018921
+Delran,United States,New Jersey,,16548.0,1840081628
+Dobbs Ferry,United States,New York,,11027.0,1840004952
+Greenville,United States,South Carolina,,484465.0,1840013501
+Gahanna,United States,Ohio,,35483.0,1840008390
+Calgary,Canada,Alberta,,1239220.0,1124690423
+West St. Paul,United States,Minnesota,,19961.0,1840010012
+Johannesburg,South Africa,Gauteng,admin,4434827.0,1710550792
+Litchfield Park,United States,Arizona,,6436.0,1840020565
+Tumwater,United States,Washington,,24024.0,1840021145
+Silverdale,United States,Washington,,21677.0,1840018406
+Oakwood,United States,Ohio,,8936.0,1840003785
+Los Banos,Philippines,Laguna,,112008.0,1608920078
+Danville,United States,Illinois,,47059.0,1840007235
+Skipton,United Kingdom,North Yorkshire,,14623.0,1826200772
+Pune,India,Mahārāshtra,,7764000.0,1356081074
+Magnolia,United States,Arkansas,,11467.0,1840015726
+Cranbrook,Canada,British Columbia,,19259.0,1124937794
+Sun City West,United States,Arizona,,25544.0,1840019312
+Highlands Ranch,United States,Colorado,,105631.0,1840028579
+Helena,United States,Montana,admin,52936.0,1840019820
+Izmir,Turkey,İzmir,admin,4320519.0,1792725579
+Cornelia,United States,Georgia,,20913.0,1840014661
+Chanhassen,United States,Minnesota,,26389.0,1840006759
+North Babylon,United States,New York,,17134.0,1840005054
+Solon,United States,Ohio,,22779.0,1840003413
+Normal,United States,Illinois,,54469.0,1840009401
+Christiansburg,United States,Virginia,,22473.0,1840006447
+Cypress,United States,California,,49006.0,1840019327
+Casselberry,United States,Florida,,28757.0,1840015088
+Ashford,United Kingdom,Kent,,74204.0,1826045748
+Ankeny,United States,Iowa,,67355.0,1840007066
+Minden,Germany,North Rhine-Westphalia,minor,81682.0,1276191164
+Niigata,Japan,Niigata,admin,790646.0,1392913753
+Exton,United States,Pennsylvania,,5382.0,1840001421
+Karlsruhe,Germany,Baden-Württemberg,minor,313092.0,1276923210
+Lehi,United States,Utah,,69724.0,1840020168
+Pinole,United States,California,,19250.0,1840020281
+London Colney,United Kingdom,Hertfordshire,,9507.0,1826250958
+Kenora,Canada,Ontario,,15096.0,1124844807
+Cajamarca,Peru,Cajamarca,admin,201329.0,1604091119
+Samut Prakan,Thailand,Samut Prakan,admin,51309.0,1764159228
+Upper Darby,United States,Pennsylvania,,82887.0,1840035234
+Puteaux,France,Île-de-France,,44645.0,1250407425
+Broadview,United States,Illinois,,7618.0,1840010141
+Lethbridge,Canada,Alberta,,92729.0,1124321200
+Whitehall,United States,Pennsylvania,,27567.0,1840147555
+Sumter,United States,South Carolina,,71518.0,1840015612
+Hyde,United Kingdom,Tameside,,34003.0,1826480324
+Champaign,United States,Illinois,,159443.0,1840007239
+Peru,United States,Illinois,,30287.0,1840009273
+Piraeus,Greece,Attikí,minor,163688.0,1300458367
+Baldwin Park,United States,California,,75251.0,1840019227
+Miller Place,United States,New York,,12016.0,1840005046
+Montgomery,United States,Alabama,admin,254634.0,1840008353
+Duncan,Canada,British Columbia,,44451.0,1124316061
+Dumont,United States,New Jersey,,17516.0,1840003541
+Greenwood Village,United States,Colorado,,15735.0,1840020212
+San Mateo,Philippines,Rizal,,252527.0,1608557779
+Rolling Hills Estates,United States,California,,8058.0,1840020494
+Ostrava,Czechia,Moravskoslezský Kraj,admin,284982.0,1203687206
+Johnstown,United States,Pennsylvania,,63141.0,1840001116
+Placentia,United States,California,,51233.0,1840020583
+Augusta,United States,Georgia,,390809.0,1840029462
+Cheyenne,United States,Wyoming,admin,79484.0,1840018713
+Madera,Mexico,Chihuahua,minor,15447.0,1484958144
+Stanwood,United States,Washington,,7354.0,1840021079
+Tachikawa,Japan,Tōkyō,,181115.0,1392042507
+Pahrump,United States,Nevada,,37298.0,1840018821
+Bucheon,"Korea, South",Gyeonggi,minor,867678.0,1410428222
+Manor,United States,Pennsylvania,,20832.0,1840147751
+Guildford,United Kingdom,Surrey,,77057.0,1826863533
+Sheffield,United Kingdom,Sheffield,,685368.0,1826289852
+Branford,United States,Connecticut,,28020.0,1840044985
+Ena,Japan,Gifu,,47999.0,1392686294
+Yuba City,United States,California,,120456.0,1840021463
+Surrey,Canada,British Columbia,,517887.0,1124001454
+Gdynia,Poland,Pomorskie,minor,247672.0,1616385189
+Drammen,Norway,Buskerud,minor,117510.0,1578937195
+Whitehorse,Canada,Yukon,,25085.0,1124348186
+Fountain Valley,United States,California,,55357.0,1840020575
+Chino Valley,United States,Arizona,,12375.0,1840022753
+Hasuda,Japan,Saitama,,61473.0,1392294890
+Canon City,United States,Colorado,,27676.0,1840018855
+Fort Wayne,United States,Indiana,,334122.0,1840008261
+Marshfield,United States,Massachusetts,,25838.0,1840053681
+Selma,United States,California,,44703.0,1840021567
+Folsom,United States,Pennsylvania,,8913.0,1840034970
+Futtsu,Japan,Chiba,,42280.0,1392321461
+Surbiton,United Kingdom,Kingston upon Thames,,45132.0,1826418537
+Lincolnton,United States,North Carolina,,24229.0,1840015427
+Tinton Falls,United States,New Jersey,,17451.0,1840001368
+Grover Beach,United States,California,,13459.0,1840020414
+Seneca,United States,South Carolina,,27439.0,1840015506
+Montville,United States,New Jersey,,21371.0,1840081737
+Delaware,United States,Ohio,,41283.0,1840007237
+Minooka,United States,Illinois,,11397.0,1840011618
+Whitby,Canada,Ontario,,128377.0,1124112077
+Cupertino,United States,California,,59276.0,1840018950
+Stevenson Ranch,United States,California,,19179.0,1840076281
+Swift Current,Canada,Saskatchewan,,16604.0,1124460875
+Hobbs,United States,New Mexico,,42095.0,1840020616
+Harrisburg,United States,Pennsylvania,admin,442289.0,1840001288
+Brasov,Romania,Braşov,admin,290743.0,1642328429
+Woodland Park,United States,New Jersey,,12581.0,1840056421
+Kenosha,United States,Wisconsin,,124972.0,1840003160
+Monterey Park,United States,California,,59669.0,1840020500
+Gold River,United States,California,,7538.0,1840017583
+Newbury,United Kingdom,West Berkshire,,41075.0,1826103829
+Tigard,United States,Oregon,,55514.0,1840021206
+Suffern,United States,New York,,11007.0,1840004987
+New City,United States,New York,,35101.0,1840004964
+Old Tappan,United States,New Jersey,,5894.0,1840000913
+Santa Clarita,United States,California,,312446.0,1840021864
+Union City,United States,New Jersey,,67982.0,1840001034
+Old Saybrook,United States,Connecticut,,10090.0,1840045060
+Orangeville,Canada,Ontario,,30734.0,1124566061
+Telford,United Kingdom,Telford and Wrekin,,142723.0,1826968934
+College Park,United States,Maryland,,32163.0,1840005971
+Daisen,Japan,Akita,,76164.0,1392642502
+Ozark,United States,Missouri,,20482.0,1840009926
+Brooklyn Park,United States,Minnesota,,80389.0,1840004023
+Spruce Grove,Canada,Alberta,,34066.0,1124943146
+Nogata,Japan,Fukuoka,,55705.0,1392996522
+Wheeling,United States,West Virginia,,75392.0,1840005510
+Boulder City,United States,Nevada,,16207.0,1840019028
+St. Louis,United States,Missouri,,2024074.0,1840001651
+Sterling Heights,United States,Michigan,,132438.0,1840003094
+Hove,United Kingdom,Brighton and Hove,,91900.0,1826419818
+Westfield,United States,Indiana,,43649.0,1840010500
+Maricopa,United States,Arizona,,52127.0,1840020629
+Ciudad Victoria,Mexico,Tamaulipas,admin,305155.0,1484616519
+Leipzig,Germany,Saxony,minor,593197.0,1276563678
+East Lyme,United States,Connecticut,,18724.0,1840045011
+Rolling Meadows,United States,Illinois,,23532.0,1840009185
+Pittsburg,United States,California,,72588.0,1840020282
+Mito,Japan,Ibaraki,admin,269103.0,1392665227
+Hatay,Turkey,Hatay,admin,377793.0,1792115763
+Hastings,United Kingdom,East Sussex,,92855.0,1826499763
+Orly,France,Île-de-France,,23801.0,1250660007
+Annapolis,United States,Maryland,admin,39223.0,1840005928
+Kamagaya,Japan,Chiba,,109370.0,1392541992
+Glendale Heights,United States,Illinois,,33617.0,1840011406
+Atlantic City,United States,New Jersey,,237054.0,1840003798
+Pollock Pines,United States,California,,7156.0,1840018831
+Leland,United States,North Carolina,,23544.0,1840016683
+Okayama,Japan,Okayama,admin,720043.0,1392954750
+Silverton,United States,Oregon,,11068.0,1840021226
+Elk River,United States,Minnesota,,25213.0,1840007794
+Port Orchard,United States,Washington,,14597.0,1840019821
+Yakima,United States,Washington,,133191.0,1840021154
+Celaya,Mexico,Guanajuato,minor,468469.0,1484979555
+Ceres,United States,California,,48706.0,1840018910
+Bandar Seri Begawan,Brunei,Brunei and Muara,primary,50000.0,1096465895
+Peterborough,Canada,Ontario,,82094.0,1124440356
+San Joaquin,Chile,Región Metropolitana,,94492.0,1152095800
+Rosemont,United States,California,,23602.0,1840018844
+Plattsmouth,United States,Nebraska,,6534.0,1840009355
+Mason,United States,Ohio,,33870.0,1840008467
+Phra Nakhon Si Ayutthaya,Thailand,Phra Nakhon Si Ayutthaya,admin,52952.0,1764002329
+Elmhurst,United States,Illinois,,46746.0,1840008142
+Burgas,Bulgaria,Burgas,admin,226868.0,1100365645
+Bartonville,United States,Illinois,,6113.0,1840011920
+Coolidge,United States,Arizona,,13130.0,1840019367
+Jinhua,China,Zhejiang,minor,5361572.0,1156547188
+Camp Verde,United States,Arizona,,11187.0,1840022752
+Pekin,United States,Illinois,,32045.0,1840009402
+Grantham,United Kingdom,Lincolnshire,,44580.0,1826040909
+American Canyon,United States,California,,20475.0,1840018834
+Laguna Hills,United States,California,,31207.0,1840020588
+Lynn,United States,Massachusetts,,94299.0,1840000409
+El Centro,United States,California,,111425.0,1840020630
+Sammamish,United States,Washington,,65892.0,1840021115
+Palm City,United States,Florida,,24840.0,1840014192
+Susanville,United States,California,,15010.0,1840021348
+Hamamatsu,Japan,Shizuoka,,788211.0,1392174500
+Daly City,United States,California,,106280.0,1840018926
+Neenah,United States,Wisconsin,,26300.0,1840002244
+Florham Park,United States,New Jersey,,11496.0,1840003582
+Effingham,United States,Illinois,,14005.0,1840008545
+Fort Irwin,United States,California,,9872.0,1840025802
+Slippery Rock,United States,Pennsylvania,,6541.0,1840000874
+Lewiston,United States,Maine,,58802.0,1840000320
+Grandview,United States,Missouri,,24856.0,1840008532
+Breckenridge,United States,Colorado,,7818.0,1840021428
+Sanger,United States,California,,27777.0,1840021566
+Maumelle,United States,Arkansas,,18199.0,1840015510
+Wilton Manors,United States,Florida,,12756.0,1840016004
+Stratford,United Kingdom,Newham,,51387.0,1826465421
+Modesto,United States,California,,383134.0,1840020287
+Pyeongtaek,"Korea, South",Gyeonggi,,457873.0,1410641095
+Mission,United States,Texas,,84331.0,1840021026
+Stony Plain,Canada,Alberta,,17189.0,1124982081
+Flower Mound,United States,Texas,,79135.0,1840022010
+Hanno,Japan,Saitama,,79169.0,1392681016
+Gomez Palacio,Mexico,Durango,minor,327985.0,1484092318
+Healdsburg,United States,California,,11845.0,1840020242
+Freehold,United States,New Jersey,,34945.0,1840003687
+Loveland,United States,Colorado,,78877.0,1840020152
+Central,United States,Louisiana,,29357.0,1840023139
+South Holland,United States,Illinois,,21296.0,1840011324
+Sunderland,United Kingdom,Sunderland,,174286.0,1826736387
+Kathu,Thailand,Phuket,minor,26078.0,1764733770
+Manhattan,United States,New York,,1628706.0,1840034000
+Aomori,Japan,Aomori,admin,271962.0,1392083898
+Superior,United States,Wisconsin,,25977.0,1840038034
+Geneseo,United States,New York,,10635.0,1840004422
+Columbia,United States,South Carolina,admin,560041.0,1840014730
+Grand Island,United States,Nebraska,,53296.0,1840000956
+Abilene,United States,Texas,,123420.0,1840019476
+Sarasota,United States,Florida,,722243.0,1840015988
+Rancho Palos Verdes,United States,California,,41530.0,1840020508
+Stroudsburg,United States,Pennsylvania,,5558.0,1840003509
+Taft,Philippines,Eastern Samar,,18915.0,1608376132
+Duarte,United States,California,,21271.0,1840019246
+Davao,Philippines,Davao,admin,1632991.0,1608906877
+Watford,United Kingdom,Hertfordshire,,96800.0,1826570072
+Hamburg,Germany,Hamburg,admin,1841179.0,1276041799
+Carson,United States,California,,91394.0,1840019214
+Zaventem,Belgium,Flanders,,33806.0,1056786797
+Coconut Creek,United States,Florida,,61248.0,1840015132
+Okemos,United States,Michigan,,24141.0,1840004502
+Lacey,United States,Washington,,52592.0,1840019866
+Doncaster,United Kingdom,Doncaster,,109805.0,1826979494
+Boucherville,Canada,Quebec,,40753.0,1124000296
+Stockport,United Kingdom,Stockport,,105878.0,1826228303
+Parker,United States,Colorado,,57706.0,1840022454
+Lihue,United States,Hawaii,,7267.0,1840029519
+Duvall,United States,Washington,,8107.0,1840018427
+Saint John,Canada,New Brunswick,,67575.0,1124631364
+Marshall,United States,Texas,,22831.0,1840020739
+Secaucus,United States,New Jersey,,21893.0,1840001033
+Rialto,United States,California,,103526.0,1840020407
+Rancho Cordova,United States,California,,75087.0,1840020248
+Waterville,United States,Maine,,27054.0,1840000305
+Yotsukaido,Japan,Chiba,,93233.0,1392512633
+Pearland,United States,Texas,,122460.0,1840020979
+Memphis,United States,Tennessee,,1066967.0,1840015457
+Petaluma,United States,California,,66929.0,1840020244
+Geneva,Switzerland,Genève,admin,201818.0,1756810813
+Palos Heights,United States,Illinois,,12520.0,1840009181
+Dudley,United Kingdom,Dudley,,79379.0,1826052828
+Delft,Netherlands,Zuid-Holland,minor,100011.0,1528448452
+Runcorn,United Kingdom,Halton,,61789.0,1826349439
+Talisay,Philippines,Cebu,,227645.0,1608040297
+Morrisville,United States,North Carolina,,28846.0,1840016195
+Old Bridge,United States,New Jersey,,65782.0,1840081688
+Poway,United States,California,,49323.0,1840020624
+Bexley,United States,Ohio,,13770.0,1840003759
+Oak Park Heights,United States,Minnesota,,5003.0,1840007812
+Troutdale,United States,Oregon,,16183.0,1840021209
+Pleasantville,United States,New Jersey,,20149.0,1840001535
+Huntsville,United States,Alabama,,319249.0,1840005061
+Greenacres,United States,Florida,,41117.0,1840036057
+Kittery,United States,Maine,,9731.0,1840052873
+Nacogdoches,United States,Texas,,34420.0,1840020820
+Saga,Japan,Saga,admin,232359.0,1392618841
+Vestavia Hills,United States,Alabama,,34413.0,1840015673
+Newberg,United States,Oregon,,29225.0,1840019957
+Maryland Heights,United States,Missouri,,26956.0,1840008591
+Quebec City,Canada,Quebec,,705103.0,1124823933
+Ansan,"Korea, South",Gyeonggi,,652800.0,1410585171
+Paoli,United States,Pennsylvania,,5651.0,1840005501
+Martinsville,United States,Virginia,,31871.0,1840001727
+Saint-Sauveur,Canada,Quebec,,9881.0,1124720935
+Malolos,Philippines,Bulacan,admin,252074.0,1608358783
+Brownsburg,United States,Indiana,,27001.0,1840009536
+Binan,Philippines,Laguna,,333028.0,1608039268
+Elstree,United Kingdom,Hertfordshire,,5110.0,1826109964
+Coatzacoalcos,Mexico,Veracruz,minor,319187.0,1484016854
+Statesboro,United States,Georgia,,42102.0,1840015801
+Bern,Switzerland,Bern,primary,133798.0,1756374318
+Vacaville,United States,California,,101444.0,1840021498
+Westlake,United States,Ohio,,32032.0,1840003420
+Fremont,United States,California,,241110.0,1840020292
+Hakodate,Japan,Hokkaidō,,251942.0,1392708558
+Shreveport,United States,Louisiana,,280062.0,1840015768
+Edmonds,United States,Washington,,42605.0,1840037645
+Des Moines,United States,Iowa,admin,473957.0,1840007069
+Southborough,United Kingdom,Kent,,11124.0,1826565398
+Sofia,Bulgaria,Sofia-Grad,primary,1355142.0,1100762037
+Goyang,"Korea, South",Gyeonggi,minor,1061929.0,1410511255
+Sterling,United States,Virginia,,30271.0,1840024508
+Southfield,United States,Michigan,,72689.0,1840002431
+Sunny Isles Beach,United States,Florida,,21804.0,1840016007
+Honolulu,United States,Hawaii,admin,820987.0,1840013305
+Vasteras,Sweden,Västmanland,admin,128534.0,1752826955
+Clemson,United States,South Carolina,,17501.0,1840014626
+Harriman,United States,Tennessee,,22708.0,1840013385
+North Miami Beach,United States,Florida,,43041.0,1840015155
+Bloomingdale,United States,Florida,,24446.0,1840014150
+West Hills,United States,New York,,5055.0,1840034031
+Paju,"Korea, South",Gyeonggi,minor,415345.0,1410365324
+Rockford,United States,Illinois,,282762.0,1840009132
+Trumbull,United States,Connecticut,,35976.0,1840035628
+Hemet,United States,California,,177253.0,1840020550
+Antrim,United Kingdom,Antrim and Newtownabbey,,19986.0,1826477610
+Mount Pocono,United States,Pennsylvania,,23820.0,1840003508
+Glendale,United States,Arizona,,252381.0,1840020563
+Marrero,United States,Louisiana,,30894.0,1840013993
+Placerville,United States,California,,31943.0,1840020238
+Hong Kong,Hong Kong,,primary,7347000.0,1344982653
+Porterville,United States,California,,77318.0,1840020368
+Belleville,United States,New Jersey,,36181.0,1840131591
+Arden Hills,United States,Minnesota,,10281.0,1840006752
+Adelanto,United States,California,,34049.0,1840019117
+Rockwall,United States,Texas,,45888.0,1840020717
+Cullman,United States,Alabama,,19920.0,1840001354
+Lino Lakes,United States,Minnesota,,22119.0,1840008902
+Glen Ellyn,United States,Illinois,,27714.0,1840011405
+Jonesboro,United States,Arkansas,,78394.0,1840014507
+Antipolo,Philippines,Rizal,admin,776386.0,1608824345
+Bossier City,United States,Louisiana,,68159.0,1840013790
+Shelby,United States,North Carolina,,26973.0,1840015426
+Thunder Bay,Canada,Ontario,,107909.0,1124398712
+Santa Fe Springs,United States,California,,17630.0,1840021865
+Lansdale,United States,Pennsylvania,,17083.0,1840003703
+Homestead,United States,Florida,,69523.0,1840015159
+Rosario,Argentina,Santa Fe,minor,1193605.0,1032770677
+New Lenox,United States,Illinois,,26926.0,1840011493
+Hood River,United States,Oregon,,15949.0,1840019942
+Waltham Cross,United Kingdom,Hertfordshire,,7407.0,1826629009
+Cologne,Germany,North Rhine-Westphalia,,1085664.0,1276015998
+Saint Petersburg,Russia,Sankt-Peterburg,admin,5351935.0,1643616350
+Arcadia,United States,California,,57939.0,1840019223
+San Jose Pinula,Guatemala,Guatemala,minor,47278.0,1320568537
+Larkspur,United States,California,,12254.0,1840020261
+Hoover,United States,Alabama,,85768.0,1840014795
+Banning,United States,California,,31221.0,1840019297
+Fort Lauderdale,United States,Florida,,182437.0,1840014236
+Tomigusuku,Japan,Okinawa,,64850.0,1392091635
+Almaty,Kazakhstan,Almaty,,1916822.0,1398351701
+Norwood,United States,Ohio,,19776.0,1840001610
+Mercer Island,United States,Washington,,25894.0,1840019830
+Natick,United States,Massachusetts,,36128.0,1840053640
+Cirebon,Indonesia,Jawa Barat,,316126.0,1360011375
+Dearborn,United States,Michigan,,93932.0,1840003969
+Vosendorf,Austria,Niederösterreich,,6990.0,1040100042
+Queen Creek,United States,Arizona,,50890.0,1840021944
+Lynden,United States,Washington,,18512.0,1840019752
+Clifton Park,United States,New York,,36663.0,1840057994
+Moorhead,United States,Minnesota,,43652.0,1840007731
+Broomall,United States,Pennsylvania,,11222.0,1840005549
+Oconomowoc,United States,Wisconsin,,16981.0,1840003027
+Ciudad Obregon,Mexico,Sonora,minor,405000.0,1484887986
+Lansing,United States,Michigan,admin,324286.0,1840003102
+Mooresville,United States,North Carolina,,39132.0,1840016215
+Gwangyang,"Korea, South",Jeonnam,minor,151834.0,1410398748
+Mecca,Saudi Arabia,Makkah al Mukarramah,admin,1675368.0,1682169241
+Nantong,China,Jiangsu,minor,7282835.0,1156045365
+Guri,"Korea, South",Gyeonggi,,180063.0,1410478813
+Sandusky,United States,Ohio,,46655.0,1840003433
+San Diego,United States,California,,3220118.0,1840021990
+Millington,United States,Tennessee,,10641.0,1840014593
+Cookeville,United States,Tennessee,,50408.0,1840014470
+Preston,United Kingdom,Lancashire,,122719.0,1826018478
+Charlottesville,United States,Virginia,,100416.0,1840001678
+Pueblo West,United States,Colorado,,31849.0,1840018860
+Chicopee,United States,Massachusetts,,55126.0,1840000462
+Upland,United States,California,,77140.0,1840021730
+LaSalle,Canada,Ontario,,30180.0,1124000988
+Kearney,United States,Nebraska,,34418.0,1840000957
+Des Plaines,United States,Illinois,,58899.0,1840007032
+Plantation,United States,Florida,,94580.0,1840015142
+Santiago,Chile,Región Metropolitana,primary,7007000.0,1152554349
+Myrtle Beach,United States,South Carolina,,275579.0,1840014717
+Bryant,United States,Arkansas,,20968.0,1840013573
+Oakbrook,United States,Kentucky,,9023.0,1840030814
+Rotorua,New Zealand,Bay of Plenty,,58500.0,1554000379
+Manhattan Beach,United States,California,,35183.0,1840020496
+Clarkston,United States,Georgia,,12637.0,1840014776
+Lynwood,United States,California,,69887.0,1840020492
+Charlotte,United States,North Carolina,,1512923.0,1840014557
+Patchogue,United States,New York,,12321.0,1840005129
+Danbury,United States,Connecticut,,176030.0,1840004837
+Fort Smith,United States,Arkansas,,125354.0,1840013456
+Kunitachi,Japan,Tōkyō,,75133.0,1392309515
+Morris,United States,New Jersey,,22268.0,1840081723
+Tacoma,United States,Washington,,217827.0,1840021129
+Maidenhead,United Kingdom,Windsor and Maidenhead,,69309.0,1826979451
+Fairburn,United States,Georgia,,16768.0,1840013662
+Scarsdale,United States,New York,,17871.0,1840004943
+Broussard,United States,Louisiana,,12700.0,1840013964
+Schenectady,United States,New York,,65273.0,1840000395
+Calimesa,United States,California,,9160.0,1840019300
+Chiclayo,Peru,Lambayeque,admin,552508.0,1604799615
+Hesperia,United States,California,,95750.0,1840020404
+Pflugerville,United States,Texas,,65380.0,1840020892
+Waterford,Ireland,Waterford,admin,48369.0,1372267114
+Chillicothe,United States,Ohio,,31999.0,1840007369
+Toppenish,United States,Washington,,14284.0,1840021151
+Utsunomiya,Japan,Tochigi,admin,518197.0,1392506125
+Cape Girardeau,United States,Missouri,,56551.0,1840007598
+Nantes,France,Pays de la Loire,admin,633690.0,1250091495
+Cheltenham,United Kingdom,Gloucestershire,,116447.0,1826524974
+Rosamond,United States,California,,20851.0,1840019140
+Wickenburg,United States,Arizona,,8092.0,1840022916
+Llanelli,United Kingdom,Carmarthenshire,,49591.0,1826934854
+Lipa City,Philippines,Batangas,,332386.0,1608615113
+Spalding,United Kingdom,Lincolnshire,,34613.0,1826335951
+Tehachapi,United States,California,,14928.0,1840021737
+Miami,United States,Florida,,6445545.0,1840015149
+Paducah,United States,Kentucky,,48481.0,1840014388
+Newport Beach,United States,California,,84534.0,1840020581
+Lenoir City,United States,Tennessee,,9324.0,1840014514
+Doha,Qatar,Ad Dawḩah,primary,1312947.0,1634459660
+Troy,United States,Michigan,,84092.0,1840002434
+Uniontown,United States,Pennsylvania,,48137.0,1840000671
+Worthing,United Kingdom,West Sussex,,183000.0,1826936965
+Bakersfield,United States,California,,579295.0,1840019148
+Hilliard,United States,Ohio,,36534.0,1840007265
+Deptford,United States,New Jersey,,30448.0,1840081679
+Semarang,Indonesia,Jawa Tengah,admin,1621384.0,1360745537
+Dunwoody,United States,Georgia,,49356.0,1840022929
+Lynnwood,United States,Washington,,39141.0,1840019788
+Edgewood,United States,Maryland,,25574.0,1840005661
+Crystal Lake,United States,Illinois,,39829.0,1840006969
+Estero,United States,Florida,,33871.0,1840013129
+Bogota,Colombia,Bogotá,primary,9464000.0,1170483426
+Shimotsuma,Japan,Ibaraki,,41499.0,1392100062
+Apple Valley,United States,California,,73453.0,1840021733
+Velizy-Villacoublay,France,Île-de-France,,22036.0,1250075648
+Mirfield,United Kingdom,Kirklees,,19563.0,1826835871
+Roanoke,United States,Virginia,,214674.0,1840003858
+Alpharetta,United States,Georgia,,67213.0,1840013659
+Norwalk,United States,California,,103949.0,1840020501
+Alamogordo,United States,New Mexico,,33513.0,1840019403
+Hershey,United States,Pennsylvania,,14654.0,1840005400
+Winona,United States,Minnesota,,29601.0,1840010034
+Battle Ground,United States,Washington,,21252.0,1840018523
+Nanjing,China,Jiangsu,admin,7496000.0,1156644065
+Summerville,United States,South Carolina,,52549.0,1840016886
+Kennesaw,United States,Georgia,,34077.0,1840014756
+Sacramento,United States,California,admin,1898019.0,1840021491
+Lowestoft,United Kingdom,Suffolk,,71010.0,1826419858
+Orem,United States,Utah,,97828.0,1840020171
+Torrelodones,Spain,Madrid,,23902.0,1724434250
+Gold Coast,Australia,Queensland,,679127.0,1036153217
+Zanesville,United States,Ohio,,41589.0,1840001496
+Cluj-Napoca,Romania,Cluj,admin,316748.0,1642503974
+Perris,United States,California,,79291.0,1840020557
+Concepcion,Chile,Biobío,admin,889725.0,1152838958
+Brighouse,United Kingdom,Calderdale,,32360.0,1826688359
+Tinley Park,United States,Illinois,,55773.0,1840011331
+Dinuba,United States,California,,24461.0,1840019044
+Ames,United States,Iowa,,67910.0,1840007019
+Sarnia,Canada,Ontario,,71594.0,1124509835
+Kennewick,United States,Washington,,240735.0,1840018481
+Seremban,Malaysia,Negeri Sembilan,admin,419536.0,1458051507
+Normandy Park,United States,Washington,,6604.0,1840019832
+San Miguel de Allende,Mexico,Guanajuato,minor,139297.0,1484007926
+Pewaukee,United States,Wisconsin,,14631.0,1840033459
+Kochi,India,Kerala,,677381.0,1356707865
+Winterthur,Switzerland,Zürich,minor,109775.0,1756362130
+Matsuyama,Japan,Ehime,admin,506743.0,1392220893
+Davie,United States,Florida,,106306.0,1840017272
+Cedar Rapids,United States,Iowa,,188038.0,1840000471
+La Paz,Bolivia,La Paz,primary,2867504.0,1068000064
+Appleton,United States,Wisconsin,,220570.0,1840002400
+Middletown,United States,New York,,58592.0,1840000585
+San Rafael,Argentina,Mendoza,minor,107997.0,1032221516
+Addison,United States,Illinois,,36482.0,1840010171
+Flowery Branch,United States,Georgia,,8325.0,1840013611
+Northglenn,United States,Colorado,,38819.0,1840020192
+Busan,"Korea, South",Busan,admin,3453198.0,1410601465
+Chester,United States,Pennsylvania,,34000.0,1840000690
+Cockeysville,United States,Maryland,,21038.0,1840005680
+Glenville,United States,New York,,29292.0,1840058129
+Clarendon Hills,United States,Illinois,,8752.0,1840010170
+Mendoza,Argentina,Mendoza,admin,114822.0,1032433516
+Coquitlam,Canada,British Columbia,,139284.0,1124000500
+Ann Arbor,United States,Michigan,,322267.0,1840003172
+St. Robert,United States,Missouri,,6275.0,1840009866
+St. Albans,United States,West Virginia,,9918.0,1840006201
+Davenport,United States,Iowa,,285362.0,1840007081
+League City,United States,Texas,,107536.0,1840020973
+Muntinlupa City,Philippines,Muntinlupa,admin,504509.0,1608473406
+Munster,Germany,North Rhine-Westphalia,minor,314319.0,1276714504
+Owensboro,United States,Kentucky,,74068.0,1840014340
+Owings Mills,United States,Maryland,,35081.0,1840005684
+Reedley,United States,California,,49042.0,1840020320
+Junction City,United States,Kansas,,35677.0,1840001620
+Duluth,United States,Minnesota,,119476.0,1840007685
+Lutz,United States,Florida,,22235.0,1840014156
+Pleasant Hill,United States,California,,34839.0,1840020283
+Delray Beach,United States,Florida,,69451.0,1840015123
+Loomis,United States,California,,6866.0,1840021462
+Morro Bay,United States,California,,10543.0,1840020415
+Hollister,United States,California,,48992.0,1840020354
+Marlborough,United Kingdom,Wiltshire,,8395.0,1826128620
+Toulouse,France,Occitanie,admin,968638.0,1250258110
+Guarulhos,Brazil,São Paulo,,1324781.0,1076730420
+Fraser,United States,Michigan,,14480.0,1840002421
+Valley Center,United States,California,,11077.0,1840019349
+Barueri,Brazil,São Paulo,,262275.0,1076211114
+Woodinville,United States,Washington,,13263.0,1840021121
+Roseville,United States,California,,141500.0,1840020233
+Ploiesti,Romania,Prahova,admin,209945.0,1642169731
+Seguin,United States,Texas,,29992.0,1840022214
+Lauderhill,United States,Florida,,71868.0,1840015146
+Mandaue City,Philippines,Mandaue,admin,362654.0,1608794590
+Branchburg,United States,New Jersey,,14480.0,1840081705
+Stavanger,Norway,Rogaland,admin,129300.0,1578801684
+Lake Geneva,United States,Wisconsin,,15518.0,1840002479
+New Bern,United States,North Carolina,,51308.0,1840014591
+Weirton,United States,West Virginia,,65578.0,1840005405
+Fitchburg,United States,Massachusetts,,40638.0,1840000435
+Rutherford,United States,New Jersey,,18303.0,1840000902
+Happy Valley,United States,Oregon,,22553.0,1840019950
+Arvada,United States,Colorado,,121272.0,1840018788
+Dyer,United States,Indiana,,15976.0,1840010224
+Hertford,United Kingdom,Hertfordshire,,26783.0,1826912872
+Walton,United States,New York,,5179.0,1840004623
+Kelowna,Canada,British Columbia,,142146.0,1124080626
+Mandeville,Jamaica,Manchester,admin,48317.0,1388493847
+Henderson,United States,Nevada,,320189.0,1840020361
+Pottstown,United States,Pennsylvania,,108758.0,1840001373
+Mamaroneck,United States,New York,,29670.0,1840004935
+Biloxi,United States,Mississippi,,46212.0,1840013948
+Lemon Grove,United States,California,,26811.0,1840020621
+Nassau,"Bahamas, The",,primary,274400.0,1044318561
+Hachioji,Japan,Tōkyō,,575721.0,1392172935
+Oakdale,United States,Minnesota,,27933.0,1840007813
+Capitola,United States,California,,10010.0,1840018959
+Galway,Ireland,Galway,admin,79504.0,1372499968
+Kumagaya,Japan,Saitama,,193190.0,1392500750
+Zug,Switzerland,Zug,admin,30542.0,1756703208
+Taguig City,Philippines,Taguig,admin,804915.0,1608766695
+Tochigi,Japan,Tochigi,,153508.0,1392660923
+Los Lunas,United States,New Mexico,,69020.0,1840022814
+Saltillo,Mexico,Coahuila de Zaragoza,admin,807537.0,1484107245
+Hewlett,United States,New York,,6802.0,1840005265
+Krasnogorsk,Russia,Moskovskaya Oblast’,,171793.0,1643674336
+Hutchinson,United States,Kansas,,42531.0,1840001673
+Evesham,United States,New Jersey,,45135.0,1840081613
+Redwood City,United States,California,,85925.0,1840020304
+Page,United States,Arizona,,7529.0,1840020336
+Manama,Bahrain,Al ‘Āşimah,primary,157474.0,1048989486
+Craig,United States,Colorado,,9553.0,1840018741
+Manorville,United States,New York,,13257.0,1840005088
+Moraga,United States,California,,17783.0,1840022538
+Pickerington,United States,Ohio,,22158.0,1840009528
+Millbrae,United States,California,,22394.0,1840020306
+Bogor,Indonesia,Jawa Barat,,1030720.0,1360771925
+Buford,United States,Georgia,,15522.0,1840013678
+Eskisehir,Turkey,Eskişehir,admin,871187.0,1792933981
+Mountlake Terrace,United States,Washington,,21338.0,1840019792
+Suzhou,China,Anhui,,5690000.0,1156871297
+Hampton Bays,United States,New York,,14848.0,1840005076
+San Ramon,United States,California,,75995.0,1840021530
+Golden Valley,United States,Minnesota,,21886.0,1840007824
+Bloomington,United States,Illinois,,133846.0,1840007207
+Swords,Ireland,Fingal,admin,33998.0,1372755688
+Niteroi,Brazil,Rio de Janeiro,,496696.0,1076501425
+Dundee,United Kingdom,Dundee City,,148270.0,1826581481
+Town and Country,United States,Missouri,,11109.0,1840010738
+Orland Park,United States,Illinois,,57857.0,1840011310
+Allen,United States,Texas,,105623.0,1840019396
+Sequim,United States,Washington,,22304.0,1840021076
+Bryan,United States,Texas,,86276.0,1840019569
+Epping,United Kingdom,Essex,,11047.0,1826234838
+Fort Morgan,United States,Colorado,,13349.0,1840020175
+Tukwila,United States,Washington,,20347.0,1840021120
+Fredericksburg,United States,Virginia,,168909.0,1840003845
+Lakeside,United States,Florida,,30458.0,1840029051
+Diyarbakir,Turkey,Diyarbakır,admin,1732396.0,1792536241
+Pasig City,Philippines,Pasig,admin,755300.0,1608278212
+Bourbonnais,United States,Illinois,,19462.0,1840011692
+Clive,United States,Iowa,,17242.0,1840007063
+Leominster,United States,Massachusetts,,119690.0,1840000437
+Romford,United Kingdom,Havering,,122854.0,1826695421
+Oyabe,Japan,Toyama,,28634.0,1392185523
+Bedford,United Kingdom,Bedford,,106940.0,1826771105
+Carleton Place,Canada,Ontario,,11901.0,1124676010
+Brunswick,United States,Georgia,,53914.0,1840013875
+Sunnyvale,United States,California,,152703.0,1840021573
+Mount Airy,United States,North Carolina,,19119.0,1840014430
+Chillan,Chile,Biobío,admin,164270.0,1152082093
+Spirit Lake,United States,Iowa,,11530.0,1840009023
+Guerneville,United States,California,,5014.0,1840017578
+West Thurrock,United Kingdom,Thurrock,,7795.0,1826272551
+Ladera Ranch,United States,California,,27277.0,1840028333
+Webster,United States,New York,,44522.0,1840004286
+Playa del Carmen,Mexico,Quintana Roo,minor,252087.0,1484559458
+Lincoln Park,United States,Michigan,,36321.0,1840003984
+Bridgewater,United States,New Jersey,,44467.0,1840081701
+Tolleson,United States,Arizona,,7372.0,1840021943
+Oak Brook,United States,Illinois,,8016.0,1840011408
+Dana Point,United States,California,,33577.0,1840019328
+Copperas Cove,United States,Texas,,33235.0,1840019538
+Wooster,United States,Ohio,,30750.0,1840000961
+Statesville,United States,North Carolina,,27528.0,1840015358
+Colville,United States,Washington,,5135.0,1840018361
+Omak,United States,Washington,,8114.0,1840019761
+Bratislava,Slovakia,Bratislavský,primary,429564.0,1703195001
+Macomb,United States,Illinois,,18006.0,1840009411
+Rocky Hill,United States,Connecticut,,20168.0,1840035560
+Selden,United States,New York,,20093.0,1840005093
+Konya,Turkey,Konya,admin,2232374.0,1792014004
+Hayes,United Kingdom,Hillingdon,,83564.0,1826539158
+Port Hueneme,United States,California,,21926.0,1840020475
+Bielefeld,Germany,North Rhine-Westphalia,minor,333786.0,1276112885
+Ross on Wye,United Kingdom,Herefordshire,,10700.0,1826303681
+Great Yarmouth,United Kingdom,Norfolk,,38693.0,1826653059
+South Shields,United Kingdom,South Tyneside,,75337.0,1826396004
+Fort Drum,United States,New York,,13020.0,1840073579
+Sittingbourne,United Kingdom,Kent,,62500.0,1826787936
+Coppell,United States,Texas,,41421.0,1840019439
+Hackettstown,United States,New Jersey,,9356.0,1840003573
+Cebu City,Philippines,Cebu,admin,922611.0,1608136151
+Tualatin,United States,Oregon,,27837.0,1840021207
+Sutton Coldfield,United Kingdom,Birmingham,,95107.0,1826034374
+Wasilla,United States,Alaska,,10838.0,1840023371
+Lower Paxton,United States,Pennsylvania,,49065.0,1840149541
+Davis,United States,California,,76997.0,1840018833
+Cannes,France,Provence-Alpes-Côte d’Azur,,73868.0,1250487828
+Southlake,United States,Texas,,32376.0,1840022048
+Waite Park,United States,Minnesota,,7768.0,1840009989
+Athol,United States,Massachusetts,,11713.0,1840053683
+Boonton,United States,New Jersey,,8919.0,1840000946
+Mechanicsville,United States,Virginia,,37496.0,1840006340
+Ormskirk,United Kingdom,Lancashire,,27343.0,1826066553
+Owatonna,United States,Minnesota,,25704.0,1840008983
+Richmond Hill,Canada,Ontario,,195022.0,1124364273
+Puebla,Mexico,Puebla,admin,1576259.0,1484416394
+Napa,United States,California,,85239.0,1840020241
+Forest Grove,United States,Oregon,,25553.0,1840019930
+Prairie Village,United States,Kansas,,22295.0,1840001644
+Erlangen,Germany,Bavaria,minor,111962.0,1276339482
+Pacific Grove,United States,California,,15413.0,1840020359
+The Villages,United States,Florida,,79372.0,1840014065
+Palmetto Bay,United States,Florida,,24523.0,1840018335
+Suncheon,"Korea, South",Jeonnam,minor,265390.0,1410109654
+Wantagh,United States,New York,,17915.0,1840005281
+Ikeda,Japan,Ōsaka,,104148.0,1392188564
+Midland,United States,Texas,,154793.0,1840020792
+St. Paul,United States,Minnesota,admin,308096.0,1840008940
+Musashimurayama,Japan,Tōkyō,,71183.0,1392092262
+Upper Montclair,United States,New Jersey,,11589.0,1840024255
+Saratoga Springs,United States,New York,,68028.0,1840000369
+Clyde,United States,Ohio,,6166.0,1840007131
+Madrid,Spain,Madrid,primary,6026000.0,1724616994
+Martinez,United States,California,,38297.0,1840020278
+Winfield,United States,Kansas,,11943.0,1840001701
+Canfield,United States,Ohio,,7176.0,1840007163
+Malaga,Spain,Andalusia,minor,967250.0,1724397372
+Lawrenceville,United States,Georgia,,30834.0,1840014745
+Ikoma,Japan,Nara,,116174.0,1392390581
+Bell Gardens,United States,California,,42012.0,1840019229
+Golden,United States,Colorado,,20767.0,1840020197
+Innisfil,Canada,Ontario,,36566.0,1124001408
+Cumming,United States,Georgia,,6547.0,1840014712
+Bonney Lake,United States,Washington,,21148.0,1840018454
+Ladysmith,South Africa,KwaZulu-Natal,,47375.0,1710998347
+Wiesbaden,Germany,Hesse,admin,278342.0,1276652118
+London,United Kingdom,"London, City of",primary,10979000.0,1826645935
+Livingston,Guatemala,Izabal,minor,76310.0,1320970605
+Dover,United States,Delaware,admin,117282.0,1840005810
+Damascus,Syria,Dimashq,primary,1754000.0,1760685964
+Rosenberg,United States,Texas,,38307.0,1840020948
+Panama City,Panama,Panamá,primary,880691.0,1591672475
+Mentor,United States,Ohio,,47262.0,1840000539
+Clermont,United States,Florida,,38654.0,1840015080
+Nice,France,Provence-Alpes-Côte d’Azur,minor,1006402.0,1250774553
+McDonough,United States,Georgia,,26768.0,1840015706
+Fayetteville,United States,Arkansas,,351246.0,1840013368
+Lake Havasu City,United States,Arizona,,56820.0,1840021044
+Plainville,United States,Connecticut,,17619.0,1840035535
+Sungai Petani,Malaysia,Kedah,,358499.0,1458639918
+Montvale,United States,New Jersey,,8570.0,1840000906
+Edison,United States,New Jersey,,100447.0,1840081696
+Ogden,United States,Utah,,578523.0,1840020135
+Encinitas,United States,California,,62709.0,1840020619
+Glendora,United States,California,,51544.0,1840020484
+Milton,Canada,Ontario,,110128.0,1124001426
+Fort Lupton,United States,Colorado,,10208.0,1840020148
+Clinton,United States,Maryland,,39018.0,1840005949
+Brownsville,United States,Texas,,227239.0,1840019743
+Konan,Japan,Aichi,,97435.0,1392978695
+Flagstaff,United States,Arizona,,81974.0,1840020335
+Olive Branch,United States,Mississippi,,38924.0,1840014641
+Westport,United States,Connecticut,,28016.0,1840035669
+Chatsworth,Canada,Ontario,,6630.0,1124525225
+Elmira,United States,New York,,62989.0,1840000472
+Steamboat Springs,United States,Colorado,,14087.0,1840021374
+Tomball,United States,Texas,,11778.0,1840022203
+Torrance,United States,California,,143592.0,1840021873
+San Salvador,El Salvador,San Salvador,primary,567698.0,1222647454
+Cicero,United States,Illinois,,80796.0,1840009186
+Moultrie,United States,Georgia,,18602.0,1840014977
+Rensselaer,United States,New York,,9171.0,1840000394
+Papillion,United States,Nebraska,,20471.0,1840009328
+Barcelona,Spain,Catalonia,admin,4588000.0,1724594040
+West Melbourne,United States,Florida,,24259.0,1840015963
+Winter Haven,United States,Florida,,267069.0,1840015970
+New Brunswick,United States,New Jersey,,55676.0,1840001339
+Cohasset,United States,Massachusetts,,8484.0,1840053546
+Winchester,United States,Nevada,,28231.0,1840033770
+Beavercreek,United States,Ohio,,47741.0,1840007312
+Guilderland,United States,New York,,35696.0,1840058149
+Converse,United States,Texas,,28171.0,1840019655
+East Wenatchee,United States,Washington,,14219.0,1840019795
+Brenham,United States,Texas,,17863.0,1840019604
+Plainview,United States,New York,,26453.0,1840005250
+Covington,United States,Kentucky,,40341.0,1840014263
+Cheongju,"Korea, South",Chungbuk,admin,833276.0,1410964361
+Pueblo,United States,Colorado,,143932.0,1840020255
+Gig Harbor,United States,Washington,,10717.0,1840019855
+Ludwigsburg,Germany,Baden-Württemberg,minor,93499.0,1276803720
+Fillmore,United States,California,,15954.0,1840020471
+Strasbourg,France,Grand Est,admin,465069.0,1250789140
+Tillamook,United States,Oregon,,8328.0,1840021203
+Canandaigua,United States,New York,,11082.0,1840000392
+Nanaimo,Canada,British Columbia,,90504.0,1124623893
+Darien,United States,Connecticut,,21742.0,1840034409
+West Point,United States,Utah,,10957.0,1840021354
+Hanover Park,United States,Illinois,,37426.0,1840011251
+Kahului,United States,Hawaii,,31336.0,1840023232
+Yokkaichi,Japan,Mie,,310263.0,1392198395
+Cutler Bay,United States,Florida,,43718.0,1840017276
+Bernardsville,United States,New Jersey,,7594.0,1840001052
+Fort Mill,United States,South Carolina,,22284.0,1840016479
+Murphy,United States,Texas,,20500.0,1840020659
+Brockton,United States,Massachusetts,,95708.0,1840000467
+Delafield,United States,Wisconsin,,7536.0,1840003017
+Laughlin,United States,Nevada,,7965.0,1840017689
+Copenhagen,Denmark,Hovedstaden,primary,602481.0,1208763942
+Cuautitlan Izcalli,Mexico,México,minor,511675.0,1484282338
+Kettering,United Kingdom,Northamptonshire,,93475.0,1826968679
+Cottage Grove,United States,Minnesota,,37604.0,1840006735
+Lemont,United States,Illinois,,17291.0,1840011258
+Eatontown,United States,New Jersey,,12157.0,1840003679
+Serris,France,Île-de-France,,9236.0,1250685279
+Azusa,United States,California,,49974.0,1840019226
+Bang Kruai,Thailand,Nonthaburi,minor,42390.0,1764357378
+Auburn Hills,United States,Michigan,,24748.0,1840002436
+Campbell,United States,California,,41793.0,1840018949
+Twentynine Palms,United States,California,,26073.0,1840021729
+Bali,India,West Bengal,,293373.0,1356113138
+Glencoe,New Zealand,Southland,,9750.0,1554979133
+Saco,United States,Maine,,19964.0,1840000343
+Milwaukee,United States,Wisconsin,,1365787.0,1840003046
+Adrian,United States,Michigan,,43689.0,1840003226
+Taichung,Taiwan,Taichung,admin,2803894.0,1158689622
+Commack,United States,New York,,36953.0,1840005030
+Pataskala,United States,Ohio,,15883.0,1840001420
+DeKalb,United States,Illinois,,66959.0,1840007033
+Merritt Island,United States,Florida,,36532.0,1840014076
+Miamisburg,United States,Ohio,,20143.0,1840008436
+Tampa,United States,Florida,,2908063.0,1840015982
+East Hanover,United States,New Jersey,,11072.0,1840081722
+Acworth,United States,Georgia,,22818.0,1840013688
+McKinney,United States,Texas,,258277.0,1840020657
+Mexicali,Mexico,Baja California,admin,1102342.0,1484788702
+Blair,United States,Nebraska,,7892.0,1840007094
+Woodside,United States,California,,5458.0,1840022548
+Dawson Creek,Canada,British Columbia,,12978.0,1124081402
+Rosemount,United States,Minnesota,,25207.0,1840008951
+Germantown,United States,Maryland,,90582.0,1840005840
+Larbert,United Kingdom,Falkirk,,9143.0,1826937694
+Grande Prairie,Canada,Alberta,,63166.0,1124505481
+Bernalillo,United States,New Mexico,,10477.0,1840020388
+Manhasset,United States,New York,,7985.0,1840005273
+Loughborough,United Kingdom,Leicestershire,,66611.0,1826194258
+Hudson,United States,New Hampshire,,25356.0,1840055034
+Denizli,Turkey,Denizli,admin,963464.0,1792161179
+Wetaskiwin,Canada,Alberta,,12655.0,1124492484
+Winnipeg,Canada,Manitoba,,705244.0,1124224963
+Hinesville,United States,Georgia,,51206.0,1840014931
+Frankfurt,Germany,Hesse,minor,753056.0,1276054552
+Amherst,United States,New York,,125509.0,1840057194
+Rochester,United States,New York,,703952.0,1840000373
+Dorchester,United Kingdom,Dorset,,19060.0,1826909037
+Hammonton,United States,New Jersey,,13934.0,1840003800
+Oceanside,United States,California,,175742.0,1840020623
+Ningbo,China,Zhejiang,minor,7639000.0,1156170787
+Fuji,Japan,Shizuoka,,243739.0,1392249213
+Chichester,United Kingdom,West Sussex,,26795.0,1826696164
+Yeovil,United Kingdom,Somerset,,45000.0,1826177078
+Hickory,United States,North Carolina,,218323.0,1840014524
+Redding,United States,California,,121313.0,1840020141
+Warrenville,United States,Illinois,,13174.0,1840010164
+Zacatecas,Mexico,Zacatecas,admin,138152.0,1484118312
+Bellaire,United States,Texas,,18971.0,1840019617
+Oldsmar,United States,Florida,,15061.0,1840015111
+Machida,Japan,Tōkyō,,434414.0,1392788615
+Makassar,Indonesia,Sulawesi Selatan,admin,1651146.0,1360051337
+Lake City,United States,Florida,,26271.0,1840015029
+Kodiak,United States,Alaska,,8851.0,1840023301
+Schofield Barracks,United States,Hawaii,,19499.0,1840075052
+Newberry,United States,Pennsylvania,,15701.0,1840151961
+Westmount,Canada,Quebec,,19931.0,1124878078
+Williams Lake,Canada,British Columbia,,10753.0,1124821980
+Lyndhurst,United States,New Jersey,,22298.0,1840081755
+North Andover,United States,Massachusetts,,30842.0,1840053536
+Silverthorne,United States,Colorado,,19344.0,1840022436
+Pompton Lakes,United States,New Jersey,,10986.0,1840000833
+Otsu,Japan,Shiga,admin,342607.0,1392164106
+Langley,Canada,British Columbia,,117285.0,1124000480
+Santee,United States,California,,58081.0,1840021992
+High Wycombe,United Kingdom,Buckinghamshire,,125257.0,1826609342
+Grosse Pointe,United States,Michigan,,5154.0,1840003976
+Grandville,United States,Michigan,,15858.0,1840002929
+Plymouth,United Kingdom,Plymouth,,267918.0,1826947183
+Arequipa,Peru,Arequipa,admin,1008290.0,1604723954
+Gold Canyon,United States,Arizona,,11612.0,1840018032
+Putrajaya,Malaysia,Putrajaya,admin,67964.0,1458000206
+Brighton,United Kingdom,Brighton and Hove,,134293.0,1826609057
+Uruapan,Mexico,Michoacán de Ocampo,minor,315350.0,1484051478
+Vina del Mar,Chile,Valparaíso,,332875.0,1152898644
+North Port,United States,Florida,,209070.0,1840015120
+Lewisville,United States,Texas,,109212.0,1840020639
+Nagoya,Japan,Aichi,admin,9113000.0,1392407472
+Camberley,United Kingdom,Surrey,,38038.0,1826909512
+Zionsville,United States,Indiana,,28357.0,1840010515
+San Juan,Argentina,San Juan,admin,471389.0,1032869625
