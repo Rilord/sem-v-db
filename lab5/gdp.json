@@ -1,0 +1,2066 @@
+[
+  {
+    "country": "Aruba",
+    "country_code": "ABW",
+    "gdp_1990": 24101.10943,
+    "gdp_2006": 33120.05418,
+    "gdp_2011": 36362.21932,
+    "gdp_2018": 35492.61849
+  },
+  {
+    "country": "Afghanistan",
+    "country_code": "AFG",
+    "gdp_1990": 1031.643135,
+    "gdp_2006": 1626.764793,
+    "gdp_2011": 1955.006208,
+    "gdp_2018": ""
+  },
+  {
+    "country": "Angola",
+    "country_code": "AGO",
+    "gdp_1990": 3089.683369,
+    "gdp_2006": 3097.307292,
+    "gdp_2011": 5048.876449,
+    "gdp_2018": 6346.395122
+  },
+  {
+    "country": "Albania",
+    "country_code": "ALB",
+    "gdp_1990": 2549.473022,
+    "gdp_2006": 3861.334172,
+    "gdp_2011": 6559.783257,
+    "gdp_2018": 10207.75235
+  },
+  {
+    "country": "Arab World",
+    "country_code": "ARB",
+    "gdp_1990": 6808.206995,
+    "gdp_2006": 9415.632618,
+    "gdp_2011": 12442.18794,
+    "gdp_2018": 14518.82745
+  },
+  {
+    "country": "United Arab Emirates",
+    "country_code": "ARE",
+    "gdp_1990": 72906.52012,
+    "gdp_2006": 82215.31447,
+    "gdp_2011": 79970.73625,
+    "gdp_2018": 56574.28818
+  },
+  {
+    "country": "Argentina",
+    "country_code": "ARG",
+    "gdp_1990": 7380.115031,
+    "gdp_2006": 11916.58261,
+    "gdp_2011": 15334.93686,
+    "gdp_2018": 19817.45048
+  },
+  {
+    "country": "Armenia",
+    "country_code": "ARM",
+    "gdp_1990": 2428.55896,
+    "gdp_2006": 2327.362521,
+    "gdp_2011": 5609.16897,
+    "gdp_2018": 7019.767748
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "country_code": "ATG",
+    "gdp_1990": 11326.70262,
+    "gdp_2006": 16526.98722,
+    "gdp_2011": 22634.001,
+    "gdp_2018": 19876.21532
+  },
+  {
+    "country": "Australia",
+    "country_code": "AUS",
+    "gdp_1990": 17329.70661,
+    "gdp_2006": 26328.67368,
+    "gdp_2011": 34306.65231,
+    "gdp_2018": 41965.35842
+  },
+  {
+    "country": "Austria",
+    "country_code": "AUT",
+    "gdp_1990": 19442.31204,
+    "gdp_2006": 29380.06604,
+    "gdp_2011": 37623.07576,
+    "gdp_2018": 44452.73275
+  },
+  {
+    "country": "Azerbaijan",
+    "country_code": "AZE",
+    "gdp_1990": 5703.869981,
+    "gdp_2006": 3663.445253,
+    "gdp_2011": 9989.206473,
+    "gdp_2018": 15754.15236
+  },
+  {
+    "country": "Burundi",
+    "country_code": "BDI",
+    "gdp_1990": 666.7039012,
+    "gdp_2006": 571.3263123,
+    "gdp_2011": 648.7489871,
+    "gdp_2018": 739.219255
+  },
+  {
+    "country": "Belgium",
+    "country_code": "BEL",
+    "gdp_1990": 18659.11956,
+    "gdp_2006": 27788.43052,
+    "gdp_2011": 35222.60515,
+    "gdp_2018": 40942.37271
+  },
+  {
+    "country": "Benin",
+    "country_code": "BEN",
+    "gdp_1990": 949.1686909,
+    "gdp_2006": 1326.089814,
+    "gdp_2011": 1609.104674,
+    "gdp_2018": 1820.889304
+  },
+  {
+    "country": "Burkina Faso",
+    "country_code": "BFA",
+    "gdp_1990": 547.9151714,
+    "gdp_2006": 855.7447616,
+    "gdp_2011": 1198.756926,
+    "gdp_2018": 1472.715841
+  },
+  {
+    "country": "Bangladesh",
+    "country_code": "BGD",
+    "gdp_1990": 860.21051,
+    "gdp_2006": 1346.743205,
+    "gdp_2011": 1923.417573,
+    "gdp_2018": 2650.729933
+  },
+  {
+    "country": "Bulgaria",
+    "country_code": "BGR",
+    "gdp_1990": 7493.206899,
+    "gdp_2006": 6377.837474,
+    "gdp_2011": 11313.55081,
+    "gdp_2018": 15676.13334
+  },
+  {
+    "country": "Bahrain",
+    "country_code": "BHR",
+    "gdp_1990": 22786.05097,
+    "gdp_2006": 35763.21023,
+    "gdp_2011": 39170.68512,
+    "gdp_2018": 40168.32789
+  },
+  {
+    "country": "Bahamas, The",
+    "country_code": "BHS",
+    "gdp_1990": 20120.34846,
+    "gdp_2006": 26238.18446,
+    "gdp_2011": 30326.45273,
+    "gdp_2018": 29503.70807
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BIH",
+    "gdp_1990": "",
+    "gdp_2006": 4547.97267,
+    "gdp_2011": 7406.347448,
+    "gdp_2018": 9976.479662
+  },
+  {
+    "country": "Belarus",
+    "country_code": "BLR",
+    "gdp_1990": 5429.321055,
+    "gdp_2006": 6027.325186,
+    "gdp_2011": 11409.2556,
+    "gdp_2018": 17166.69564
+  },
+  {
+    "country": "Belize",
+    "country_code": "BLZ",
+    "gdp_1990": 3262.195857,
+    "gdp_2006": 5437.384498,
+    "gdp_2011": 7214.467355,
+    "gdp_2018": 7694.355111
+  },
+  {
+    "country": "Bermuda",
+    "country_code": "BMU",
+    "gdp_1990": 26316.04395,
+    "gdp_2006": 40694.79221,
+    "gdp_2011": 53960.55659,
+    "gdp_2018": 54984.51039
+  },
+  {
+    "country": "Bolivia",
+    "country_code": "BOL",
+    "gdp_1990": 2402.712724,
+    "gdp_2006": 3478.202471,
+    "gdp_2011": 4386.565455,
+    "gdp_2018": 5524.717798
+  },
+  {
+    "country": "Brazil",
+    "country_code": "BRA",
+    "gdp_1990": 6710.964526,
+    "gdp_2006": 9073.976905,
+    "gdp_2011": 11659.39278,
+    "gdp_2018": 15061.95319
+  },
+  {
+    "country": "Barbados",
+    "country_code": "BRB",
+    "gdp_1990": 9601.754308,
+    "gdp_2006": 12734.21678,
+    "gdp_2011": 16099.4947,
+    "gdp_2018": 16321.98342
+  },
+  {
+    "country": "Brunei Darussalam",
+    "country_code": "BRN",
+    "gdp_1990": 54959.66686,
+    "gdp_2006": 65305.76557,
+    "gdp_2011": 78411.6146,
+    "gdp_2018": 82502.9353
+  },
+  {
+    "country": "Bhutan",
+    "country_code": "BTN",
+    "gdp_1990": 1527.318005,
+    "gdp_2006": 2640.679535,
+    "gdp_2011": 4317.784502,
+    "gdp_2018": 7097.18994
+  },
+  {
+    "country": "Botswana",
+    "country_code": "BWA",
+    "gdp_1990": 5516.982749,
+    "gdp_2006": 8528.969125,
+    "gdp_2011": 11401.3476,
+    "gdp_2018": 13838.60282
+  },
+  {
+    "country": "Central African Republic",
+    "country_code": "CAF",
+    "gdp_1990": 637.673007,
+    "gdp_2006": 676.8110417,
+    "gdp_2011": 791.9856238,
+    "gdp_2018": 1016.218552
+  },
+  {
+    "country": "Canada",
+    "country_code": "CAN",
+    "gdp_1990": 20173.93565,
+    "gdp_2006": 29265.08444,
+    "gdp_2011": 37999.0386,
+    "gdp_2018": 41569.44962
+  },
+  {
+    "country": "Central Europe and the Baltics",
+    "country_code": "CEB",
+    "gdp_1990": 7094.654527,
+    "gdp_2006": 9998.133467,
+    "gdp_2011": 15878.13511,
+    "gdp_2018": 22154.24909
+  },
+  {
+    "country": "Switzerland",
+    "country_code": "CHE",
+    "gdp_1990": 27594.63205,
+    "gdp_2006": 35754.54761,
+    "gdp_2011": 45106.41668,
+    "gdp_2018": 56183.82162
+  },
+  {
+    "country": "Chile",
+    "country_code": "CHL",
+    "gdp_1990": 4511.170059,
+    "gdp_2006": 9553.566623,
+    "gdp_2011": 15753.96299,
+    "gdp_2018": 20342.57092
+  },
+  {
+    "country": "China",
+    "country_code": "CHN",
+    "gdp_1990": 987.6411788,
+    "gdp_2006": 2936.287745,
+    "gdp_2011": 5867.796877,
+    "gdp_2018": 10355.49571
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "country_code": "CIV",
+    "gdp_1990": 2132.102478,
+    "gdp_2006": 2378.610507,
+    "gdp_2011": 2443.851599,
+    "gdp_2018": 2495.495125
+  },
+  {
+    "country": "Cameroon",
+    "country_code": "CMR",
+    "gdp_1990": 1949.280614,
+    "gdp_2006": 2039.934284,
+    "gdp_2011": 2568.442478,
+    "gdp_2018": 2914.237667
+  },
+  {
+    "country": "Congo, Dem. Rep.",
+    "country_code": "COD",
+    "gdp_1990": 900.0163607,
+    "gdp_2006": 455.8150878,
+    "gdp_2011": 555.799958,
+    "gdp_2018": 682.007332
+  },
+  {
+    "country": "Congo, Rep.",
+    "country_code": "COG",
+    "gdp_1990": 3454.245223,
+    "gdp_2006": 3677.147746,
+    "gdp_2011": 4591.995561,
+    "gdp_2018": 5353.804296
+  },
+  {
+    "country": "Colombia",
+    "country_code": "COL",
+    "gdp_1990": 5015.546448,
+    "gdp_2006": 6694.81285,
+    "gdp_2011": 9036.314249,
+    "gdp_2018": 11650.19949
+  },
+  {
+    "country": "Comoros",
+    "country_code": "COM",
+    "gdp_1990": 1674.552638,
+    "gdp_2006": 1900.656026,
+    "gdp_2011": 2183.490414,
+    "gdp_2018": 2465.324918
+  },
+  {
+    "country": "Cabo Verde",
+    "country_code": "CPV",
+    "gdp_1990": 1087.722637,
+    "gdp_2006": 3101.002514,
+    "gdp_2011": 4655.64533,
+    "gdp_2018": 6102.412164
+  },
+  {
+    "country": "Costa Rica",
+    "country_code": "CRI",
+    "gdp_1990": 5025.561226,
+    "gdp_2006": 7787.377759,
+    "gdp_2011": 10609.50688,
+    "gdp_2018": 13302.92828
+  },
+  {
+    "country": "Caribbean small states",
+    "country_code": "CSS",
+    "gdp_1990": 5930.407218,
+    "gdp_2006": 9143.378944,
+    "gdp_2011": 13352.91441,
+    "gdp_2018": 14623.85809
+  },
+  {
+    "country": "Curacao",
+    "country_code": "CUW",
+    "gdp_1990": "",
+    "gdp_2006": 23271.89021,
+    "gdp_2011": 26084.51284,
+    "gdp_2018": 27907.86602
+  },
+  {
+    "country": "Cayman Islands",
+    "country_code": "CYM",
+    "gdp_1990": "",
+    "gdp_2006": 62144.8997,
+    "gdp_2011": 70105.89991,
+    "gdp_2018": 62861.18074
+  },
+  {
+    "country": "Cyprus",
+    "country_code": "CYP",
+    "gdp_1990": 13327.69096,
+    "gdp_2006": 21291.43211,
+    "gdp_2011": 29984.36507,
+    "gdp_2018": 33313.53723
+  },
+  {
+    "country": "Czech Republic",
+    "country_code": "CZE",
+    "gdp_1990": 12659.85231,
+    "gdp_2006": 16190.80503,
+    "gdp_2011": 23776.48706,
+    "gdp_2018": 28797.41796
+  },
+  {
+    "country": "Germany",
+    "country_code": "DEU",
+    "gdp_1990": 19496.7874,
+    "gdp_2006": 27202.79337,
+    "gdp_2011": 34124.87427,
+    "gdp_2018": 42541.53109
+  },
+  {
+    "country": "Djibouti",
+    "country_code": "DJI",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": 2744.268655
+  },
+  {
+    "country": "Dominica",
+    "country_code": "DMA",
+    "gdp_1990": 4320.712191,
+    "gdp_2006": 6549.08947,
+    "gdp_2011": 8342.414879,
+    "gdp_2018": 10249.89541
+  },
+  {
+    "country": "Denmark",
+    "country_code": "DNK",
+    "gdp_1990": 18215.50896,
+    "gdp_2006": 28662.09474,
+    "gdp_2011": 37295.65935,
+    "gdp_2018": 44403.38484
+  },
+  {
+    "country": "Dominican Republic",
+    "country_code": "DOM",
+    "gdp_1990": 3579.193224,
+    "gdp_2006": 6595.771906,
+    "gdp_2011": 9049.39913,
+    "gdp_2018": 11580.56878
+  },
+  {
+    "country": "Algeria",
+    "country_code": "DZA",
+    "gdp_1990": 6683.94251,
+    "gdp_2006": 8162.587573,
+    "gdp_2011": 11380.09442,
+    "gdp_2018": 13046.12851
+  },
+  {
+    "country": "East Asia & Pacific (excluding high income)",
+    "country_code": "EAP",
+    "gdp_1990": 1442.176694,
+    "gdp_2006": 3295.111724,
+    "gdp_2011": 5911.191537,
+    "gdp_2018": 9574.184054
+  },
+  {
+    "country": "Early-demographic dividend",
+    "country_code": "EAR",
+    "gdp_1990": 2765.488453,
+    "gdp_2006": 4122.622963,
+    "gdp_2011": 5697.877096,
+    "gdp_2018": 7322.291207
+  },
+  {
+    "country": "East Asia & Pacific",
+    "country_code": "EAS",
+    "gdp_1990": 3203.655579,
+    "gdp_2006": 5716.416718,
+    "gdp_2011": 8820.133431,
+    "gdp_2018": 12595.7799
+  },
+  {
+    "country": "Europe & Central Asia (excluding high income)",
+    "country_code": "ECA",
+    "gdp_1990": 6524.721226,
+    "gdp_2006": 6121.890196,
+    "gdp_2011": 11553.85911,
+    "gdp_2018": 17372.40528
+  },
+  {
+    "country": "Europe & Central Asia",
+    "country_code": "ECS",
+    "gdp_1990": 11606.61429,
+    "gdp_2006": 15887.0865,
+    "gdp_2011": 22474.1713,
+    "gdp_2018": 27865.1447
+  },
+  {
+    "country": "Ecuador",
+    "country_code": "ECU",
+    "gdp_1990": 4842.70098,
+    "gdp_2006": 5854.337577,
+    "gdp_2011": 8059.131304,
+    "gdp_2018": 9883.580029
+  },
+  {
+    "country": "Egypt, Arab Rep.",
+    "country_code": "EGY",
+    "gdp_1990": 3827.27758,
+    "gdp_2006": 5971.668538,
+    "gdp_2011": 7839.842257,
+    "gdp_2018": 9982.845702
+  },
+  {
+    "country": "Euro area",
+    "country_code": "EMU",
+    "gdp_1990": 17006.07876,
+    "gdp_2006": 25319.12256,
+    "gdp_2011": 32500.33387,
+    "gdp_2018": 37435.67035
+  },
+  {
+    "country": "Eritrea",
+    "country_code": "ERI",
+    "gdp_1990": "",
+    "gdp_2006": 1977.56065,
+    "gdp_2011": 2013.889196,
+    "gdp_2018": 2102.95406
+  },
+  {
+    "country": "Spain",
+    "country_code": "ESP",
+    "gdp_1990": 13664.44044,
+    "gdp_2006": 21587.25644,
+    "gdp_2011": 30688.36622,
+    "gdp_2018": 31867.97324
+  },
+  {
+    "country": "Estonia",
+    "country_code": "EST",
+    "gdp_1990": "",
+    "gdp_2006": 9435.008551,
+    "gdp_2011": 19313.26424,
+    "gdp_2018": 24780.97878
+  },
+  {
+    "country": "Ethiopia",
+    "country_code": "ETH",
+    "gdp_1990": 424.823989,
+    "gdp_2006": 494.2873019,
+    "gdp_2011": 728.390516,
+    "gdp_2018": 1161.581434
+  },
+  {
+    "country": "European Union",
+    "country_code": "EUU",
+    "gdp_1990": 14810.28417,
+    "gdp_2006": 22069.49361,
+    "gdp_2011": 29083.33895,
+    "gdp_2018": 34463.41533
+  },
+  {
+    "country": "Fragile and conflict affected situations",
+    "country_code": "FCS",
+    "gdp_1990": 1854.56305,
+    "gdp_2006": 2458.938951,
+    "gdp_2011": 3133.906938,
+    "gdp_2018": 3590.686801
+  },
+  {
+    "country": "Finland",
+    "country_code": "FIN",
+    "gdp_1990": 18139.28789,
+    "gdp_2006": 26788.40847,
+    "gdp_2011": 34419.38065,
+    "gdp_2018": 40916.83858
+  },
+  {
+    "country": "Fiji",
+    "country_code": "FJI",
+    "gdp_1990": 3823.297024,
+    "gdp_2006": 5312.128363,
+    "gdp_2011": 6892.836695,
+    "gdp_2018": 7520.373655
+  },
+  {
+    "country": "France",
+    "country_code": "FRA",
+    "gdp_1990": 17624.23797,
+    "gdp_2006": 26094.25256,
+    "gdp_2011": 32434.86026,
+    "gdp_2018": 37440.63863
+  },
+  {
+    "country": "Faroe Islands",
+    "country_code": "FRO",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Micronesia, Fed. Sts.",
+    "country_code": "FSM",
+    "gdp_1990": 1770.813987,
+    "gdp_2006": 2489.404148,
+    "gdp_2011": 3018.000788,
+    "gdp_2018": 3422.28921
+  },
+  {
+    "country": "Gabon",
+    "country_code": "GAB",
+    "gdp_1990": 12690.81935,
+    "gdp_2006": 14182.23034,
+    "gdp_2011": 14708.23376,
+    "gdp_2018": 16011.1245
+  },
+  {
+    "country": "United Kingdom",
+    "country_code": "GBR",
+    "gdp_1990": 16698.34176,
+    "gdp_2006": 26407.20992,
+    "gdp_2011": 34767.00114,
+    "gdp_2018": 37161.49069
+  },
+  {
+    "country": "Georgia",
+    "country_code": "GEO",
+    "gdp_1990": 5413.801063,
+    "gdp_2006": 2932.733288,
+    "gdp_2011": 5536.086757,
+    "gdp_2018": 7897.696255
+  },
+  {
+    "country": "Ghana",
+    "country_code": "GHA",
+    "gdp_1990": 1233.450597,
+    "gdp_2006": 1765.935336,
+    "gdp_2011": 2387.358547,
+    "gdp_2018": 3368.800837
+  },
+  {
+    "country": "Gibraltar",
+    "country_code": "GIB",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Guinea",
+    "country_code": "GIN",
+    "gdp_1990": 871.4993282,
+    "gdp_2006": 1208.548507,
+    "gdp_2011": 1453.004181,
+    "gdp_2018": 1721.451359
+  },
+  {
+    "country": "Gambia, The",
+    "country_code": "GMB",
+    "gdp_1990": 1588.889697,
+    "gdp_2006": 1952.907589,
+    "gdp_2011": 2121.13587,
+    "gdp_2018": 2261.049017
+  },
+  {
+    "country": "Guinea-Bissau",
+    "country_code": "GNB",
+    "gdp_1990": 1060.093141,
+    "gdp_2006": 1122.741789,
+    "gdp_2011": 1259.812383,
+    "gdp_2018": 1506.695312
+  },
+  {
+    "country": "Equatorial Guinea",
+    "country_code": "GNQ",
+    "gdp_1990": 660.4531105,
+    "gdp_2006": 8703.661456,
+    "gdp_2011": 29941.85897,
+    "gdp_2018": 34622.11627
+  },
+  {
+    "country": "Greece",
+    "country_code": "GRC",
+    "gdp_1990": 13291.05198,
+    "gdp_2006": 19518.90751,
+    "gdp_2011": 28519.53894,
+    "gdp_2018": 26141.31959
+  },
+  {
+    "country": "Grenada",
+    "country_code": "GRD",
+    "gdp_1990": 4696.942267,
+    "gdp_2006": 7589.576807,
+    "gdp_2011": 10283.79525,
+    "gdp_2018": 11040.10948
+  },
+  {
+    "country": "Greenland",
+    "country_code": "GRL",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Guatemala",
+    "country_code": "GTM",
+    "gdp_1990": 3310.022035,
+    "gdp_2006": 4830.764001,
+    "gdp_2011": 5928.026112,
+    "gdp_2018": 6844.540528
+  },
+  {
+    "country": "Guam",
+    "country_code": "GUM",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Guyana",
+    "country_code": "GUY",
+    "gdp_1990": 1865.863808,
+    "gdp_2006": 3673.79935,
+    "gdp_2011": 4562.465789,
+    "gdp_2018": 6106.967371
+  },
+  {
+    "country": "High income",
+    "country_code": "HIC",
+    "gdp_1990": 18204.9284,
+    "gdp_2006": 27755.05417,
+    "gdp_2011": 36012.83267,
+    "gdp_2018": 40697.95572
+  },
+  {
+    "country": "Hong Kong SAR, China",
+    "country_code": "HKG",
+    "gdp_1990": 17504.3572,
+    "gdp_2006": 27068.81009,
+    "gdp_2011": 39949.13935,
+    "gdp_2018": 50085.95933
+  },
+  {
+    "country": "Honduras",
+    "country_code": "HND",
+    "gdp_1990": 2081.50666,
+    "gdp_2006": 2628.424519,
+    "gdp_2011": 3493.06359,
+    "gdp_2018": 3984.497267
+  },
+  {
+    "country": "Heavily indebted poor countries (HIPC)",
+    "country_code": "HPC",
+    "gdp_1990": 992.2006879,
+    "gdp_2006": 1172.937516,
+    "gdp_2011": 1535.642914,
+    "gdp_2018": 1911.89919
+  },
+  {
+    "country": "Croatia",
+    "country_code": "HRV",
+    "gdp_1990": "",
+    "gdp_2006": 10601.6383,
+    "gdp_2011": 17431.30471,
+    "gdp_2018": 20743.50638
+  },
+  {
+    "country": "Haiti",
+    "country_code": "HTI",
+    "gdp_1990": 1337.982425,
+    "gdp_2006": 1363.804198,
+    "gdp_2011": 1417.629644,
+    "gdp_2018": 1569.198158
+  },
+  {
+    "country": "Hungary",
+    "country_code": "HUN",
+    "gdp_1990": "",
+    "gdp_2006": 11854.81987,
+    "gdp_2011": 18342.71523,
+    "gdp_2018": 22894.34764
+  },
+  {
+    "country": "IBRD only",
+    "country_code": "IBD",
+    "gdp_1990": 2872.31952,
+    "gdp_2006": 4450.626543,
+    "gdp_2011": 7014.622544,
+    "gdp_2018": 10083.15585
+  },
+  {
+    "country": "IDA & IBRD total",
+    "country_code": "IBT",
+    "gdp_1990": 2573.365955,
+    "gdp_2006": 3857.150715,
+    "gdp_2011": 5957.991755,
+    "gdp_2018": 8389.37862
+  },
+  {
+    "country": "IDA total",
+    "country_code": "IDA",
+    "gdp_1990": 1364.669379,
+    "gdp_2006": 1703.108039,
+    "gdp_2011": 2400.230408,
+    "gdp_2018": 3033.713738
+  },
+  {
+    "country": "IDA blend",
+    "country_code": "IDB",
+    "gdp_1990": 2061.233695,
+    "gdp_2006": 2485.548644,
+    "gdp_2011": 3539.879646,
+    "gdp_2018": 4376.973084
+  },
+  {
+    "country": "Indonesia",
+    "country_code": "IDN",
+    "gdp_1990": 3001.912768,
+    "gdp_2006": 4620.547598,
+    "gdp_2011": 6534.07551,
+    "gdp_2018": 8859.139998
+  },
+  {
+    "country": "IDA only",
+    "country_code": "IDX",
+    "gdp_1990": 992.9225395,
+    "gdp_2006": 1292.186619,
+    "gdp_2011": 1804.757987,
+    "gdp_2018": 2331.347781
+  },
+  {
+    "country": "Isle of Man",
+    "country_code": "IMN",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "India",
+    "country_code": "IND",
+    "gdp_1990": 1236.671208,
+    "gdp_2006": 2156.689919,
+    "gdp_2011": 3331.592127,
+    "gdp_2018": 4624.561404
+  },
+  {
+    "country": "Not classified",
+    "country_code": "INX",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Ireland",
+    "country_code": "IRL",
+    "gdp_1990": 13738.26598,
+    "gdp_2006": 30177.82788,
+    "gdp_2011": 44204.9969,
+    "gdp_2018": 44855.3247
+  },
+  {
+    "country": "Iran, Islamic Rep.",
+    "country_code": "IRN",
+    "gdp_1990": 7374.558729,
+    "gdp_2006": 10533.52478,
+    "gdp_2011": 15023.08444,
+    "gdp_2018": 18400.90629
+  },
+  {
+    "country": "Iraq",
+    "country_code": "IRQ",
+    "gdp_1990": 7498.159832,
+    "gdp_2006": 9717.658254,
+    "gdp_2011": 10840.81758,
+    "gdp_2018": 13693.97637
+  },
+  {
+    "country": "Iceland",
+    "country_code": "ISL",
+    "gdp_1990": 21984.38665,
+    "gdp_2006": 29710.55155,
+    "gdp_2011": 39093.95196,
+    "gdp_2018": 40767.23641
+  },
+  {
+    "country": "Israel",
+    "country_code": "ISR",
+    "gdp_1990": 15171.30224,
+    "gdp_2006": 24931.03887,
+    "gdp_2011": 25678.71429,
+    "gdp_2018": 30539.96337
+  },
+  {
+    "country": "Italy",
+    "country_code": "ITA",
+    "gdp_1990": 18608.78827,
+    "gdp_2006": 27076.1868,
+    "gdp_2011": 32419.93615,
+    "gdp_2018": 36598.01497
+  },
+  {
+    "country": "Jamaica",
+    "country_code": "JAM",
+    "gdp_1990": 4738.035258,
+    "gdp_2006": 6318.642619,
+    "gdp_2011": 7918.879434,
+    "gdp_2018": 8112.12923
+  },
+  {
+    "country": "Jordan",
+    "country_code": "JOR",
+    "gdp_1990": 4128.381269,
+    "gdp_2006": 5815.873532,
+    "gdp_2011": 8443.677235,
+    "gdp_2018": 9235.879132
+  },
+  {
+    "country": "Japan",
+    "country_code": "JPN",
+    "gdp_1990": 19561.20174,
+    "gdp_2006": 26838.69136,
+    "gdp_2011": 33090.19626,
+    "gdp_2018": 35774.69671
+  },
+  {
+    "country": "Kazakhstan",
+    "country_code": "KAZ",
+    "gdp_1990": 8468.793605,
+    "gdp_2006": 7918.947004,
+    "gdp_2011": 16101.83296,
+    "gdp_2018": 21276.93402
+  },
+  {
+    "country": "Kenya",
+    "country_code": "KEN",
+    "gdp_1990": 1523.7385,
+    "gdp_2006": 1669.318817,
+    "gdp_2011": 2081.164298,
+    "gdp_2018": 2515.927471
+  },
+  {
+    "country": "Kyrgyz Republic",
+    "country_code": "KGZ",
+    "gdp_1990": 2254.800682,
+    "gdp_2006": 1650.785503,
+    "gdp_2011": 2219.185786,
+    "gdp_2018": 2920.60321
+  },
+  {
+    "country": "Cambodia",
+    "country_code": "KHM",
+    "gdp_1990": "",
+    "gdp_2006": 1101.815794,
+    "gdp_2011": 1971.563042,
+    "gdp_2018": 2658.062552
+  },
+  {
+    "country": "Kiribati",
+    "country_code": "KIR",
+    "gdp_1990": 1261.458411,
+    "gdp_2006": 1583.087611,
+    "gdp_2011": 1758.459498,
+    "gdp_2018": 1749.233461
+  },
+  {
+    "country": "St. Kitts and Nevis",
+    "country_code": "KNA",
+    "gdp_1990": 10181.75938,
+    "gdp_2006": 17734.62004,
+    "gdp_2011": 23359.95826,
+    "gdp_2018": 24766.19605
+  },
+  {
+    "country": "Korea, Rep.",
+    "country_code": "KOR",
+    "gdp_1990": 8273.406045,
+    "gdp_2006": 18082.9548,
+    "gdp_2011": 25820.97163,
+    "gdp_2018": 31228.5107
+  },
+  {
+    "country": "Kuwait",
+    "country_code": "KWT",
+    "gdp_1990": "",
+    "gdp_2006": 56067.05908,
+    "gdp_2011": 88482.98358,
+    "gdp_2018": 78021.67168
+  },
+  {
+    "country": "Latin America & Caribbean (excluding high income)",
+    "country_code": "LAC",
+    "gdp_1990": 5916.955561,
+    "gdp_2006": 8601.426246,
+    "gdp_2011": 11057.761,
+    "gdp_2018": 13886.95022
+  },
+  {
+    "country": "Lao PDR",
+    "country_code": "LAO",
+    "gdp_1990": 1108.386981,
+    "gdp_2006": 1979.537838,
+    "gdp_2011": 3056.927319,
+    "gdp_2018": 4485.181127
+  },
+  {
+    "country": "Lebanon",
+    "country_code": "LBN",
+    "gdp_1990": 3623.301987,
+    "gdp_2006": 8448.529729,
+    "gdp_2011": 9688.656235,
+    "gdp_2018": 13841.53501
+  },
+  {
+    "country": "Liberia",
+    "country_code": "LBR",
+    "gdp_1990": "",
+    "gdp_2006": 1048.694769,
+    "gdp_2011": 901.3154509,
+    "gdp_2018": 1154.40937
+  },
+  {
+    "country": "Libya",
+    "country_code": "LBY",
+    "gdp_1990": "",
+    "gdp_2006": 17437.0857,
+    "gdp_2011": 25053.9574,
+    "gdp_2018": 11096.15636
+  },
+  {
+    "country": "St. Lucia",
+    "country_code": "LCA",
+    "gdp_1990": 6250.980005,
+    "gdp_2006": 8486.854699,
+    "gdp_2011": 10644.30463,
+    "gdp_2018": 12049.20936
+  },
+  {
+    "country": "Latin America & Caribbean",
+    "country_code": "LCN",
+    "gdp_1990": 5970.196069,
+    "gdp_2006": 8808.172833,
+    "gdp_2011": 11430.60135,
+    "gdp_2018": 14320.89745
+  },
+  {
+    "country": "Least developed countries: UN classification",
+    "country_code": "LDC",
+    "gdp_1990": 893.3917887,
+    "gdp_2006": 1179.141647,
+    "gdp_2011": 1705.14094,
+    "gdp_2018": 2221.762326
+  },
+  {
+    "country": "Low income",
+    "country_code": "LIC",
+    "gdp_1990": 932.3972785,
+    "gdp_2006": 1070.447646,
+    "gdp_2011": 1419.147664,
+    "gdp_2018": 1774.898389
+  },
+  {
+    "country": "Liechtenstein",
+    "country_code": "LIE",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Sri Lanka",
+    "country_code": "LKA",
+    "gdp_1990": 2344.671738,
+    "gdp_2006": 4410.987735,
+    "gdp_2011": 6344.939228,
+    "gdp_2018": 9155.658792
+  },
+  {
+    "country": "Lower middle income",
+    "country_code": "LMC",
+    "gdp_1990": 1825.847916,
+    "gdp_2006": 2601.490447,
+    "gdp_2011": 3843.313592,
+    "gdp_2018": 5104.081459
+  },
+  {
+    "country": "Low & middle income",
+    "country_code": "LMY",
+    "gdp_1990": 2517.223465,
+    "gdp_2006": 3760.590188,
+    "gdp_2011": 5825.820718,
+    "gdp_2018": 8213.142226
+  },
+  {
+    "country": "Lesotho",
+    "country_code": "LSO",
+    "gdp_1990": 843.071504,
+    "gdp_2006": 1303.543534,
+    "gdp_2011": 1837.356205,
+    "gdp_2018": 2578.639634
+  },
+  {
+    "country": "Late-demographic dividend",
+    "country_code": "LTE",
+    "gdp_1990": 2856.188738,
+    "gdp_2006": 4751.742992,
+    "gdp_2011": 8237.190369,
+    "gdp_2018": 12702.98415
+  },
+  {
+    "country": "Lithuania",
+    "country_code": "LTU",
+    "gdp_1990": "",
+    "gdp_2006": 8457.608774,
+    "gdp_2011": 16484.59202,
+    "gdp_2018": 22823.91839
+  },
+  {
+    "country": "Luxembourg",
+    "country_code": "LUX",
+    "gdp_1990": 29664.79513,
+    "gdp_2006": 55348.89874,
+    "gdp_2011": 77951.36474,
+    "gdp_2018": 92005.01684
+  },
+  {
+    "country": "Latvia",
+    "country_code": "LVA",
+    "gdp_1990": "",
+    "gdp_2006": 8015.685601,
+    "gdp_2011": 15745.10313,
+    "gdp_2018": 19789.4764
+  },
+  {
+    "country": "Macau",
+    "country_code": "MAC",
+    "gdp_1990": 26204.0332,
+    "gdp_2006": 33616.33289,
+    "gdp_2011": 65257.00934,
+    "gdp_2018": 116456.9567
+  },
+  {
+    "country": "St. Martin (French part)",
+    "country_code": "MAF",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Morocco",
+    "country_code": "MAR",
+    "gdp_1990": 2545.871185,
+    "gdp_2006": 3574.843324,
+    "gdp_2011": 5243.914739,
+    "gdp_2018": 6703.876831
+  },
+  {
+    "country": "Monaco",
+    "country_code": "MCO",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Moldova",
+    "country_code": "MDA",
+    "gdp_1990": "",
+    "gdp_2006": 2235.878102,
+    "gdp_2011": 3862.678175,
+    "gdp_2018": 5012.742008
+  },
+  {
+    "country": "Madagascar",
+    "country_code": "MDG",
+    "gdp_1990": 1251.136354,
+    "gdp_2006": 1340.131271,
+    "gdp_2011": 1517.271503,
+    "gdp_2018": 1596.89409
+  },
+  {
+    "country": "Maldives",
+    "country_code": "MDV",
+    "gdp_1990": "",
+    "gdp_2006": 7800.490466,
+    "gdp_2011": 10452.27422,
+    "gdp_2018": 12486.44691
+  },
+  {
+    "country": "Middle East & North Africa",
+    "country_code": "MEA",
+    "gdp_1990": 7749.910006,
+    "gdp_2006": 10920.79108,
+    "gdp_2011": 14507.89546,
+    "gdp_2018": 17079.95723
+  },
+  {
+    "country": "Mexico",
+    "country_code": "MEX",
+    "gdp_1990": 6498.917137,
+    "gdp_2006": 11089.81343,
+    "gdp_2011": 13808.17762,
+    "gdp_2018": 16520.25851
+  },
+  {
+    "country": "Marshall Islands",
+    "country_code": "MHL",
+    "gdp_1990": 1998.490655,
+    "gdp_2006": 2476.246796,
+    "gdp_2011": 2946.295217,
+    "gdp_2018": 3285.582535
+  },
+  {
+    "country": "Middle income",
+    "country_code": "MIC",
+    "gdp_1990": 2657.664681,
+    "gdp_2006": 4023.210724,
+    "gdp_2011": 6293.453734,
+    "gdp_2018": 8946.472562
+  },
+  {
+    "country": "North Macedonia",
+    "country_code": "MKD",
+    "gdp_1990": 5527.681462,
+    "gdp_2006": 6127.035274,
+    "gdp_2011": 8584.853586,
+    "gdp_2018": 11611.25115
+  },
+  {
+    "country": "Mali",
+    "country_code": "MLI",
+    "gdp_1990": 826.7915224,
+    "gdp_2006": 1166.376271,
+    "gdp_2011": 1639.719328,
+    "gdp_2018": 1877.892828
+  },
+  {
+    "country": "Malta",
+    "country_code": "MLT",
+    "gdp_1990": 9338.486641,
+    "gdp_2006": 19425.71188,
+    "gdp_2011": 23223.97713,
+    "gdp_2018": 28585.82045
+  },
+  {
+    "country": "Myanmar",
+    "country_code": "MMR",
+    "gdp_1990": 473.8636016,
+    "gdp_2006": 1025.710408,
+    "gdp_2011": 2322.057579,
+    "gdp_2018": 3864.959768
+  },
+  {
+    "country": "Middle East & North Africa (excluding high income)",
+    "country_code": "MNA",
+    "gdp_1990": 5257.833714,
+    "gdp_2006": 7365.486975,
+    "gdp_2011": 9880.058769,
+    "gdp_2018": 11637.70618
+  },
+  {
+    "country": "Montenegro",
+    "country_code": "MNE",
+    "gdp_1990": "",
+    "gdp_2006": 6002.627014,
+    "gdp_2011": 10447.90074,
+    "gdp_2018": 14472.45826
+  },
+  {
+    "country": "Mongolia",
+    "country_code": "MNG",
+    "gdp_1990": 3324.141434,
+    "gdp_2006": 3704.257383,
+    "gdp_2011": 5949.514034,
+    "gdp_2018": 8853.125419
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "country_code": "MNP",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Mozambique",
+    "country_code": "MOZ",
+    "gdp_1990": "",
+    "gdp_2006": 504.0740388,
+    "gdp_2011": 808.0249408,
+    "gdp_2018": 1078.208603
+  },
+  {
+    "country": "Mauritania",
+    "country_code": "MRT",
+    "gdp_1990": 1817.595525,
+    "gdp_2006": 2255.10044,
+    "gdp_2011": 3277.513188,
+    "gdp_2018": 3483.522101
+  },
+  {
+    "country": "Mauritius",
+    "country_code": "MUS",
+    "gdp_1990": 4919.358427,
+    "gdp_2006": 8977.839746,
+    "gdp_2011": 12338.18105,
+    "gdp_2018": 16561.77098
+  },
+  {
+    "country": "Malawi",
+    "country_code": "MWI",
+    "gdp_1990": 484.6257673,
+    "gdp_2006": 703.1408641,
+    "gdp_2011": 811.5953094,
+    "gdp_2018": 1097.942135
+  },
+  {
+    "country": "Malaysia",
+    "country_code": "MYS",
+    "gdp_1990": 6850.467599,
+    "gdp_2006": 12973.90027,
+    "gdp_2011": 17632.1306,
+    "gdp_2018": 21806.82279
+  },
+  {
+    "country": "North America",
+    "country_code": "NAC",
+    "gdp_1990": 23518.2716,
+    "gdp_2006": 35642.46317,
+    "gdp_2011": 45483.55425,
+    "gdp_2018": 49058.92453
+  },
+  {
+    "country": "Namibia",
+    "country_code": "NAM",
+    "gdp_1990": 3707.439304,
+    "gdp_2006": 5203.03658,
+    "gdp_2011": 7442.555097,
+    "gdp_2018": 8959.515893
+  },
+  {
+    "country": "New Caledonia",
+    "country_code": "NCL",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Niger",
+    "country_code": "NER",
+    "gdp_1990": 579.4986877,
+    "gdp_2006": 600.6752781,
+    "gdp_2011": 713.6738644,
+    "gdp_2018": 799.258376
+  },
+  {
+    "country": "Nigeria",
+    "country_code": "NGA",
+    "gdp_1990": 2180.914504,
+    "gdp_2006": 2442.50098,
+    "gdp_2011": 3909.120916,
+    "gdp_2018": 5213.837194
+  },
+  {
+    "country": "Nicaragua",
+    "country_code": "NIC",
+    "gdp_1990": 1929.123689,
+    "gdp_2006": 2718.03664,
+    "gdp_2011": 3506.683287,
+    "gdp_2018": 4163.256335
+  },
+  {
+    "country": "Netherlands",
+    "country_code": "NLD",
+    "gdp_1990": 19145.38619,
+    "gdp_2006": 31875.23602,
+    "gdp_2011": 40971.26076,
+    "gdp_2018": 46599.02103
+  },
+  {
+    "country": "Norway",
+    "country_code": "NOR",
+    "gdp_1990": 18432.49795,
+    "gdp_2006": 36941.60093,
+    "gdp_2011": 54104.28927,
+    "gdp_2018": 62076.74066
+  },
+  {
+    "country": "Nepal",
+    "country_code": "NPL",
+    "gdp_1990": 770.9613269,
+    "gdp_2006": 1214.984044,
+    "gdp_2011": 1571.99503,
+    "gdp_2018": 2052.547197
+  },
+  {
+    "country": "Nauru",
+    "country_code": "NRU",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": 7339.304367
+  },
+  {
+    "country": "New Zealand",
+    "country_code": "NZL",
+    "gdp_1990": 14863.60432,
+    "gdp_2006": 21521.70657,
+    "gdp_2011": 27758.16574,
+    "gdp_2018": 32734.53667
+  },
+  {
+    "country": "OECD members",
+    "country_code": "OED",
+    "gdp_1990": 16682.13346,
+    "gdp_2006": 25237.99078,
+    "gdp_2011": 32469.03153,
+    "gdp_2018": 36707.45905
+  },
+  {
+    "country": "Oman",
+    "country_code": "OMN",
+    "gdp_1990": 22739.72191,
+    "gdp_2006": 34986.15382,
+    "gdp_2011": 39020.84471,
+    "gdp_2018": 41942.12056
+  },
+  {
+    "country": "Other small states",
+    "country_code": "OSS",
+    "gdp_1990": "",
+    "gdp_2006": 10736.4667,
+    "gdp_2011": 16518.91374,
+    "gdp_2018": 23023.18244
+  },
+  {
+    "country": "Pakistan",
+    "country_code": "PAK",
+    "gdp_1990": 1983.002405,
+    "gdp_2006": 2706.43252,
+    "gdp_2011": 3670.481818,
+    "gdp_2018": 4094.527112
+  },
+  {
+    "country": "Panama",
+    "country_code": "PAN",
+    "gdp_1990": 5097.454419,
+    "gdp_2006": 8454.716158,
+    "gdp_2011": 11691.26125,
+    "gdp_2018": 17099.81883
+  },
+  {
+    "country": "Peru",
+    "country_code": "PER",
+    "gdp_1990": 3409.302983,
+    "gdp_2006": 5115.127919,
+    "gdp_2011": 7365.736619,
+    "gdp_2018": 10626.07713
+  },
+  {
+    "country": "Philippines",
+    "country_code": "PHL",
+    "gdp_1990": 2604.517106,
+    "gdp_2006": 3361.325849,
+    "gdp_2011": 4531.986252,
+    "gdp_2018": 5689.760941
+  },
+  {
+    "country": "Palau",
+    "country_code": "PLW",
+    "gdp_1990": "",
+    "gdp_2006": 9889.832612,
+    "gdp_2011": 12837.98701,
+    "gdp_2018": 14527.31939
+  },
+  {
+    "country": "Papua New Guinea",
+    "country_code": "PNG",
+    "gdp_1990": 1439.246666,
+    "gdp_2006": 2081.455362,
+    "gdp_2011": 2477.993252,
+    "gdp_2018": 3069.758098
+  },
+  {
+    "country": "Poland",
+    "country_code": "POL",
+    "gdp_1990": 6175.624299,
+    "gdp_2006": 10652.90829,
+    "gdp_2011": 15142.18487,
+    "gdp_2018": 22850.63885
+  },
+  {
+    "country": "Pre-demographic dividend",
+    "country_code": "PRE",
+    "gdp_1990": 1652.207153,
+    "gdp_2006": 1923.666761,
+    "gdp_2011": 2637.466672,
+    "gdp_2018": 3310.32687
+  },
+  {
+    "country": "Puerto Rico",
+    "country_code": "PRI",
+    "gdp_1990": 14423.78702,
+    "gdp_2006": 24672.33756,
+    "gdp_2011": 32150.48833,
+    "gdp_2018": 34195.65107
+  },
+  {
+    "country": "Korea, Dem. People?s Rep.",
+    "country_code": "PRK",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Portugal",
+    "country_code": "PRT",
+    "gdp_1990": 11761.71728,
+    "gdp_2006": 18879.28669,
+    "gdp_2011": 24657.10482,
+    "gdp_2018": 26769.51189
+  },
+  {
+    "country": "Paraguay",
+    "country_code": "PRY",
+    "gdp_1990": 5147.915471,
+    "gdp_2006": 6353.237862,
+    "gdp_2011": 7600.70403,
+    "gdp_2018": 10016.77037
+  },
+  {
+    "country": "West Bank and Gaza",
+    "country_code": "PSE",
+    "gdp_1990": "",
+    "gdp_2006": 2934.99453,
+    "gdp_2011": 3087.761911,
+    "gdp_2018": 4405.778573
+  },
+  {
+    "country": "Pacific island small states",
+    "country_code": "PSS",
+    "gdp_1990": 2673.161492,
+    "gdp_2006": 3594.299891,
+    "gdp_2011": 4451.69905,
+    "gdp_2018": 4906.171306
+  },
+  {
+    "country": "Post-demographic dividend",
+    "country_code": "PST",
+    "gdp_1990": 17872.41726,
+    "gdp_2006": 26805.94282,
+    "gdp_2011": 34872.53508,
+    "gdp_2018": 39204.53582
+  },
+  {
+    "country": "French Polynesia",
+    "country_code": "PYF",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Qatar",
+    "country_code": "QAT",
+    "gdp_1990": "",
+    "gdp_2006": 86169.39432,
+    "gdp_2011": 107541.4558,
+    "gdp_2018": 124024.5682
+  },
+  {
+    "country": "Romania",
+    "country_code": "ROU",
+    "gdp_1990": 5272.16847,
+    "gdp_2006": 5848.885376,
+    "gdp_2011": 11544.68273,
+    "gdp_2018": 17907.67463
+  },
+  {
+    "country": "Russian Federation",
+    "country_code": "RUS",
+    "gdp_1990": 8010.381893,
+    "gdp_2006": 6825.406038,
+    "gdp_2011": 14912.2453,
+    "gdp_2018": 24310.04397
+  },
+  {
+    "country": "Rwanda",
+    "country_code": "RWA",
+    "gdp_1990": 561.8209842,
+    "gdp_2006": 637.9898128,
+    "gdp_2011": 1054.465817,
+    "gdp_2018": 1486.655474
+  },
+  {
+    "country": "South Asia",
+    "country_code": "SAS",
+    "gdp_1990": 1276.960318,
+    "gdp_2006": 2134.106501,
+    "gdp_2011": 3210.32677,
+    "gdp_2018": 4351.006502
+  },
+  {
+    "country": "Saudi Arabia",
+    "country_code": "SAU",
+    "gdp_1990": 27709.39272,
+    "gdp_2006": 34440.70584,
+    "gdp_2011": 41927.62125,
+    "gdp_2018": 48473.70921
+  },
+  {
+    "country": "Sudan",
+    "country_code": "SDN",
+    "gdp_1990": 1143.53876,
+    "gdp_2006": 1845.523341,
+    "gdp_2011": 2702.901009,
+    "gdp_2018": 3643.092161
+  },
+  {
+    "country": "Senegal",
+    "country_code": "SEN",
+    "gdp_1990": 1507.67839,
+    "gdp_2006": 1923.982135,
+    "gdp_2011": 2458.169034,
+    "gdp_2018": 2739.335655
+  },
+  {
+    "country": "Singapore",
+    "country_code": "SGP",
+    "gdp_1990": 22655.11867,
+    "gdp_2006": 41662.74367,
+    "gdp_2011": 60745.45587,
+    "gdp_2018": 76034.33406
+  },
+  {
+    "country": "Solomon Islands",
+    "country_code": "SLB",
+    "gdp_1990": 1221.941509,
+    "gdp_2006": 1445.486229,
+    "gdp_2011": 1611.374058,
+    "gdp_2018": 2064.595803
+  },
+  {
+    "country": "Sierra Leone",
+    "country_code": "SLE",
+    "gdp_1990": 810.1181546,
+    "gdp_2006": 723.1020523,
+    "gdp_2011": 985.790854,
+    "gdp_2018": 1255.453038
+  },
+  {
+    "country": "El Salvador",
+    "country_code": "SLV",
+    "gdp_1990": 2927.952216,
+    "gdp_2006": 4466.055172,
+    "gdp_2011": 5614.58149,
+    "gdp_2018": 6492.63255
+  },
+  {
+    "country": "San Marino",
+    "country_code": "SMR",
+    "gdp_1990": "",
+    "gdp_2006": 60124.60568,
+    "gdp_2011": 78463.94477,
+    "gdp_2018": 65725.56752
+  },
+  {
+    "country": "Somalia",
+    "country_code": "SOM",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Serbia",
+    "country_code": "SRB",
+    "gdp_1990": "",
+    "gdp_2006": 5726.130474,
+    "gdp_2011": 10198.61081,
+    "gdp_2018": 13746.92668
+  },
+  {
+    "country": "Sub-Saharan Africa (excluding high income)",
+    "country_code": "SSA",
+    "gdp_1990": 1718.319862,
+    "gdp_2006": 1983.586291,
+    "gdp_2011": 2729.701316,
+    "gdp_2018": 3350.823168
+  },
+  {
+    "country": "South Sudan",
+    "country_code": "SSD",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": 3094.906841
+  },
+  {
+    "country": "Sub-Saharan Africa",
+    "country_code": "SSF",
+    "gdp_1990": 1719.344018,
+    "gdp_2006": 1985.14037,
+    "gdp_2011": 2731.306962,
+    "gdp_2018": 3352.703186
+  },
+  {
+    "country": "Small states",
+    "country_code": "SST",
+    "gdp_1990": "",
+    "gdp_2006": 9908.134164,
+    "gdp_2011": 15073.32687,
+    "gdp_2018": 20249.80368
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "country_code": "STP",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": 2147.582509,
+    "gdp_2018": 2612.010147
+  },
+  {
+    "country": "Suriname",
+    "country_code": "SUR",
+    "gdp_1990": 6759.85989,
+    "gdp_2006": 7799.400009,
+    "gdp_2011": 11453.18223,
+    "gdp_2018": 14788.068
+  },
+  {
+    "country": "Slovak Republic",
+    "country_code": "SVK",
+    "gdp_1990": "",
+    "gdp_2006": 11378.14219,
+    "gdp_2011": 18894.40435,
+    "gdp_2018": 26049.79238
+  },
+  {
+    "country": "Slovenia",
+    "country_code": "SVN",
+    "gdp_1990": 12360.48416,
+    "gdp_2006": 18003.72503,
+    "gdp_2011": 25693.73095,
+    "gdp_2018": 28931.38371
+  },
+  {
+    "country": "Sweden",
+    "country_code": "SWE",
+    "gdp_1990": 20218.56338,
+    "gdp_2006": 29453.55155,
+    "gdp_2011": 37435.37573,
+    "gdp_2018": 44503.67324
+  },
+  {
+    "country": "Eswatini",
+    "country_code": "SWZ",
+    "gdp_1990": 3655.331297,
+    "gdp_2006": 4905.545477,
+    "gdp_2011": 7005.219336,
+    "gdp_2018": 8370.819097
+  },
+  {
+    "country": "Sint Maarten (Dutch part)",
+    "country_code": "SXM",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": 36340.24464
+  },
+  {
+    "country": "Seychelles",
+    "country_code": "SYC",
+    "gdp_1990": 9225.468909,
+    "gdp_2006": 14684.04361,
+    "gdp_2011": 17520.16314,
+    "gdp_2018": 22556.58257
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "country_code": "SYR",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": ""
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "country_code": "TCA",
+    "gdp_1990": "",
+    "gdp_2006": "",
+    "gdp_2011": "",
+    "gdp_2018": 19845.63099
+  },
+  {
+    "country": "Chad",
+    "country_code": "TCD",
+    "gdp_1990": 719.8190101,
+    "gdp_2006": 789.0857645,
+    "gdp_2011": 1595.093799,
+    "gdp_2018": 1852.938156
+  },
+  {
+    "country": "East Asia & Pacific (IDA & IBRD countries)",
+    "country_code": "TEA",
+    "gdp_1990": 1457.916176,
+    "gdp_2006": 3331.012877,
+    "gdp_2011": 5975.366075,
+    "gdp_2018": 9676.71589
+  },
+  {
+    "country": "Europe & Central Asia (IDA & IBRD countries)",
+    "country_code": "TEC",
+    "gdp_1990": 6516.116604,
+    "gdp_2006": 6566.383937,
+    "gdp_2011": 11926.1642,
+    "gdp_2018": 17875.27319
+  },
+  {
+    "country": "Togo",
+    "country_code": "TGO",
+    "gdp_1990": 842.6164438,
+    "gdp_2006": 983.1198991,
+    "gdp_2011": 1065.777629,
+    "gdp_2018": 1286.470497
+  },
+  {
+    "country": "Thailand",
+    "country_code": "THA",
+    "gdp_1990": 4317.519756,
+    "gdp_2006": 7312.810698,
+    "gdp_2011": 11039.84209,
+    "gdp_2018": 13537.48834
+  },
+  {
+    "country": "Tajikistan",
+    "country_code": "TJK",
+    "gdp_1990": 2375.937064,
+    "gdp_2006": 943.1371819,
+    "gdp_2011": 1658.496929,
+    "gdp_2018": 2245.785335
+  },
+  {
+    "country": "Turkmenistan",
+    "country_code": "TKM",
+    "gdp_1990": 5396.954295,
+    "gdp_2006": 4243.798539,
+    "gdp_2011": 6539.938877,
+    "gdp_2018": 11212.4865
+  },
+  {
+    "country": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "country_code": "TLA",
+    "gdp_1990": 5941.420264,
+    "gdp_2006": 8727.970333,
+    "gdp_2011": 11326.51806,
+    "gdp_2018": 14240.95759
+  },
+  {
+    "country": "Timor-Leste",
+    "country_code": "TLS",
+    "gdp_1990": "",
+    "gdp_2006": 2597.769954,
+    "gdp_2011": 8277.114781,
+    "gdp_2018": 9860.331546
+  },
+  {
+    "country": "Middle East & North Africa (IDA & IBRD countries)",
+    "country_code": "TMN",
+    "gdp_1990": 5284.488729,
+    "gdp_2006": 7413.21342,
+    "gdp_2011": 9957.018439,
+    "gdp_2018": 11722.82171
+  },
+  {
+    "country": "Tonga",
+    "country_code": "TON",
+    "gdp_1990": 2321.4358,
+    "gdp_2006": 3665.902526,
+    "gdp_2011": 4474.59379,
+    "gdp_2018": 5151.454825
+  },
+  {
+    "country": "South Asia (IDA & IBRD)",
+    "country_code": "TSA",
+    "gdp_1990": 1276.960318,
+    "gdp_2006": 2134.106501,
+    "gdp_2011": 3210.32677,
+    "gdp_2018": 4351.006502
+  },
+  {
+    "country": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "country_code": "TSS",
+    "gdp_1990": 1719.344018,
+    "gdp_2006": 1985.14037,
+    "gdp_2011": 2731.306962,
+    "gdp_2018": 3352.703186
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "country_code": "TTO",
+    "gdp_1990": 7080.989817,
+    "gdp_2006": 14590.83383,
+    "gdp_2011": 27346.16638,
+    "gdp_2018": 30980.45449
+  },
+  {
+    "country": "Tunisia",
+    "country_code": "TUN",
+    "gdp_1990": 3639.389213,
+    "gdp_2006": 6021.264395,
+    "gdp_2011": 8421.998833,
+    "gdp_2018": 10139.13146
+  },
+  {
+    "country": "Turkey",
+    "country_code": "TUR",
+    "gdp_1990": 6141.073464,
+    "gdp_2006": 9583.78065,
+    "gdp_2011": 13621.46548,
+    "gdp_2018": 19651.67848
+  },
+  {
+    "country": "Tuvalu",
+    "country_code": "TUV",
+    "gdp_1990": 1542.80705,
+    "gdp_2006": 2428.493554,
+    "gdp_2011": 2672.208254,
+    "gdp_2018": 3180.104184
+  },
+  {
+    "country": "Tanzania",
+    "country_code": "TZA",
+    "gdp_1990": 1002.928575,
+    "gdp_2006": 1245.069474,
+    "gdp_2011": 1815.144391,
+    "gdp_2018": 2329.330437
+  },
+  {
+    "country": "Uganda",
+    "country_code": "UGA",
+    "gdp_1990": 501.7489953,
+    "gdp_2006": 849.103967,
+    "gdp_2011": 1242.210442,
+    "gdp_2018": 1679.937855
+  },
+  {
+    "country": "Ukraine",
+    "country_code": "UKR",
+    "gdp_1990": 6790.330547,
+    "gdp_2006": 3817.510547,
+    "gdp_2011": 7227.729835,
+    "gdp_2018": 8281.867126
+  },
+  {
+    "country": "Upper middle income",
+    "country_code": "UMC",
+    "gdp_1990": 3409.172823,
+    "gdp_2006": 5419.379683,
+    "gdp_2011": 8834.500571,
+    "gdp_2018": 13106.17993
+  },
+  {
+    "country": "Uruguay",
+    "country_code": "URY",
+    "gdp_1990": 6386.691086,
+    "gdp_2006": 10249.7381,
+    "gdp_2011": 12399.89304,
+    "gdp_2018": 17993.44754
+  },
+  {
+    "country": "United States",
+    "country_code": "USA",
+    "gdp_1990": 23888.60001,
+    "gdp_2006": 36334.90878,
+    "gdp_2011": 46298.73144,
+    "gdp_2018": 49883.11398
+  },
+  {
+    "country": "Uzbekistan",
+    "country_code": "UZB",
+    "gdp_1990": 2499.383715,
+    "gdp_2006": 2499.496162,
+    "gdp_2011": 3740.23256,
+    "gdp_2018": 5502.049022
+  },
+  {
+    "country": "St. Vincent and the Grenadines",
+    "country_code": "VCT",
+    "gdp_1990": 3619.212246,
+    "gdp_2006": 6018.054836,
+    "gdp_2011": 9223.366048,
+    "gdp_2018": 9965.064507
+  },
+  {
+    "country": "Venezuela, RB",
+    "country_code": "VEN",
+    "gdp_1990": 9486.936761,
+    "gdp_2006": 11609.45843,
+    "gdp_2011": 15038.96211,
+    "gdp_2018": 17319.28961
+  },
+  {
+    "country": "Vietnam",
+    "country_code": "VNM",
+    "gdp_1990": 945.8703268,
+    "gdp_2006": 2048.363759,
+    "gdp_2011": 3332.143253,
+    "gdp_2018": 4662.223052
+  },
+  {
+    "country": "Vanuatu",
+    "country_code": "VUT",
+    "gdp_1990": 1654.986462,
+    "gdp_2006": 2247.43859,
+    "gdp_2011": 2537.567155,
+    "gdp_2018": 2905.904722
+  },
+  {
+    "country": "World",
+    "country_code": "WLD",
+    "gdp_1990": 5498.504312,
+    "gdp_2006": 7986.020966,
+    "gdp_2011": 10959.07067,
+    "gdp_2018": 13592.33638
+  },
+  {
+    "country": "Samoa",
+    "country_code": "WSM",
+    "gdp_1990": 2397.690956,
+    "gdp_2006": 3487.169815,
+    "gdp_2011": 5027.896853,
+    "gdp_2018": 5655.137334
+  },
+  {
+    "country": "Kosovo",
+    "country_code": "XKX",
+    "gdp_1990": "",
+    "gdp_2006": 3688.088054,
+    "gdp_2011": 6390.420478,
+    "gdp_2018": 8222.285712
+  },
+  {
+    "country": "Yemen, Rep.",
+    "country_code": "YEM",
+    "gdp_1990": 2223.028771,
+    "gdp_2006": 3181.383522,
+    "gdp_2011": 3915.384569,
+    "gdp_2018": 3876.302619
+  },
+  {
+    "country": "South Africa",
+    "country_code": "ZAF",
+    "gdp_1990": 6424.502215,
+    "gdp_2006": 7719.255957,
+    "gdp_2011": 10524.34606,
+    "gdp_2018": 12179.17419
+  },
+  {
+    "country": "Zambia",
+    "country_code": "ZMB",
+    "gdp_1990": 1517.926292,
+    "gdp_2006": 1691.967387,
+    "gdp_2011": 2434.454195,
+    "gdp_2018": 3419.01046
+  },
+  {
+    "country": "Zimbabwe",
+    "country_code": "ZWE",
+    "gdp_1990": 1829.677575,
+    "gdp_2006": 2344.271146,
+    "gdp_2011": 1738.51425,
+    "gdp_2018": 2168.110293
+  }
+]

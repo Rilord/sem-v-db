@@ -4,18 +4,13 @@ create or replace function insert_cofee_shop()
 returns trigger
 as $$
     result = plpy.execute(
-        f"select c.customer_of_the_week_name, count(*) from public.coffee_shop c
-    where c.customer_of_the_week_name = '{TD['new']['customer_of_the_week_name']}'
-    group by c.customer_of_the_week_name;")
+        f"select c.customer_of_the_week_name, count(*) from public.coffee_shop c where c.customer_of_the_week_name = '{TD['new']['customer_of_the_week_name']}' group by c.customer_of_the_week_name;")
     if result.nrows() >= 2:
-        plpy.notice(f"'{result[0]['customer_of_the_week_name']}'
-            is the customer in '{result[0]['count']}' is unreal!")
+        plpy.notice(f"'{result[0]['customer_of_the_week_name']}' is the customer in '{result[0]['count']}' is unreal!")
         return "SKIP"
     else:
         survey_check = plpy.execute(
-            f"select count(*) from public.survey where 
-            s.name = new.customer_of_the_week_name;
-            "
+            f"select count(*) from public.survey where s.name = '{TD['new']['customer_of_the_week_name']}';"
         )
         if result.nrows() == 0:
             plpy.notice(f"no '{result[0]['customer_of_the_week_name']}' in survey")
