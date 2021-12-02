@@ -1,16 +1,14 @@
 const express = require('express')
 const controllers = require('./controllers')
+const cors = require('cors');
 const app = express()
 const port = process.env.PORT | 3011;
 
 app.use(express.json())
+app.use(express.urlencoded({ extended: true }));
 
-app.use(function (req, res, next) {
-	res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3000');
-  res.setHeader('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE,OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Access-Control-Allow-Headers');
-  next();
-});
+app.use(cors());
+
 
 app.get('/', (req, res) => {
 	res.status(200).send('Hello!');
@@ -28,6 +26,7 @@ app.post('/upload', (req, res) => {
 })
 
 app.post('/select', (req, res) => {
+	console.debug(req.body);
 	controllers.selectQuery(req.body)
 		.then(response => {
 			res.status(200).send(response);

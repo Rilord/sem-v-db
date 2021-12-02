@@ -1,5 +1,6 @@
 import './App.css';
 import React, { Component, useState, useEffect} from 'react';
+import axios from 'axios';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 class Table extends Component {
@@ -150,22 +151,13 @@ class App extends Component {
 		}
 	}
 
-	selectQuery = (event) => {
-		event.preventDefault();
+	selectQuery = () => {
 		const copy = this;
-		fetch('http://localhost:3011/select', {
-			method: 'POST',
-			headers: {
-				'Content-Type': 'application/json',
-			},
-			body: JSON.stringify({ "query": this.state.selQuery }),
-		})
+		axios.post('/api/select', { query: this.state.selQuery })
 			.then(response => {
-				return response.text();
-			})
-			.then(data => {
+				console.log(response);
 				copy.setState({ selectExecuted: false });
-				copy.setState({ selectResult: JSON.parse(data) });
+				copy.setState({ selectResult: response.data });
 				copy.setState({ selectExecuted: true });
 			});
 	}
@@ -178,24 +170,26 @@ class App extends Component {
 		this.setState({ updQuery: event.target.value });
 	}
 
-	updateQuery = (event) => {
-		event.preventDefault();
+	updateQuery = () => {
 		const copy = this;
-		fetch('http://localhost:3011/update', {
-			method: 'POST',
-			headers: {
-				'Content-Type': 'application/json',
-			},
-			body: JSON.stringify({ "query": this.state.updQuery }),
-		})
+		axios.post('/api/update', { query: this.state.updQuery })
 			.then(response => {
-				return response.text();
-			})
-			.then(data => {
 				copy.setState({ updateExecuted: false });
-				copy.setState({ updateResult: JSON.parse(data) });
+				copy.setState({ updateResult: response.data });
 				copy.setState({ updateExecuted: true });
 			});
+	}
+
+	selectQueryFormHandler = (event)  => {
+		event.preventDefault();
+
+		this.selectQuery();
+	}
+
+	updateQueryFormHandler = (event)  => {
+		event.preventDefault();
+
+		this.updateQuery();
 	}
 
 
@@ -219,7 +213,7 @@ class App extends Component {
 				<div class="container">
 					<div class="row selectForm">
 						<div class="col">
-							<form onSubmit={this.selectQuery}>
+							<form onSubmit={this.selectQueryFormHandler}>
 								<div class="form-group col-md-6">
 									<label for="queryInput">Enter your select query</label>
 									<div class="">
@@ -230,7 +224,7 @@ class App extends Component {
 							</form>
 						</div>
 						<div class="col">
-							<form onSubmit={this.updateQuery}>
+							<form onSubmit={this.updateQueryFormHandler}>
 								<div class="form-group col-md-6">
 									<label for="queryInput">Enter your update query</label>
 									<div class="">

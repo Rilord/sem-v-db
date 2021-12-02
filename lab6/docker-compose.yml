@@ -1,20 +1,31 @@
-version: '1'
+version: '3.8'
+
 
 services:
-  react-front:
-    image: postgres-app:dev
-    container_name: "frontend"
-    ports:
-      - "3000:3000"
-    links:
-      - restapi
-
-  react-backend:
-    image: postgres-backend:dev
+  client:
+    build:
+      dockerfile: Dockerfile
+      context: ./postgres-app
+    volumes:
+      - /app/node_modules
+      - ./postgres-app:/app
+  api:
+    build:
+      dockerfile: Dockerfile
+      context: "./server"
+    volumes:
+      - /app/node_modules
+      - ./server:/app
     env_file:
       - .env
-    container_name: "backend"
-    expose:
-      - 3011
+  nginx:
+    depends_on:
+      - api
+      - client
+    restart: always
+    build:
+      dockerfile: Dockerfile
+      context: ./proxy
     ports:
-      - "3011:3011"
+      - "3050:80"
+
